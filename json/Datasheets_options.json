@@ -4872,213 +4872,101 @@
     "is_index_wargear": "false"
   },
   {
-    "datasheet_id": "000000679",
-    "line": "1",
-    "button": "•",
-    "description": "This model may take a chainsword or an item from the Melee Weapons list.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000679",
-    "line": "2",
-    "button": "•",
-    "description": "This model may replace its laspistol with an item from the Ranged Weapons list.",
-    "is_index_wargear": "false"
-  },
-  {
     "datasheet_id": "000000680",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its battle cannon with an exterminator autocannon, vanquisher battle cannon, eradicator nova cannon, demolisher cannon, punisher gatling cannon or executioner plasma cannon.",
+    "description": "This model’s Leman Russ battle cannon can be replaced with one of the following: 1 demolisher battle cannon; 1 eradicator nova cannon; 1 executioner plasma cannon; 1 exterminator autocannon; 1 punisher gatling cannon; 1 vanquisher battle cannon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000680",
     "line": "2",
     "button": "•",
-    "description": "This model may replace its heavy bolter with a heavy flamer or a lascannon.",
+    "description": "This model’s lascannon can be replaced with one of the following: 1 heavy bolter; 1 heavy flamer.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000680",
     "line": "3",
     "button": "•",
-    "description": "This model may take two heavy bolters, two heavy flamers, two multi-meltas or two plasma cannons.",
+    "description": "This model can be equipped with one of the following: 2 heavy bolters; 2 heavy flamers; 2 multi-meltas; 2 Militarum plasma cannons.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000680",
     "line": "4",
     "button": "•",
-    "description": "This model may take items from the Vehicle Equipment list.",
+    "description": "This model can be equipped with one of the following: 1 heavy stubber; 1 storm bolter.",
     "is_index_wargear": "false"
   },
   {
-    "datasheet_id": "000000682",
-    "line": "1",
-    "button": "•",
-    "description": "This model may take a chainsword or an item from the Melee Weapons list.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000682",
-    "line": "2",
-    "button": "•",
-    "description": "This model may replace its laspistol with an item from the Ranged Weapons list.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000683",
-    "line": "1",
-    "button": "•",
-    "description": "Any Veteran may replace their lasgun with a laspistol.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000683",
-    "line": "2",
-    "button": "•",
-    "description": "Any Veteran with a laspistol may also take a chainsword.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000683",
-    "line": "3",
-    "button": "•",
-    "description": "One Veteran may take a vox-caster.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000683",
-    "line": "4",
-    "button": "•",
-    "description": "One other Veteran may replace their lasgun with a heavy flamer.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000683",
+    "datasheet_id": "000000680",
     "line": "5",
     "button": "•",
-    "description": "One other Veteran may take a regimental standard.",
+    "description": "This model can be equipped with 1 dozer blade.",
     "is_index_wargear": "false"
   },
   {
-    "datasheet_id": "000000683",
+    "datasheet_id": "000000680",
     "line": "6",
     "button": "•",
-    "description": "One other Veteran may take a medi-pack.",
+    "description": "This model can be equipped with 1 hunter-killer missile.",
     "is_index_wargear": "false"
   },
   {
-    "datasheet_id": "000000683",
+    "datasheet_id": "000000680",
     "line": "7",
     "button": "•",
-    "description": "Two other Veterans may form a Veteran Heavy Weapons Team which must take an item from the Heavy Weapons list.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000683",
-    "line": "8",
-    "button": "•",
-    "description": "Any other Veteran may replace their lasgun with an item from the Special Weapons list.",
+    "description": "This model can be equipped with 1 armoured tracks.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000684",
     "line": "1",
     "button": "•",
-    "description": "One Guardsman may take a vox-caster.",
+    "description": "1 Guardsman’s lasgun can be replaced with one of the following: 1 flamer; 1 grenade launcher; 1 meltagun; 1 plasma gun; 1 sniper rifle.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000684",
     "line": "2",
     "button": "•",
-    "description": "Two other Guardsmen may form a Heavy Weapons Team who must take an item from the Heavy Weapons list.",
+    "description": "1 Guardsman equipped with a lasgun can be equipped with 1 vox-caster. This model’s lasgun cannot be replaced.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000684",
     "line": "3",
     "button": "•",
-    "description": "One other Guardsman may replace his lasgun with an item from the Special Weapons list.",
+    "description": "The Sergeant can be equipped with one of the following: 1 chainsword; 1 power sword.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000684",
     "line": "4",
     "button": "•",
-    "description": "The Sergeant may replace their laspistol with an item from the Ranged Weapons list.",
+    "description": "The Sergeant’s laspistol can be replaced with one of the following: 1 bolt pistol; 1 boltgun; 1 plasma pistol.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000684",
     "line": "5",
     "button": "•",
-    "description": "The Sergeant may take a chainsword or a power sword.",
+    "description": "2 Guardsman models can be replaced with 1 Heavy Weapons Team model.",
     "is_index_wargear": "false"
   },
   {
-    "datasheet_id": "000000685",
-    "line": "1",
+    "datasheet_id": "000000684",
+    "line": "6",
     "button": "•",
-    "description": "Three models must replace their lasgun with an item from the Special Weapons list.",
+    "description": "The Heavy Weapons Team’s heavy bolter can be replaced with one of the following: 1 autocannon; 1 lascannon; 1 missile launcher; 1 mortar.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000686",
     "line": "1",
     "button": "•",
-    "description": "Each model must take an item from the Heavy Weapons list.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000687",
-    "line": "1",
-    "button": "•",
-    "description": "Any Veteran may replace their lasgun with a shotgun or an autogun.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000687",
-    "line": "2",
-    "button": "•",
-    "description": "One Veteran may take a vox-caster.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000687",
-    "line": "3",
-    "button": "•",
-    "description": "One other Veteran may replace their lasgun with a heavy flamer.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000687",
-    "line": "4",
-    "button": "•",
-    "description": "Two other Veterans may form a Veteran Heavy Weapons Team who must take an item from the Heavy Weapons list.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000687",
-    "line": "5",
-    "button": "•",
-    "description": "Up to three other Veterans may replace their lasgun with an item from the Special Weapons list.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000687",
-    "line": "6",
-    "button": "•",
-    "description": "The Veteran Sergeant may take a chainsword or an item from the Melee Weapons list.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000687",
-    "line": "7",
-    "button": "•",
-    "description": "The Veteran Sergeant may replace their laspistol with an item from the Ranged Weapons list.",
+    "description": "Any number of models can each have their heavy bolter replaced with one of the following: 1 autocannon; 1 lascannon; 1 missile launcher; 1 mortar.",
     "is_index_wargear": "false"
   },
   {
@@ -5106,532 +4994,721 @@
     "datasheet_id": "000000690",
     "line": "1",
     "button": "•",
-    "description": "Any model may replace its multi-laser with a heavy flamer, autocannon, missile launcher or lascannon.",
+    "description": "Any number of models can each have their Militarum multi-laser replaced with one of the following: 1 autocannon; 1 heavy flamer; 1 lascannon; 1 missile launcher; 1 Militarum plasma cannon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000690",
     "line": "2",
     "button": "•",
-    "description": "Any model may take a Sentinel chainsaw.",
+    "description": "Any number of models can each be equipped with 1 Sentinel chainsaw.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000690",
     "line": "3",
     "button": "•",
-    "description": "Any model may take a hunter-killer missile.",
+    "description": "Any number of models can each be equipped with 1 hunter-killer missile.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000691",
     "line": "1",
     "button": "•",
-    "description": "Any model may replace its multi-laser with a heavy flamer, autocannon, missile launcher, lascannon or plasma cannon.",
+    "description": "Any number of models can each have their Militarum multi-laser replaced with one of the following: 1 autocannon; 1 heavy flamer; 1 lascannon; 1 missile launcher; 1 Militarum plasma cannon,",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000691",
     "line": "2",
     "button": "•",
-    "description": "Any model may take a Sentinel chainsaw.",
+    "description": "Any number of models can each be equipped with 1 Sentinel chainsaw.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000691",
     "line": "3",
     "button": "•",
-    "description": "Any model may take a hunter-killer missile.",
+    "description": "Any number of models can each be equipped with 1 hunter-killer missile.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000692",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its heavy bolter with a heavy flamer.",
+    "description": "This model’s heavy bolter can be replaced with 1 heavy flamer.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000692",
     "line": "2",
     "button": "•",
-    "description": "This model may replace its multi-laser with a heavy flamer or a heavy bolter.",
+    "description": "This model’s Chimera multi-laser can be replaced with one of the following: 1 Chimera heavy bolter; 1 Chimera heavy flamer.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000692",
     "line": "3",
     "button": "•",
-    "description": "This model may take items from the Vehicle Equipment list.",
+    "description": "This model can be equipped with one of the following: 1 heavy stubber; 1 storm bolter.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000692",
+    "line": "4",
+    "button": "•",
+    "description": "This model can be equipped with 1 dozer blade",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000692",
+    "line": "5",
+    "button": "•",
+    "description": "This model can be equipped with 1 hunter-killer missile.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000692",
+    "line": "6",
+    "button": "•",
+    "description": "This model can be equipped with 1 armoured tracks.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000693",
     "line": "1",
     "button": "•",
-    "description": "This model may take a storm bolter or heavy stubber.",
+    "description": "This model can be equipped with 1 storm bolter.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000694",
     "line": "1",
     "button": "•",
-    "description": "Any model may replace its heavy bolter with a heavy flamer or a multi-melta.",
+    "description": "This model’s inferno cannon can be replaced with one of the following: 1 chem cannon; 1 melta cannon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000694",
     "line": "2",
     "button": "•",
-    "description": "Any model may take items from the Vehicle Equipment list.",
+    "description": "This model’s heavy flamer can be replaced with one of the following: 1 heavy bolter; 1 multi-melta.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000694",
+    "line": "3",
+    "button": "•",
+    "description": "This model can be equipped with 1 dozer blade.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000694",
+    "line": "4",
+    "button": "•",
+    "description": "This model can be equipped with 1 hunter-killer missile.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000694",
+    "line": "5",
+    "button": "•",
+    "description": "This model can be equipped with 1 armoured tracks.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000695",
     "line": "1",
     "button": "•",
-    "description": "Any model may replace its heavy bolter with a heavy flamer.",
+    "description": "This model’s heavy flamer can be replaced with 1 heavy bolter.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000695",
     "line": "2",
     "button": "•",
-    "description": "Any model may take items from the Vehicle Equipment list.",
+    "description": "This model can be equipped with 1 dozer blade.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000695",
+    "line": "3",
+    "button": "•",
+    "description": "This model can be equipped with 1 hunter-killer missile.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000695",
+    "line": "4",
+    "button": "•",
+    "description": "This model can be equipped with 1 armoured tracks.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000696",
     "line": "1",
     "button": "•",
-    "description": "Any model may replace its heavy bolter with a heavy flamer.",
+    "description": "This model’s heavy bolter can be replaced with 1 heavy flamer.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000696",
     "line": "2",
     "button": "•",
-    "description": "Any model may take items from the Vehicle Equipment list.",
+    "description": "This model can be equipped with 1 dozer blade.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000696",
+    "line": "3",
+    "button": "•",
+    "description": "This model can be equipped with 1 hunter-killer missile.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000696",
+    "line": "4",
+    "button": "•",
+    "description": "This model can be equipped with 1 armoured tracks.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000697",
     "line": "1",
     "button": "•",
-    "description": "Any model may replace its heavy bolter with a heavy flamer.",
+    "description": "This model’s heavy bolter can replaced with 1 heavy flamer.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000697",
     "line": "2",
     "button": "•",
-    "description": "Any model may take items from the Vehicle Equipment list.",
+    "description": "This model can be equipped with 1 dozer blade.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000697",
+    "line": "3",
+    "button": "•",
+    "description": "This model can be equipped with 1 hunter-killer missile.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000697",
+    "line": "4",
+    "button": "•",
+    "description": "This model can be equipped with 1 armoured tracks.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000698",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its heavy bolter with a heavy flamer.",
+    "description": "This model’s heavy bolter can be replaced with 1 heavy flamer.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000698",
     "line": "2",
     "button": "•",
-    "description": "This model may take items from the Vehicle Equipment list.",
+    "description": "This model can be equipped with 1 dozer blade.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000698",
+    "line": "3",
+    "button": "•",
+    "description": "This model can be equipped with 1 hunter-killer missile.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000698",
+    "line": "4",
+    "button": "•",
+    "description": "This model can be equipped with 1 armoured tracks.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000699",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its heavy bolter with a heavy flamer.",
+    "description": "This model’s heavy bolter can be replaced with 1 heavy flamer.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000699",
     "line": "2",
     "button": "•",
-    "description": "This model may take items from the Vehicle Equipment list.",
+    "description": "This model can be equipped with 1 dozer blade.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000699",
+    "line": "3",
+    "button": "•",
+    "description": "This model can be equipped with 1 hunter-killer missile.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000699",
+    "line": "4",
+    "button": "•",
+    "description": "This model can be equipped with 1 armoured tracks.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000700",
     "line": "1",
     "button": "•",
-    "description": "Any model may replace its battle cannon with an eradicator nova cannon, exterminator autocannon, vanquisher battle cannon, demolisher cannon, executioner plasma cannon or punisher gatling cannon.",
+    "description": "Any number of models can each have their Leman Russ battle cannon replaced with one of the following: 1 demolisher battle cannon; 1 eradicator nova cannon; 1 executioner plasma cannon; 1 exterminator autocannon; 1 punisher gatling cannon; 1 vanquisher battle cannon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000700",
     "line": "2",
     "button": "•",
-    "description": "Any model may replace its heavy bolter with a heavy flamer or a lascannon.",
+    "description": "Any number of models can each have their lascannon replaced with one of the following: 1 heavy bolter; 1 heavy flamer.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000700",
     "line": "3",
     "button": "•",
-    "description": "Any model may take two heavy bolters, two heavy flamers, two multi-meltas or two plasma cannons.",
+    "description": "Any number of models can each be equipped with one of the following: 2 heavy bolters; 2 heavy flamers; 2 multi-meltas; 2 Militarum plasma cannons.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000700",
     "line": "4",
     "button": "•",
-    "description": "Any model may take items from the Vehicle Equipment list.",
+    "description": "Any number of models can each be equipped with one of the following: 1 heavy stubber, 1 storm bolter.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000700",
+    "line": "5",
+    "button": "•",
+    "description": "Any number of models can each be equipped with 1 dozer blade.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000700",
+    "line": "6",
+    "button": "•",
+    "description": "Any number of models can each be equipped with 1 hunter-killer missile.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000700",
+    "line": "7",
+    "button": "•",
+    "description": "Any number of models can each be equipped with 1 armoured tracks.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000702",
     "line": "1",
     "button": "•",
-    "description": "This model may take a hunter-killer missile.",
+    "description": "This model’s 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000702",
     "line": "2",
     "button": "•",
-    "description": "This model may take a storm bolter or a heavy stubber.",
+    "description": "This model can additionally be equipped with one of the following:",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000702",
     "line": "3",
-    "button": "•",
-    "description": "This model may take either two sponsons, or four sponsons; each sponson is equipped with a lascannon and either a twin heavy bolter or twin heavy flamer.",
+    "button": "○",
+    "description": "2 lascannons and 2 twin heavy bolters.",
     "is_index_wargear": "false"
   },
   {
-    "datasheet_id": "000000703",
-    "line": "1",
-    "button": "•",
-    "description": "This model may take a hunter-killer missile.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000703",
-    "line": "2",
-    "button": "•",
-    "description": "This model may take a storm bolter or a heavy stubber.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000703",
-    "line": "3",
-    "button": "•",
-    "description": "This model may take either two sponsons, or four sponsons; each sponson is equipped with a lascannon and either a twin heavy bolter or twin heavy flamer.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000704",
-    "line": "1",
-    "button": "•",
-    "description": "This model may take a hunter-killer missile.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000704",
-    "line": "2",
-    "button": "•",
-    "description": "This model may take a storm bolter or a heavy stubber.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000704",
-    "line": "3",
-    "button": "•",
-    "description": "This model may take either two sponsons, or four sponsons; each sponson is equipped with a lascannon and either a twin heavy bolter or twin heavy flamer.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000705",
-    "line": "1",
-    "button": "•",
-    "description": "This model may take a hunter-killer missile.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000705",
-    "line": "2",
-    "button": "•",
-    "description": "This model may take a storm bolter or a heavy stubber.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000705",
-    "line": "3",
-    "button": "•",
-    "description": "This model may take either two sponsons, or four sponsons; each sponson is equipped with a lascannon and either a twin heavy bolter or twin heavy flamer.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000706",
-    "line": "1",
-    "button": "•",
-    "description": "This model may take a hunter-killer missile.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000706",
-    "line": "2",
-    "button": "•",
-    "description": "This model may take a storm bolter or a heavy stubber.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000706",
-    "line": "3",
-    "button": "•",
-    "description": "This model may take either two sponsons, or four sponsons; each sponson is equipped with a lascannon and either a twin heavy bolter or twin heavy flamer.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000707",
-    "line": "1",
-    "button": "•",
-    "description": "This model may take a hunter-killer missile.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000707",
-    "line": "2",
-    "button": "•",
-    "description": "This model may take a storm bolter or a heavy stubber.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000707",
-    "line": "3",
-    "button": "•",
-    "description": "This model may take either two sponsons, or four sponsons; each sponson is equipped with a lascannon and either a twin heavy bolter or twin heavy flamer.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000708",
-    "line": "1",
-    "button": "•",
-    "description": "This model may take a hunter-killer missile.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000708",
-    "line": "2",
-    "button": "•",
-    "description": "This model may take a storm bolter or a heavy stubber.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000708",
-    "line": "3",
-    "button": "•",
-    "description": "This model may take either two sponsons, or four sponsons; each sponson is equipped with a lascannon and either a twin heavy bolter or twin heavy flamer.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000709",
-    "line": "1",
-    "button": "•",
-    "description": "This model may take a hunter-killer missile.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000709",
-    "line": "2",
-    "button": "•",
-    "description": "This model may take a storm bolter or a heavy stubber.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000709",
-    "line": "3",
-    "button": "•",
-    "description": "This model may take either two sponsons, or four sponsons; each sponson is equipped with a lascannon and either a twin heavy bolter or twin heavy flamer.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000712",
-    "line": "1",
-    "button": "•",
-    "description": "Hand of Steel’s battle cannon may be replaced with an exterminator autocannon, vanquisher battle cannon, eradicator nova cannon, demolisher cannon, punisher gatling cannon or executioner plasma cannon.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000712",
-    "line": "2",
-    "button": "•",
-    "description": "Hand of Steel’s heavy bolter may be replaced with a heavy flamer or a lascannon.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000712",
-    "line": "3",
-    "button": "•",
-    "description": "Hand of Steel may take two heavy bolters, two heavy flamers, two multi-meltas or two plasma cannons.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000712",
+    "datasheet_id": "000000702",
     "line": "4",
-    "button": "•",
-    "description": "Hand of Steel may take items from the Vehicle Equipment list.",
+    "button": "○",
+    "description": "2 lascannons and 2 twin heavy flamers.",
     "is_index_wargear": "false"
   },
   {
-    "datasheet_id": "000000715",
+    "datasheet_id": "000000703",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its power sword with up to two items from the Melee Weapons list.",
+    "description": "This model’s 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
     "is_index_wargear": "false"
   },
   {
-    "datasheet_id": "000000715",
+    "datasheet_id": "000000703",
     "line": "2",
     "button": "•",
-    "description": "This model may replace its bolt pistol with one item from the Ranged Weapons list.",
+    "description": "This model can additionally be equipped with one of the following:",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000703",
+    "line": "3",
+    "button": "○",
+    "description": "2 lascannons and 2 twin heavy bolters.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000703",
+    "line": "4",
+    "button": "○",
+    "description": "2 lascannons and 2 twin heavy flamers.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000704",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000704",
+    "line": "2",
+    "button": "•",
+    "description": "This model can additionally be equipped with one of the following:",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000704",
+    "line": "3",
+    "button": "○",
+    "description": "2 lascannons and 2 twin heavy bolters.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000704",
+    "line": "4",
+    "button": "○",
+    "description": "2 lascannons and 2 twin heavy flamers.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000705",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000705",
+    "line": "2",
+    "button": "•",
+    "description": "This model can additionally be equipped with one of the following:",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000705",
+    "line": "3",
+    "button": "○",
+    "description": "2 lascannons and 2 twin heavy bolters.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000705",
+    "line": "4",
+    "button": "○",
+    "description": "2 lascannons and 2 twin heavy flamers.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000706",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000706",
+    "line": "2",
+    "button": "•",
+    "description": "This model can additionally be equipped with one of the following:",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000706",
+    "line": "3",
+    "button": "○",
+    "description": "2 lascannons and 2 twin heavy bolters.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000706",
+    "line": "4",
+    "button": "○",
+    "description": "2 lascannons and 2 twin heavy flamers.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000707",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000707",
+    "line": "2",
+    "button": "•",
+    "description": "This model can additionally be equipped with one of the following:",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000707",
+    "line": "3",
+    "button": "○",
+    "description": "2 lascannons and 2 twin heavy bolters.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000707",
+    "line": "4",
+    "button": "○",
+    "description": "2 lascannons and 2 twin heavy flamers.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000708",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000708",
+    "line": "2",
+    "button": "•",
+    "description": "This model can additionally be equipped with one of the following:",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000708",
+    "line": "3",
+    "button": "○",
+    "description": "2 lascannons and 2 twin heavy bolters.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000708",
+    "line": "4",
+    "button": "○",
+    "description": "2 lascannons and 2 twin heavy flamers.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000709",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000709",
+    "line": "2",
+    "button": "•",
+    "description": "This model can additionally be equipped with one of the following:",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000709",
+    "line": "3",
+    "button": "○",
+    "description": "2 lascannons and 2 twin heavy bolters.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000709",
+    "line": "4",
+    "button": "○",
+    "description": "2 lascannons and 2 twin heavy flamers.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000716",
     "line": "1",
     "button": "•",
-    "description": "This model may take up to two items from the Melee Weapons list.",
+    "description": "This model’s bolt pistol can be replaced with 1 plasma pistol.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000716",
     "line": "2",
     "button": "•",
-    "description": "This model may replace their bolt pistol with an item from the Ranged Weapons list.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000718",
-    "line": "1",
-    "button": "•",
-    "description": "This model may take a chainsword or one item from the Melee Weapons list.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000718",
-    "line": "2",
-    "button": "•",
-    "description": "This model may replace its hot-shot laspistol with a Tempestus command rod, a bolt pistol or a plasma pistol.",
+    "description": "This model’s chainsword can be replaced with 1 power sword.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000719",
     "line": "1",
     "button": "•",
-    "description": "One model may either replace its hot-shot lasgun with a hot-shot laspistol and a vox-caster, or take a hot-shot laspistol and a vox-caster in addition to their hot-shot lasgun.",
+    "description": "Any number of Tempestus Scions can each have their hot-shot lasgun replaced with one of the following: 1 flamer; 1 grenade launcher; 1 hot-shot volley gun; 1 meltagun; 1 plasma gun.*",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000719",
     "line": "2",
     "button": "•",
-    "description": "One other model may either replace its hot-shot lasgun with a hot-shot laspistol and a medi-pack, or take a hot-shot laspistol and a medi-pack in addition to their hot-shot lasgun.",
+    "description": "1 Tempestus Scion’s hot-shot lasgun can be replaced with 1 hot-shot laspistol and 1 master vox.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000719",
     "line": "3",
     "button": "•",
-    "description": "One other model may take a platoon standard.",
+    "description": "1 Tempestus Scion equipped with a hot-shot lasgun can be equipped with 1 regimental standard.**",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000719",
     "line": "4",
     "button": "•",
-    "description": "Up to four other models may replace their hot-shot lasgun with a flamer, meltagun, plasma gun, grenade launcher or hot-shot volley gun.",
+    "description": "1 Tempestus Scion’s hot-shot lasgun can be replaced with one of the following:",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000719",
+    "line": "5",
+    "button": "○",
+    "description": "1 hot-shot laspistol and 1 medi-pack.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000719",
+    "line": "6",
+    "button": "○",
+    "description": "1 hot-shot lasgun, 1 hot-shot laspistol and 1 medi-pack.**",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000719",
+    "line": "7",
+    "button": "•",
+    "description": "The Tempestor Prime’s bolt pistol can be replaced with one of the following: 1 plasma pistol; 1 Tempestus command rod.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000719",
+    "line": "8",
+    "button": "",
+    "description": "",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000719",
+    "line": "9",
+    "button": "",
+    "description": "* You cannot select the same weapon more than once per unit.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000719",
+    "line": "10",
+    "button": "",
+    "description": "** This model’s hot-shot lasgun cannot be replaced.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000720",
     "line": "1",
     "button": "•",
-    "description": "One Tempestus Scion may either replace its hot-shot lasgun with a hot-shot laspistol and a vox-caster, or take a hot-shot laspistol and a vox-caster in addition to their hot-shot lasgun.",
+    "description": "For every 5 models in this unit, up to two Tempestus Scions can each have their hot-shot lasgun replaced with one of the following: 1 flamer; 1 grenade launcher; 1 hot-shot volley gun; 1 meltagun; 1 plasma gun*",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000720",
     "line": "2",
     "button": "•",
-    "description": "For every five models in the unit, up to two other Tempestus Scions may replace their hot-shot lasgun with a flamer, meltagun, plasma gun, grenade launcher or hot-shot volley gun.",
+    "description": "One Tempestus Scion’s hot-shot lasgun can be replaced with 1 hot-shot laspistol and 1 vox-caster.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000720",
     "line": "3",
     "button": "•",
-    "description": "The Tempestor may replace their chainsword with an item from the Melee Weapons list.",
+    "description": "The Tempestor’s chainsword can be replaced with one of the following: 1 power fist; 1 power sword.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000720",
     "line": "4",
     "button": "•",
-    "description": "The Tempestor may replace their hot-shot laspistol with a bolt pistol or plasma pistol.",
+    "description": "The Tempestor’s bolt pistol can be replaced with one of the following: 1 hot-shot laspistol; 1 plasma pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000720",
+    "line": "5",
+    "button": "",
+    "description": "",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000720",
+    "line": "6",
+    "button": "",
+    "description": "* You cannot select the same weapon more than once per unit, unless the unit contains 10 models, in which case you cannot select the same weapon more than twice per unit.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000721",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its Taurox battle cannon with a Taurox gatling cannon or a Taurox missile launcher.",
+    "description": "This model’s Taurox battle cannon can be replaced with one of the following: 1 Taurox gatling cannon; 1 Taurox missile launcher.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000721",
     "line": "2",
     "button": "•",
-    "description": "This model may replace its two hot-shot volley guns with two autocannons.",
+    "description": "This model’s 2 Taurox hot-shot volley guns can be replaced with 2 autocannons.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000721",
     "line": "3",
     "button": "•",
-    "description": "This model may take a storm bolter or a heavy stubber.",
+    "description": "This model can be equipped with 1 storm bolter.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000723",
     "line": "1",
     "button": "•",
-    "description": "Any model may replace its grenadier gauntlet with a Bullgryn maul.",
+    "description": "Any number of models can each have their grenadier gauntlet replaced with 1 Bullgryn maul.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000723",
     "line": "2",
     "button": "•",
-    "description": "Any model may replace its slabshield with a brute shield.",
+    "description": "Any number of models can each have their slabshield replaced with 1 brute shield.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000727",
     "line": "1",
     "button": "•",
-    "description": "Any model may replace its multi-laser with a lascannon.",
+    "description": "This model’s Militarum multi-laser can be replaced with 1 lascannon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000727",
     "line": "2",
     "button": "•",
-    "description": "Any model may replace its hellstrike missiles with two multiple rocket pods.",
+    "description": "This model’s hellstrike missiles can be replaced with 2 multiple rocket pods.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000727",
     "line": "3",
     "button": "•",
-    "description": "Any model may take two heavy bolters.",
+    "description": "This model can be equipped with 2 heavy bolters.",
     "is_index_wargear": "false"
   },
   {
@@ -6769,20 +6846,6 @@
     "is_index_wargear": "false"
   },
   {
-    "datasheet_id": "000000878",
-    "line": "1",
-    "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 storm bolter: 1 combi-flamer; 1 combi-melta; 1 combi-plasma; 1 psycannon.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000878",
-    "line": "2",
-    "button": "•",
-    "description": "This model can be equipped with 1 weapon from the Force Weapons list instead of 1 Nemesis Daemon hammer.",
-    "is_index_wargear": "false"
-  },
-  {
     "datasheet_id": "000000879",
     "line": "1",
     "button": "•",
@@ -6829,13 +6892,6 @@
     "line": "2",
     "button": "•",
     "description": "This model can be equipped with 1 storm bolter.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000891",
-    "line": "1",
-    "button": "•",
-    "description": "This model may replace its Telepathica stave with a laspistol.",
     "is_index_wargear": "false"
   },
   {
@@ -7199,7 +7255,7 @@
     "datasheet_id": "000000913",
     "line": "1",
     "button": "•",
-    "description": "A Gun Emplacemnt’s quad-gun can be replaced with 1 Icarus lascannon.",
+    "description": "A Gun Emplacement’s quad-gun can be replaced with 1 Icarus lascannon.",
     "is_index_wargear": "false"
   },
   {
@@ -7245,787 +7301,675 @@
     "is_index_wargear": "false"
   },
   {
-    "datasheet_id": "000000927",
-    "line": "1",
-    "button": "•",
-    "description": "Any model may replace its boltgun with a chainsword.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000927",
-    "line": "2",
-    "button": "•",
-    "description": "Up to four Fallen may choose one of the following options:",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000927",
-    "line": "3",
-    "button": "-",
-    "description": "Replace bolt pistol with a plasma pistol.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000927",
-    "line": "4",
-    "button": "-",
-    "description": "Replace boltgun with one item from the Combi-weapons or Special Weapons lists.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000927",
-    "line": "5",
-    "button": "-",
-    "description": "Replace bolt pistol and boltgun with two lightning claws.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000927",
-    "line": "6",
-    "button": "-",
-    "description": "Take one item from the Melee Weapons list.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000927",
-    "line": "7",
-    "button": "•",
-    "description": "One additional Fallen may replace his boltgun with one item from the Special Weapons or Heavy Weapons lists.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000927",
-    "line": "8",
-    "button": "•",
-    "description": "The Fallen Champion may replace his boltgun and/or bolt pistol with one item from the Champion Equipment list.",
-    "is_index_wargear": "false"
-  },
-  {
     "datasheet_id": "000000929",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its bolt pistol with one item from the Pistols, Combi-weapons or Melee Weapons lists.",
+    "description": "This model’s thunder hammer can be replaced with 1 weapon from the Melee Weapons list.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000929",
     "line": "2",
     "button": "•",
-    "description": "This model may replace its chainsword with one item from the Pistols or Melee Weapons lists.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000929",
-    "line": "3",
-    "button": "•",
-    "description": "This model may take a jump pack (Power Rating +1). If it does, its Move characteristic is increased to 12\" and it gains the JUMP PACK and FLY keywords.",
+    "description": "This model’s plasma pistol can be replaced with one of the following: 1 bolt pistol; 1 weapon from the Melee Weapons list.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000930",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its combi-bolter with one item from the Combi-weapons or Terminator Melee Weapons lists.",
+    "description": "This model’s combi-bolter can be replaced with one of the following: 1 combi-melta; 1 combi-plasma; 1 combi-flamer; 1 lightning claw.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000930",
     "line": "2",
     "button": "•",
-    "description": "This model may replace its power sword with one item from the Terminator Melee Weapons list.",
+    "description": "This model’s exalted power axe can be replaced with one of the following: 1 lightning claw; 1 chainfist; 1 weapon (excluding 1 Astartes chainsword) from the Melee Weapons list.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000931",
     "line": "1",
     "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 bolt pistol: 1 weapon from the Melee Weapons list; 1 weapon from the Pistols list; 1 weapon from the Combi-weapons list.",
+    "description": "This model’s bolt pistol can be replaced with one of the following: 1 weapon from the Melee weapons list; 1 weapon from the Combi-weapons list; 1 lightning claw; 1 plasma pistol.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000931",
     "line": "2",
     "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 chainsword: 1 weapon from the Melee Weapons list; 1 weapon from the Pistols list.",
+    "description": "This model’s chainsword can be replaced with one of the following: 1 weapon from the Melee weapons list; 1 bolt pistol; 1 lightning claw; 1 plasma pistol.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000932",
     "line": "1",
     "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 bolt pistol: 1 weapon from the Melee Weapons list; 1 weapon from the Pistols list; 1 weapon from the Combi-weapons list.",
+    "description": "This model’s bolt pistol can be replaced with one of the following: 1 weapon from the Melee weapons list; 1 weapon from the Combi-weapons list; 1 lightning claw; 1 plasma pistol.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000932",
     "line": "2",
     "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 chainsword: 1 weapon from the Melee Weapons list; 1 weapon from the Pistols list.",
+    "description": "This model’s chainsword can be replaced with one of the following: 1 weapon from the Melee weapons list; 1 weapon from the Pistols weapons list; 1 lightning claw.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000933",
     "line": "1",
     "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 bolt pistol: 1 weapon from the Melee Weapons list; 1 weapon from the Pistols list; 1 weapon from the Combi-weapons list.",
+    "description": "This model’s bolt pistol can be replaced with one of the following: 1 weapon from the Melee weapons list; 1 weapon from the Combi-weapons list; 1 lightning claw; 1 plasma pistol.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000933",
     "line": "2",
     "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 chainsword: 1 weapon from the Melee Weapons list; 1 weapon from the Pistols list.",
+    "description": "This model’s chainsword can be replaced with one of the following: 1 weapon from the Melee weapons list; 1 weapon from the Pistols weapons list; 1 lightning claw.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000934",
     "line": "1",
     "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 bolt pistol: 1 weapon from the Melee Weapons list; 1 weapon from the Pistols list; 1 weapon from the Combi-weapons list.",
+    "description": "This model’s bolt pistol can be replaced with one of the following: 1 weapon from the Melee weapons list; 1 weapon from the Combi-weapons list; 1 lightning claw; 1 plasma pistol.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000934",
     "line": "2",
     "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 chainsword: 1 weapon from the Melee Weapons list; 1 weapon from the Pistols list.",
+    "description": "This model’s chainsword can be replaced with one of the following: 1 weapon from the Melee weapons list; 1 weapon from the Pistols weapons list; 1 lightning claw.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000935",
     "line": "1",
     "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 bolt pistol: 1 weapon from the Melee Weapons list; 1 weapon from the Pistols list; 1 weapon from the Combi-weapons list.",
+    "description": "This model’s bolt pistol can be replaced with one of the following: 1 weapon from the Melee weapons list; 1 weapon from the Combi-weapons list; 1 lightning claw; 1 plasma pistol.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000935",
     "line": "2",
     "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 chainsword: 1 weapon from the Melee Weapons list; 1 weapon from the Pistols list.",
+    "description": "This model’s chainsword can be replaced with one of the following: 1 weapon from the Melee weapons list; 1 weapon from the Pistols weapons list; 1 lightning claw.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000937",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its hellforged sword with a daemonic axe or second set of malefic talons.",
+    "description": "This model’s hellforged sword can be replaced with one of the following: 1 daemonic axe; 1 malefic talons.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000937",
     "line": "2",
     "button": "•",
-    "description": "This model may take a warp bolter.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000937",
-    "line": "3",
-    "button": "•",
-    "description": "This model may have wings (Power Rating +2). If it does, its Move characteristic is increased to 12\" and it gains the FLY keyword. 35",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000938",
-    "line": "1",
-    "button": "•",
-    "description": "This model may replace its bolt pistol with one item from the Pistols, Combi-weapons or Melee Weapons lists.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000938",
-    "line": "2",
-    "button": "•",
-    "description": "This model may replace its force sword with a force stave or force axe.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000938",
-    "line": "3",
-    "button": "•",
-    "description": "This model may take a jump pack (Power Rating +1). If it does, its Move characteristic is increased to 12\" and it gains the JUMP PACK and FLY keywords.",
+    "description": "This model can be equipped with 1 wings (Power Rating +2).",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000939",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its combi-bolter with one item from the Combi-weapons or Terminator Melee Weapons lists.",
+    "description": "This model’s combi-bolter can be replaced with one of the following: 1 combi-melta; 1 combi-plasma; 1 combi-flamer.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000939",
     "line": "2",
     "button": "•",
-    "description": "This model may replace its force stave with a force axe or force sword.",
+    "description": "This model’s force stave can be replaced with one of the following: 1 force axe; 1 force sword.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000939",
+    "line": "3",
+    "button": "•",
+    "description": "This model can be equipped with 1 Chaos familiar.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000940",
     "line": "1",
     "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 bolt pistol: 1 weapon from the Melee Weapons list; 1 weapon from the Pistols list; 1 weapon from the Combi-weapons list.",
+    "description": "This model’s bolt pistol can be replaced with one of the following: 1 weapon from the Melee weapons list; 1 weapon from the Combi-weapons list; 1 lightning claw; 1 plasma pistol.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000940",
     "line": "2",
     "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 force sword: 1 force axe; 1 force stave.",
+    "description": "This model’s force sword can be replaced with one of the following: 1 force axe; 1 force stave.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000941",
     "line": "1",
     "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 bolt pistol: 1 weapon from the Melee Weapons list; 1 weapon from the Pistols list; 1 weapon from the Combi-weapons list.",
+    "description": "This model’s bolt pistol can be replaced with one of the following: 1 weapon from the Melee weapons list; 1 weapon from the Combi-weapons list; 1 lightning claw; 1 plasma pistol.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000941",
     "line": "2",
     "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 force sword: 1 force axe; 1 force stave.",
+    "description": "This model’s force sword can be replaced with one of the following: 1 force axe; 1 force stave.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000942",
     "line": "1",
     "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 bolt pistol: 1 weapon from the Melee Weapons list; 1 weapon from the Pistols list; 1 weapon from the Combi-weapons list.",
+    "description": "This model’s bolt pistol can be replaced with one of the following: 1 weapon from the Melee weapons list; 1 weapon from the Combi-weapons list; 1 lightning claw; 1 plasma pistol.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000942",
     "line": "2",
     "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 force sword: 1 force axe; 1 force stave.",
+    "description": "This model’s force sword can be replaced with one of the following: 1 force axe; 1 force stave.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000943",
     "line": "1",
     "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 bolt pistol: 1 weapon from the Melee Weapons list; 1 weapon from the Pistols list; 1 weapon from the Combi-weapons list.",
+    "description": "This model’s bolt pistol can be replaced with one of the following: 1 weapon from the Melee weapons list; 1 weapon from the Combi-weapons list; 1 lightning claw; 1 plasma pistol.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000943",
     "line": "2",
     "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 force sword: 1 force axe; 1 force stave.",
+    "description": "This model’s force sword can be replaced with one of the following: 1 force axe; 1 force stave.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000944",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its bolt pistol with one item from the Pistols or Combi-weapons lists.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000945",
-    "line": "1",
-    "button": "•",
-    "description": "The Aspiring Champion may replace his bolt pistol and boltgun with items from the Champion Equipment list.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000945",
-    "line": "2",
-    "button": "•",
-    "description": "Any Chaos Space Marine may replace his boltgun with a chainsword.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000945",
-    "line": "3",
-    "button": "•",
-    "description": "One Chaos Space Marine may replace his bolt pistol with a plasma pistol, or replace his boltgun with one item from the Special Weapons or Heavy Weapons lists.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000945",
-    "line": "4",
-    "button": "•",
-    "description": "If the unit numbers ten or more models, an additional Chaos Space Marine may take one item from the Special Weapons or Heavy Weapons lists.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000945",
-    "line": "5",
-    "button": "•",
-    "description": "One model may take a Chaos Icon.",
+    "description": "This model’s exalted power axe can be replaced with 1 thunder hammer.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000946",
     "line": "1",
     "button": "•",
-    "description": "Any Chaos Cultist may replace their autogun with an autopistol and brutal assault weapon.",
+    "description": "Any number of models can each have their autopistol and brutal assault weapon replaced with 1 Cultist firearm.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000946",
     "line": "2",
     "button": "•",
-    "description": "For every ten models in the unit, one Chaos Cultist may replace their autogun with a heavy stubber or a flamer.",
+    "description": "1 Chaos Cultist’s autopistol and brutal assault weapon can be replaced with 1 flamer&ast;.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000946",
     "line": "3",
     "button": "•",
-    "description": "The Cultist Champion may replace their autogun with a shotgun or a brutal assault weapon and autopistol.",
+    "description": "1 Chaos Cultist’s autopistol and brutal assault weapon can be replaced with 1 heavy stubber&ast;.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000946",
+    "line": "4",
+    "button": "•",
+    "description": "1 Chaos Cultist’s autopistol and brutal assault weapon can be replaced with 1 Cultist grenade launcher&ast;.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000946",
+    "line": "5",
+    "button": "•",
+    "description": "The Cultist Champion’s autopistol can be replaced with 1 bolt pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000946",
+    "line": "6",
+    "button": "",
+    "description": "",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000946",
+    "line": "7",
+    "button": "*",
+    "description": "If this unit contains 15 or more models, you can select each of these wargear options a second time.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000947",
     "line": "1",
     "button": "•",
-    "description": "Any model may replace its combi-bolter with one item from the Combi-weapons list.",
+    "description": "For every 5 models in this unit:",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000947",
     "line": "2",
-    "button": "•",
-    "description": "Any model may replace its chainaxe with one item from the Terminator Melee Weapons list.",
+    "button": "○",
+    "description": "One Chaos Terminator’s combi-bolter can be replaced with one of the following: 1 reaper autocannon; 1 heavy flamer.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000947",
     "line": "3",
-    "button": "•",
-    "description": "Any model may replace its combi-bolter and chainaxe with a pair of lightning claws.",
+    "button": "○",
+    "description": "One model’s combi-bolter can be replaced with 1 combi-plasma.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000947",
     "line": "4",
-    "button": "•",
-    "description": "For every five models in the unit, one Chaos Terminator may replace his combi-bolter with a heavy flamer or reaper autocannon.",
+    "button": "○",
+    "description": "One model’s combi-bolter can be replaced with 1 accursed weapon. Neither of this model’s accursed weapons can be replaced with 1 power fist or 1 chainfist (see below).",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000947",
     "line": "5",
-    "button": "•",
-    "description": "One model may take a Chaos Icon.",
+    "button": "○",
+    "description": "Up to two models can each have their combi-bolter replaced with 1 combi-flamer.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000947",
+    "line": "6",
+    "button": "○",
+    "description": "Up to two models can each have their combi-bolter replaced with 1 combi-melta.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000947",
+    "line": "7",
+    "button": "○",
+    "description": "Up to three models can each have their accursed weapon replaced with 1 power fist.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000947",
+    "line": "8",
+    "button": "○",
+    "description": "One model’s accursed weapon can be replaced with 1 chainfist.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000948",
     "line": "1",
     "button": "•",
-    "description": "Any Khorne Berzerker may replace his chainsword or bolt pistol with a chainaxe.",
+    "description": "The Khorne Berzerker Champion’s bolt pistol can be replaced with 1 plasma pistol.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000948",
     "line": "2",
     "button": "•",
-    "description": "Up to two Khorne Berzerkers may replace their bolt pistol with a plasma pistol.",
+    "description": "For every 5 models in this unit, one Khorne Berzerker’s bolt pistol can be replaced with 1 plasma pistol.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000948",
     "line": "3",
     "button": "•",
-    "description": "The Berzerker Champion may replace his bolt pistol and chainsword with items from the Champion Equipment list.",
+    "description": "For every 5 models in this unit, one Khorne Berzerker’s Berzerker chainblade can be replaced with 1 Khornate eviscerator.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000948",
     "line": "4",
     "button": "•",
-    "description": "One Khorne Berzerker in the unit may take an Icon of Wrath.",
+    "description": "One model can be equipped with 1 Berzerker icon.",
     "is_index_wargear": "false"
   },
   {
-    "datasheet_id": "000000949",
+    "datasheet_id": "000000951",
     "line": "1",
     "button": "•",
-    "description": "The Aspiring Sorcerer may replace his inferno bolt pistol with a plasma pistol or warpflame pistol.",
+    "description": "Any number of Noise Marines can each have their boltgun replaced with one of the following: 1 Astartes chainsword; 1 sonic blaster.",
     "is_index_wargear": "false"
   },
   {
-    "datasheet_id": "000000949",
+    "datasheet_id": "000000951",
     "line": "2",
     "button": "•",
-    "description": "Any Rubric Marine may replace his inferno boltgun with a warpflamer.",
+    "description": "One Noise Marine’s boltgun can be replaced with 1 blastmaster.",
     "is_index_wargear": "false"
   },
   {
-    "datasheet_id": "000000949",
+    "datasheet_id": "000000951",
     "line": "3",
     "button": "•",
-    "description": "For every ten models in the unit, one Rubric Marine may replace his inferno boltgun with a soulreaper cannon.",
+    "description": "The Noise Champion’s bolt pistol can be replaced with one of the following: 1 plasma pistol (maximum 1 per model); 1 weapon from the Melee Weapons list.",
     "is_index_wargear": "false"
   },
   {
-    "datasheet_id": "000000949",
+    "datasheet_id": "000000951",
     "line": "4",
     "button": "•",
-    "description": "One Rubric Marine may take an Icon of Flame.",
+    "description": "The Noise Champion’s boltgun can be replaced with one of the following: 1 sonic blaster; 1 plasma pistol (maximum 1 per model); 1 weapon from the Melee Weapons list.",
     "is_index_wargear": "false"
   },
   {
-    "datasheet_id": "000000950",
-    "line": "1",
-    "button": "•",
-    "description": "The Plague Champion may replace his plague knife with a plaguesword.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000950",
-    "line": "2",
-    "button": "•",
-    "description": "The Plague Champion may replace his boltgun with a bolt pistol, a plasma pistol or a plasma gun.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000950",
-    "line": "3",
-    "button": "•",
-    "description": "The Plague Champion may take a power fist.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000950",
-    "line": "4",
-    "button": "•",
-    "description": "Up to two Plague Marines can each replace their boltgun with either a plague spewer, a plague belcher, a blight launcher, a meltagun or a plasma gun.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000950",
+    "datasheet_id": "000000951",
     "line": "5",
     "button": "•",
-    "description": "Any Plague Marine can replace their boltgun with either a bubotic axe or a second plague knife.",
+    "description": "The Noise Champion can be equipped with 1 doom siren.",
     "is_index_wargear": "false"
   },
   {
-    "datasheet_id": "000000950",
+    "datasheet_id": "000000951",
     "line": "6",
     "button": "•",
-    "description": "Up to two Plague Marines can each replace their boltgun with a mace of contagion and a bubotic axe.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000950",
-    "line": "7",
-    "button": "•",
-    "description": "Up to two Plague Marines can each replace their boltgun with either a great plague cleaver or a flail of corruption.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000950",
-    "line": "8",
-    "button": "•",
-    "description": "One Plague Marine with a boltgun or with two plague knives may also take an Icon of Despair.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000951",
-    "line": "1",
-    "button": "•",
-    "description": "Any model may replace its boltgun with a chainsword or sonic blaster.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000951",
-    "line": "2",
-    "button": "•",
-    "description": "One Noise Marine may replace his boltgun with a blastmaster. If the unit numbers ten or more models, a second Noise Marine may do this.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000951",
-    "line": "3",
-    "button": "•",
-    "description": "The Noise Champion may replace his bolt pistol and boltgun with items from the Champion Equipment list.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000951",
-    "line": "4",
-    "button": "•",
-    "description": "The Noise Champion may take a doom siren.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000951",
-    "line": "5",
-    "button": "•",
-    "description": "One Noise Marine may take an Icon of Excess.",
+    "description": "One model can be equipped with 1 icon of Slaanesh.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000952",
     "line": "1",
     "button": "•",
-    "description": "Any Chosen may take one item from the Melee Weapons list.",
+    "description": "One model can be equipped with 1 Chaos icon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000952",
     "line": "2",
     "button": "•",
-    "description": "Up to four Chosen may choose one of the following options:",
+    "description": "For every 5 models in this unit:",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000952",
     "line": "3",
-    "button": "-",
-    "description": "Replace his bolt pistol with a plasma pistol.",
+    "button": "○",
+    "description": "Up to two models can each have their bolt pistol replaced with 1 plasma pistol.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000952",
     "line": "4",
-    "button": "-",
-    "description": "Replace his boltgun with one item from the Combi-weapons or Special Weapons lists.",
+    "button": "○",
+    "description": "Up to two models can each have their boltgun replaced with one of the following: 1 combi-melta; 1 combi-flamer; 1 combi-plasma.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000952",
     "line": "5",
-    "button": "-",
-    "description": "Replace his boltgun and bolt pistol with a lightning claw.",
+    "button": "○",
+    "description": "One model’s boltgun can be replaced with 1 accursed weapon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000952",
     "line": "6",
     "button": "•",
-    "description": "An additional Chosen may replace his boltgun with one item from the Special Weapons or Heavy Weapons lists.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000952",
-    "line": "7",
-    "button": "•",
-    "description": "The Chosen Champion may either take one item from the Melee Weapons list, or replace his boltgun and bolt pistol with items from the Champion Equipment list.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000952",
-    "line": "8",
-    "button": "•",
-    "description": "One model may take a Chaos Icon.",
+    "description": "For every 5 models in this unit, 1 Chosen model equipped with a boltgun can have its accursed weapon replaced with 1 power fist. That model’s boltgun cannot be replaced.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000953",
     "line": "1",
     "button": "•",
-    "description": "One model may take a Chaos Icon.",
+    "description": "One model can be equipped with 1 Chaos icon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000954",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its multi-melta with a second Helbrute fist, or a twin heavy bolter, twin lascannon, Helbrute plasma cannon, or reaper autocannon.",
+    "description": "This model’s twin heavy bolter can be replaced with one of the following: 1 Helbrute plasma cannon; 1 multi-melta; 1 reaper autocannon; 1 twin lascannon; 1 Helbrute fist.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000954",
     "line": "2",
     "button": "•",
-    "description": "This model may replace one Helbrute fist with a missile launcher.",
+    "description": "This model’s missile launcher can be replaced with one of the following: 1 Helbrute fist; 1 Helbrute hammer; 1 power scourge.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000954",
     "line": "3",
     "button": "•",
-    "description": "This model may replace each Helbrute fist with a Helbrute hammer or power scourge.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000000954",
-    "line": "4",
-    "button": "•",
-    "description": "This model may incorporate a combi-bolter or heavy flamer into each Helbrute fist.",
+    "description": "For each Helbrute fist this model is equipped with, it can be equipped with one of the following: 1 heavy flamer; 1 combi-bolter.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000956",
     "line": "1",
     "button": "•",
-    "description": "This model may take a havoc launcher and/or one item from the Combi-weapons list.",
+    "description": "This model can be equipped with one of the following: 1 combi-bolter; 1 combi-flamer; 1 combi-melta.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000956",
+    "line": "2",
+    "button": "•",
+    "description": "This model can be equipped with 1 havoc launcher.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000957",
     "line": "1",
     "button": "•",
-    "description": "Any Biker may replace his bolt pistol with a chainsword.",
+    "description": "Any number of Chaos Bikers can each have their bolt pistol replaced with 1 Astartes chainsword.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000957",
     "line": "2",
     "button": "•",
-    "description": "The Biker Champion may replace his bolt pistol with one item from the Champion Equipment list.",
+    "description": "The Biker Champion’s bolt pistol can be replaced with one of the following: 1 plasma pistol; 1 weapon from the Melee Weapons list.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000957",
     "line": "3",
     "button": "•",
-    "description": "Up to two Bikers may either take one additional item from the Special Weapons list, or replace their bike’s combi-bolter with one item from the Special Weapons list.",
+    "description": "Up to 2 Chaos Bikers can each do one of the following:",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000957",
     "line": "4",
+    "button": "○",
+    "description": "Be equipped with 1 weapon from the Special Weapons list.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000957",
+    "line": "5",
+    "button": "○",
+    "description": "Have their combi-bolter replaced with one of the following: 1 combi-plasma; 1 combi-flamer; 1 combi-melta.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000957",
+    "line": "6",
     "button": "•",
-    "description": "One model may take a Chaos Icon.",
+    "description": "One model can be equipped with 1 Chaos icon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000958",
     "line": "1",
     "button": "•",
-    "description": "Up to two Raptors may replace their bolt pistol and chainsword with a plasma pistol and chainsword, or with one item from the Special Weapons list.",
+    "description": "Up to 2 Raptors can each do one of the following:",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000958",
     "line": "2",
-    "button": "•",
-    "description": "The Raptor Champion may replace his bolt pistol and chainsword with items from the Champion Equipment list.",
+    "button": "○",
+    "description": "Have their bolt pistol replaced with 1 plasma pistol.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000958",
     "line": "3",
+    "button": "○",
+    "description": "Have their bolt pistol and Astartes chainsword replaced with 1 weapon from the Special Weapons list.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000958",
+    "line": "4",
     "button": "•",
-    "description": "One model may take a Chaos Icon.",
+    "description": "The Raptor Champion’s bolt pistol can be replaced with 1 plasma pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000958",
+    "line": "5",
+    "button": "•",
+    "description": "The Raptor Champion’s Astartes chainsword can be replaced with one of the following: 1 power sword; 1 power fist.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000961",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its hades autocannon with a baleflamer.",
+    "description": "This model’s hades autocannon can be replaced with 1 baleflamer.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000962",
     "line": "1",
     "button": "•",
-    "description": "This model may take a havoc launcher and/or one item from the Combi-weapons list.",
+    "description": "This model can be equipped with one of the following: 1 combi-bolter; 1 combi-flamer; 1 combi-melta.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000962",
+    "line": "2",
+    "button": "•",
+    "description": "This model can be equipped with 1 havoc launcher.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000963",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its Predator autocannon with a twin lascannon.",
+    "description": "This model can be equipped with one of the following: 2 heavy bolters; 2 lascannons.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000963",
     "line": "2",
     "button": "•",
-    "description": "This model may take either two heavy bolters or two lascannons.",
+    "description": "This model can be equipped with one of the following: 1 combi-bolter; 1 combi-flamer; 1 combi-melta.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000963",
     "line": "3",
     "button": "•",
-    "description": "This model may take a havoc launcher and/or one item from the Combi-weapons list.",
+    "description": "This model can be equipped with 1 havoc launcher.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000964",
     "line": "1",
     "button": "•",
-    "description": "This model may take a havoc launcher and/or one item from the Combi-weapons list.",
+    "description": "This model can be equipped with one of the following: 1 combi-bolter; 1 combi-flamer; 1 combi-melta.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000964",
+    "line": "2",
+    "button": "•",
+    "description": "This model can be equipped with 1 havoc launcher.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000000964",
+    "line": "3",
+    "button": "•",
+    "description": "This model can be equipped with 1 Vindicator siege shield.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000966",
     "line": "1",
     "button": "•",
-    "description": "Any Havoc may replace their heavy bolter or lascannon with one item from the Heavy Weapons list.",
+    "description": "The Havoc Champion’s Astartes chainsword can be replaced with 1 weapon from the Melee Weapons list.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000966",
     "line": "2",
     "button": "•",
-    "description": "The Aspiring Champion may replace his flamer with one item from the Champion Equipment or Special Weapons list.",
+    "description": "The Havoc Champion’s flamer can be replaced with one of the following: 1 boltgun; 1 plasma pistol; 1 weapon from the Special Weapons list; 1 weapon from the Melee Weapons list.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000966",
     "line": "3",
     "button": "•",
-    "description": "The Aspiring Champion may replace his chainsword with one item from the Champion Equipment list.",
+    "description": "Any number of Havocs can each have their Havoc autocannon or lascannon replaced with 1 weapon from the Heavy Weapons list.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000967",
     "line": "1",
     "button": "•",
-    "description": "This model may replace both hades autocannons with ectoplasma cannons.",
+    "description": "This model’s 2 heavy hades autocannons can be replaced with 2 ectoplasma cannons.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000967",
     "line": "2",
     "button": "•",
-    "description": "This model may replace its Daemon jaws with an ectoplasma cannon.",
+    "description": "This model’s Forgefiend jaws can be replaced with 1 ectoplasma cannon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000968",
     "line": "1",
     "button": "•",
-    "description": "This model may replace both magma cutters with lasher tendrils.",
+    "description": "This model’s lasher tendrils can be replaced with 2 magma cutters.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000969",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its twin heavy flamer with a havoc launcher or Defiler scourge.",
+    "description": "This model’s twin heavy flamer can be replaced with one of the following: 1 havoc launcher; 1 Defiler scourge.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000969",
     "line": "2",
     "button": "•",
-    "description": "This model may replace its reaper autocannon with a twin heavy bolter or twin lascannon.",
+    "description": "This model’s reaper autocannon can be replaced with one of the following: 1 twin heavy bolter; 1 twin lascannon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000969",
     "line": "3",
     "button": "•",
-    "description": "This model may take one item from the Combi-weapons list.",
+    "description": "This model can be equipped with one of the following: 1 combi-bolter; 1 combi-flamer; 1 combi-melta.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000970",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its gorestorm cannon with an ichor cannon or daemongore cannon.",
+    "description": "This model’s gorestorm cannon can be replaced with one of the following: 1 daemongore cannon; 1 ichor cannon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000000970",
     "line": "2",
     "button": "•",
-    "description": "This model may replace its Hades gatling cannon with a skullhurler.",
+    "description": "This model’s hades gatling cannon can be replaced with 1 skullhurler.",
     "is_index_wargear": "false"
   },
   {
@@ -8424,7 +8368,7 @@
     "datasheet_id": "000001044",
     "line": "1",
     "button": "•",
-    "description": "The Plague Champion s plague knife can be replaced with 1 daemonic plague blade.",
+    "description": "The Plague Champion’s plague knife can be replaced with 1 daemonic plague blade.",
     "is_index_wargear": "false"
   },
   {
@@ -8690,161 +8634,147 @@
     "datasheet_id": "000001114",
     "line": "1",
     "button": "•",
-    "description": "For every ten models in the unit, one Bloodletter may take an Instrument of Chaos.",
+    "description": "One Bloodletter that is not equipped with a daemonic icon can be equipped with 1 instrument of Chaos.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001114",
     "line": "2",
     "button": "•",
-    "description": "For every ten models in the unit, one Bloodletter may take a Daemonic Icon.",
+    "description": "One Bloodletter that is not equipped with an instrument of Chaos can be equipped with 1 daemonic icon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001115",
     "line": "1",
     "button": "•",
-    "description": "1 model that does not have an Instrument of Chaos can have a Daemonic Icon.",
+    "description": "One Bloodcrusher that is not equipped with a daemonic icon can be equipped with 1 instrument of Chaos.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001115",
     "line": "2",
     "button": "•",
-    "description": "1 model that does not have a Daemonic Icon can have an Instrument of Chaos.",
+    "description": "One Bloodcrusher that is not equipped with an instrument of Chaos can be equipped with 1 daemonic icon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001120",
     "line": "1",
     "button": "•",
-    "description": "This model may take a baleful sword or a rod of sorcery.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000001124",
-    "line": "1",
-    "button": "•",
-    "description": "For every 10 models this unit contains, 1 Pink Horror that does not have an Instrument of Chaos can have a Daemonic Icon.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000001124",
-    "line": "2",
-    "button": "•",
-    "description": "For every 10 models this unit contains, 1 model that does not have a Daemonic Icon can have an Instrument of Chaos.",
+    "description": "This model can be equipped with one of the following: 1 baleful sword; 1 rod of sorcery.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001128",
     "line": "1",
     "button": "•",
-    "description": "A Burning Chariot may also be ridden by three Chanting Horrors (see Irritating Chant ability).",
+    "description": "This model can be equipped with 1 Horror infestation.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001130",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its bilesword with a doomsday bell.",
+    "description": "This model’s bilesword can be replaced with 1 doomsday bell.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001130",
     "line": "2",
     "button": "•",
-    "description": "This model may replace its plague flail with a bileblade.",
+    "description": "This model’s plague flail can be replaced with 1 bileblade.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001132",
     "line": "1",
     "button": "•",
-    "description": "For every ten models in the unit, one Plaguebearer may take an Instrument of Chaos.",
+    "description": "One Plaguebearer that is not equipped with a daemonic icon can be equipped with 1 instrument of Chaos.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001132",
     "line": "2",
     "button": "•",
-    "description": "For every ten models in the unit, one Plaguebearer may take a Daemonic Icon.",
+    "description": "One Plaguebearer that is not equipped with an instrument of Chaos can be equipped with 1 daemonic icon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001135",
     "line": "1",
     "button": "•",
-    "description": "One Plague Drone may take an Instrument of Chaos.",
+    "description": "One Plague Drone that is not equipped with a daemonic icon can be equipped with 1 instrument of Chaos.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001135",
     "line": "2",
     "button": "•",
-    "description": "One Plague Drone may take a Daemonic Icon.",
+    "description": "One Plague Drone that is not equipped with an instrument of Chaos can be equipped with 1 daemonic icon.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000001135",
+    "line": "3",
+    "button": "•",
+    "description": "Any model’s foul mouthparts can be replaced with 1 prehensile proboscis.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001137",
     "line": "1",
     "button": "•",
-    "description": "This model can be equipped with 1 living whip instead of having a ritual knife.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000001137",
-    "line": "2",
-    "button": "•",
-    "description": "This model can have one of the following instead of having a ritual knife: shining aegis; sinistrous hand.",
+    "description": "This model’s ritual knife can be replaced with one of the following: 1 living whip; 1 shining aegis; 1 sinistrous hand.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001142",
     "line": "1",
     "button": "•",
-    "description": "For every ten models in the unit, one Daemonette may take an Instrument of Chaos.",
+    "description": "One Daemonette that is not equipped with a daemonic icon can be equipped with 1 instrument of Chaos.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001142",
     "line": "2",
     "button": "•",
-    "description": "For every ten models in the unit, one Daemonette may take a Daemonic Icon.",
+    "description": "One Daemonette that is not equipped with an instrument of Chaos can be equipped with 1 daemonic icon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001145",
     "line": "1",
     "button": "•",
-    "description": "1 model that does not have an Instrument of Chaos can have a Daemonic Icon.",
+    "description": "One Seeker that is not equipped with a daemonic icon can be equipped with 1 instrument of Chaos.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001145",
     "line": "2",
     "button": "•",
-    "description": "1 model that does not have a Daemonic Icon can have an Instrument of Chaos.",
+    "description": "One Seeker that is not equipped with an instrument of Chaos can be equipped with 1 daemonic icon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001149",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its hellforged sword with a daemonic axe or second set of malefic talons.",
+    "description": "This model’s hellforged sword can be replaced with one of the following: 1 daemonic axe; 1 malefic talons.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001149",
     "line": "2",
     "button": "•",
-    "description": "This model may have wings (Power Rating +2). If it does, its Move characteristic is increased to 12\" and it gains the FLY keyword. 35",
+    "description": "This model can be equipped with 1 wings (Power Rating +2).",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001151",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its warpsword with a warpclaw.",
+    "description": "This model’s warpsword can be replaced with 1 warpclaw.",
     "is_index_wargear": "false"
   },
   {
@@ -9478,27 +9408,6 @@
     "is_index_wargear": "false"
   },
   {
-    "datasheet_id": "000001198",
-    "line": "1",
-    "button": "•",
-    "description": "This model can be equipped with 1 multi-melta.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000001198",
-    "line": "2",
-    "button": "•",
-    "description": "This model can be equipped with 1 storm bolter.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000001198",
-    "line": "3",
-    "button": "•",
-    "description": "This model can be equipped with 1 hunter-killer missile.",
-    "is_index_wargear": "false"
-  },
-  {
     "datasheet_id": "000001199",
     "line": "1",
     "button": "•",
@@ -9873,77 +9782,119 @@
     "datasheet_id": "000001264",
     "line": "1",
     "button": "•",
-    "description": "This model may replace its heavy bolter with a heavy flamer.",
+    "description": "This model’s heavy bolter can be replaced with 1 heavy flamer.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001264",
     "line": "2",
     "button": "•",
-    "description": "This model may replace its multi-laser with a heavy flamer or a heavy bolter.",
+    "description": "This model’s Chimera multi-laser can be replaced with one of the following: 1 Chimera heavy bolter; 1 Chimera heavy flamer.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001264",
     "line": "3",
     "button": "•",
-    "description": "This model may take items from the Vehicle Equipment list.",
+    "description": "This model can be equipped with one of the following: 1 heavy stubber; 1 storm bolter.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000001264",
+    "line": "4",
+    "button": "•",
+    "description": "This model can be equipped with 1 dozer blade",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000001264",
+    "line": "5",
+    "button": "•",
+    "description": "This model can be equipped with 1 hunter-killer missile.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000001264",
+    "line": "6",
+    "button": "•",
+    "description": "This model can be equipped with 1 armoured tracks.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001265",
     "line": "1",
     "button": "•",
-    "description": "Any model may replace its heavy bolter with a heavy flamer or a multi-melta.",
+    "description": "This model’s inferno cannon can be replaced with one of the following: 1 chem cannon; 1 melta cannon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001265",
     "line": "2",
     "button": "•",
-    "description": "Any model may take items from the Vehicle Equipment list.",
+    "description": "This model’s heavy flamer can be replaced with one of the following: 1 heavy bolter; 1 multi-melta.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000001265",
+    "line": "3",
+    "button": "•",
+    "description": "This model can be equipped with 1 dozer blade.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000001265",
+    "line": "4",
+    "button": "•",
+    "description": "This model can be equipped with 1 hunter-killer missile.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000001265",
+    "line": "5",
+    "button": "•",
+    "description": "This model can be equipped with 1 armoured tracks.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001266",
     "line": "1",
     "button": "•",
-    "description": "Any model may replace its multi-laser with a heavy flamer, autocannon, missile launcher or lascannon.",
+    "description": "Any number of models can each have their Militarum multi-laser replaced with one of the following: 1 autocannon; 1 heavy flamer; 1 lascannon; 1 missile launcher; 1 Militarum plasma cannon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001266",
     "line": "2",
     "button": "•",
-    "description": "Any model may take a Sentinel chainsaw.",
+    "description": "Any number of models can each be equipped with 1 Sentinel chainsaw.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001266",
     "line": "3",
     "button": "•",
-    "description": "Any model may take a hunter-killer missile.",
+    "description": "Any number of models can each be equipped with 1 hunter-killer missile.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001267",
     "line": "1",
     "button": "•",
-    "description": "Any model may replace its multi-laser with a heavy flamer, autocannon, missile launcher, lascannon or plasma cannon.",
+    "description": "Any number of models can each have their Militarum multi-laser replaced with one of the following: 1 autocannon; 1 heavy flamer; 1 lascannon; 1 missile launcher; 1 Militarum plasma cannon,",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001267",
     "line": "2",
     "button": "•",
-    "description": "Any model may take a Sentinel chainsaw.",
+    "description": "Any number of models can each be equipped with 1 Sentinel chainsaw.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001267",
     "line": "3",
     "button": "•",
-    "description": "Any model may take a hunter-killer missile.",
+    "description": "Any number of models can each be equipped with 1 hunter-killer missile.",
     "is_index_wargear": "false"
   },
   {
@@ -9964,63 +9915,98 @@
     "datasheet_id": "000001270",
     "line": "1",
     "button": "•",
-    "description": "Any model may replace its multi-laser with a lascannon.",
+    "description": "This model’s Militarum multi-laser can be replaced with 1 lascannon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001270",
     "line": "2",
     "button": "•",
-    "description": "Any model may replace its hellstrike missiles with two multiple rocket pods.",
+    "description": "This model’s hellstrike missiles can be replaced with 2 multiple rocket pods.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001270",
     "line": "3",
     "button": "•",
-    "description": "Any model may take two heavy bolters.",
+    "description": "This model can be equipped with 2 heavy bolters.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001271",
     "line": "1",
     "button": "•",
-    "description": "Any model may replace its battle cannon with an eradicator nova cannon, exterminator autocannon, vanquisher battle cannon, demolisher cannon, executioner plasma cannon or punisher gatling cannon.",
+    "description": "Any number of models can each have their Leman Russ battle cannon replaced with one of the following: 1 demolisher battle cannon; 1 eradicator nova cannon; 1 executioner plasma cannon; 1 exterminator autocannon; 1 punisher gatling cannon; 1 vanquisher battle cannon.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001271",
     "line": "2",
     "button": "•",
-    "description": "Any model may replace its heavy bolter with a heavy flamer or a lascannon.",
+    "description": "Any number of models can each have their lascannon replaced with one of the following: 1 heavy bolter; 1 heavy flamer.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001271",
     "line": "3",
     "button": "•",
-    "description": "Any model may take two heavy bolters, two heavy flamers, two multi-meltas or two plasma cannons.",
+    "description": "Any number of models can each be equipped with one of the following: 2 heavy bolters; 2 heavy flamers; 2 multi-meltas; 2 Militarum plasma cannons.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001271",
     "line": "4",
     "button": "•",
-    "description": "Any model may take items from the Vehicle Equipment list.",
+    "description": "Any number of models can each be equipped with one of the following: 1 heavy stubber, 1 storm bolter.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000001271",
+    "line": "5",
+    "button": "•",
+    "description": "Any number of models can each be equipped with 1 dozer blade.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000001271",
+    "line": "6",
+    "button": "•",
+    "description": "Any number of models can each be equipped with 1 hunter-killer missile.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000001271",
+    "line": "7",
+    "button": "•",
+    "description": "Any number of models can each be equipped with 1 armoured tracks.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001273",
     "line": "1",
     "button": "•",
-    "description": "Any model may replace its heavy bolter with a heavy flamer.",
+    "description": "This model’s heavy flamer can be replaced with 1 heavy bolter.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001273",
     "line": "2",
     "button": "•",
-    "description": "Any model may take items from the Vehicle Equipment list.",
+    "description": "This model can be equipped with 1 dozer blade.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000001273",
+    "line": "3",
+    "button": "•",
+    "description": "This model can be equipped with 1 hunter-killer missile.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000001273",
+    "line": "4",
+    "button": "•",
+    "description": "This model can be equipped with 1 armoured tracks.",
     "is_index_wargear": "false"
   },
   {
@@ -10041,28 +10027,56 @@
     "datasheet_id": "000001276",
     "line": "1",
     "button": "•",
-    "description": "Any model may replace its heavy bolter with a heavy flamer.",
+    "description": "This model’s heavy bolter can replaced with 1 heavy flamer.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001276",
     "line": "2",
     "button": "•",
-    "description": "Any model may take items from the Vehicle Equipment list.",
+    "description": "This model can be equipped with 1 dozer blade.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000001276",
+    "line": "3",
+    "button": "•",
+    "description": "This model can be equipped with 1 hunter-killer missile.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000001276",
+    "line": "4",
+    "button": "•",
+    "description": "This model can be equipped with 1 armoured tracks.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001277",
     "line": "1",
     "button": "•",
-    "description": "Any model may replace its heavy bolter with a heavy flamer.",
+    "description": "This model’s heavy bolter can be replaced with 1 heavy flamer.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001277",
     "line": "2",
     "button": "•",
-    "description": "Any model may take items from the Vehicle Equipment list.",
+    "description": "This model can be equipped with 1 dozer blade.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000001277",
+    "line": "3",
+    "button": "•",
+    "description": "This model can be equipped with 1 hunter-killer missile.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000001277",
+    "line": "4",
+    "button": "•",
+    "description": "This model can be equipped with 1 armoured tracks.",
     "is_index_wargear": "false"
   },
   {
@@ -10132,21 +10146,28 @@
     "datasheet_id": "000001286",
     "line": "1",
     "button": "•",
-    "description": "This model may take a hunter-killer missile.",
+    "description": "This model’s 2 twin heavy flamers can be replaced with 2 twin heavy bolters.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001286",
     "line": "2",
     "button": "•",
-    "description": "This model may take a storm bolter or a heavy stubber.",
+    "description": "This model can additionally be equipped with one of the following:",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001286",
     "line": "3",
-    "button": "•",
-    "description": "This model may take either two sponsons, or four sponsons; each sponson is equipped with a lascannon and either a twin heavy bolter or twin heavy flamer.",
+    "button": "○",
+    "description": "2 lascannons and 2 twin heavy bolters.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000001286",
+    "line": "4",
+    "button": "○",
+    "description": "2 lascannons and 2 twin heavy flamers.",
     "is_index_wargear": "false"
   },
   {
@@ -10580,7 +10601,7 @@
     "datasheet_id": "000001318",
     "line": "1",
     "button": "•",
-    "description": "This models autocannon can be replaced with 1 havoc launcher.",
+    "description": "This model’s Havoc autocannon can be replaced with 1 havoc launcher.",
     "is_index_wargear": "false"
   },
   {
@@ -10913,76 +10934,6 @@
     "is_index_wargear": "false"
   },
   {
-    "datasheet_id": "000001355",
-    "line": "1",
-    "button": "•",
-    "description": "This model may replace its bolt pistol with one item from the Pistols, Combi-weapons or Melee Weapons lists.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000001355",
-    "line": "2",
-    "button": "•",
-    "description": "This model may replace its chainsword with one item from the Pistols or Melee Weapons lists.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000001356",
-    "line": "1",
-    "button": "•",
-    "description": "For every ten models in the unit, one Bloodletter may take an Instrument of Chaos.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000001356",
-    "line": "2",
-    "button": "•",
-    "description": "For every ten models in the unit, one Bloodletter may take a Daemonic Icon.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000001357",
-    "line": "1",
-    "button": "•",
-    "description": "For every 10 models this unit contains, 1 Pink Horror that does not have an Instrument of Chaos can have a Daemonic Icon.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000001357",
-    "line": "2",
-    "button": "•",
-    "description": "For every 10 models this unit contains, 1 model that does not have a Daemonic Icon can have an Instrument of Chaos.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000001358",
-    "line": "1",
-    "button": "•",
-    "description": "For every ten models in the unit, one Plaguebearer may take an Instrument of Chaos.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000001358",
-    "line": "2",
-    "button": "•",
-    "description": "For every ten models in the unit, one Plaguebearer may take a Daemonic Icon.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000001359",
-    "line": "1",
-    "button": "•",
-    "description": "For every ten models in the unit, one Daemonette may take an Instrument of Chaos.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000001359",
-    "line": "2",
-    "button": "•",
-    "description": "For every ten models in the unit, one Daemonette may take a Daemonic Icon.",
-    "is_index_wargear": "false"
-  },
-  {
     "datasheet_id": "000001360",
     "line": "1",
     "button": "•",
@@ -11210,42 +11161,28 @@
     "datasheet_id": "000001394",
     "line": "1",
     "button": "•",
-    "description": "This model may take an autogun.",
+    "description": "This model’s autopistol, servo-stubber and power maul can be replaced with one of the following:",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001394",
     "line": "2",
-    "button": "•",
-    "description": "This model may take a chainsword.",
+    "button": "○",
+    "description": "1 autogun, 1 autopistol and 1 chainsword.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000001394",
+    "line": "3",
+    "button": "○",
+    "description": "1 bolt pistol, 1 Preacher shotgun and 1 chainsword.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001397",
     "line": "1",
     "button": "•",
-    "description": "Up to two models may replace their servo-arm with a heavy bolter, plasma cannon or multi-melta.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000001398",
-    "line": "1",
-    "button": "•",
-    "description": "This model may replace its ripper gun with a grenadier gauntlet or Bullgryn maul.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000001398",
-    "line": "2",
-    "button": "•",
-    "description": "This model may replace its huge knife with a slabshield or brute shield.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000001398",
-    "line": "3",
-    "button": "•",
-    "description": "This model may take Bullgryn plate.",
+    "description": "Up to 2 Munitorum Servitors can each have their servo-arm replaced with one of the following: 1 heavy bolter; 1 multi- melta; 1 plasma cannon.",
     "is_index_wargear": "false"
   },
   {
@@ -11455,28 +11392,28 @@
     "datasheet_id": "000001462",
     "line": "1",
     "button": "•",
-    "description": "This model may take a staff of change.",
+    "description": "This model’s ritual dagger can be replaced with 1 staff of change.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001463",
     "line": "1",
     "button": "•",
-    "description": "This model may take a staff of change.",
+    "description": "This model’s ritual dagger can be replaced with 1 staff of change.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001463",
     "line": "2",
     "button": "•",
-    "description": "A Burning Chariot may also be ridden by Chanting Horrors (see Irritating Chant ability).",
+    "description": "This model can be equipped with 1 retinue of Horrors.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001464",
     "line": "1",
     "button": "•",
-    "description": "This model may take a staff of change.",
+    "description": "This model can be equipped with 1 staff of change.",
     "is_index_wargear": "false"
   },
   {
@@ -12001,14 +11938,14 @@
     "datasheet_id": "000001583",
     "line": "1",
     "button": "•",
-    "description": "The Lord Discordant can replace his autocannon with a baleflamer.",
+    "description": "This model’s Helstalker autocannon can be replaced with 1 baleflamer.",
     "is_index_wargear": "false"
   },
   {
     "datasheet_id": "000001583",
     "line": "2",
     "button": "•",
-    "description": "The Helstalker can replace its techno-virus injector with a magma cutter.",
+    "description": "This model’s techno-virus injector can be replaced with 1 magma cutter.",
     "is_index_wargear": "false"
   },
   {
@@ -12036,7 +11973,7 @@
     "datasheet_id": "000001648",
     "line": "1",
     "button": "•",
-    "description": "This model can have a shining aegis instead of being equipped with 1 living whip.",
+    "description": "This model’s living whip can be replaced with 1 shining aegis.",
     "is_index_wargear": "false"
   },
   {
@@ -12618,34 +12555,6 @@
     "line": "5",
     "button": "•",
     "description": "This model can be equipped with 1 twin autocannon instead of 1 Dreadnought combat weapon and 1 storm bolter.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000002020",
-    "line": "1",
-    "button": "•",
-    "description": "This model can have the PSYKER keyword. If it does, it can be equipped with 1 weapon from the Force Weapons list instead of 1 chainsword.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000002020",
-    "line": "2",
-    "button": "•",
-    "description": "This model can be equipped with one of the following instead of 1 bolt pistol: 1 weapon from the Pistol Weapons list, 1 weapon from the Ranged Weapons list.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000002020",
-    "line": "3",
-    "button": "•",
-    "description": "This model can be equipped with 1 weapon from the Melee Weapons list instead of 1 chainsword.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000002020",
-    "line": "4",
-    "button": "•",
-    "description": "This model can be equipped with 1 null rod instead of 1 chainsword.",
     "is_index_wargear": "false"
   },
   {
@@ -15942,7 +15851,7 @@
     "datasheet_id": "000002412",
     "line": "1",
     "button": "•",
-    "description": "This models autocannon can be replaced with 1 havoc launcher.",
+    "description": "This model’s Havoc autocannon can be replaced with 1 havoc launcher.",
     "is_index_wargear": "false"
   },
   {
@@ -16299,7 +16208,7 @@
     "datasheet_id": "000002440",
     "line": "1",
     "button": "•",
-    "description": "This models autocannon can be replaced with 1 havoc launcher.",
+    "description": "This model’s Havoc autocannon can be replaced with 1 havoc launcher.",
     "is_index_wargear": "false"
   },
   {
@@ -16933,20 +16842,6 @@
     "is_index_wargear": "false"
   },
   {
-    "datasheet_id": "000002509",
-    "line": "1",
-    "button": "•",
-    "description": "For every 5 models in this unit, 1 model’s lasgun can be replaced with 1 Voidsman rotor cannon.",
-    "is_index_wargear": "false"
-  },
-  {
-    "datasheet_id": "000002509",
-    "line": "2",
-    "button": "•",
-    "description": "This unit can have up to 1 Canid.",
-    "is_index_wargear": "false"
-  },
-  {
     "datasheet_id": "000002510",
     "line": "1",
     "button": "•",
@@ -17153,7 +17048,7 @@
     "datasheet_id": "000002515",
     "line": "3",
     "button": "•",
-    "description": "Any Aggressor can have their 2 flamestorm gauntlets repalced with: 2 auto boltstorm gauntlets and 1 fragstorm grenade launcher.",
+    "description": "Any Aggressor can have their 2 flamestorm gauntlets replaced with: 2 auto boltstorm gauntlets and 1 fragstorm grenade launcher.",
     "is_index_wargear": "false"
   },
   {
@@ -17917,6 +17812,1588 @@
     "line": "5",
     "button": "•",
     "description": "This model can be equipped with 1 hunter-killer missile.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002570",
+    "line": "1",
+    "button": "•",
+    "description": "The Aspiring Champion’s boltgun can be replaced with one of the following: 1 daemon blade; 1 plasma pistol (maximum 1 per model); 1 weapon from the Melee Weapons list.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002570",
+    "line": "2",
+    "button": "•",
+    "description": "The Aspiring Champion’s bolt pistol can be replaced with one of the following: 1 plasma pistol (maximum 1 per model); 1 weapon from the Melee Weapons list.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002570",
+    "line": "3",
+    "button": "•",
+    "description": "One model can be equipped with 1 Chaos icon.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002570",
+    "line": "4",
+    "button": "•",
+    "description": "Any number of Legionaries can each have their boltgun replaced with 1 Astartes chainsword.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002570",
+    "line": "5",
+    "button": "•",
+    "description": "One Legionary’s boltgun can be replaced with 1 heavy chainaxe.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002570",
+    "line": "6",
+    "button": "•",
+    "description": "One Legionary’s boltgun can be replaced with 1 balefire tome.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002570",
+    "line": "7",
+    "button": "•",
+    "description": "For every 5 models in this unit, one Legionary’s boltgun can be replaced with one of the following: 1 plasma pistol; 1 weapon from the Special Weapons list; 1 weapon from the Heavy Weapons list&ast;.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002570",
+    "line": "8",
+    "button": "",
+    "description": "",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002570",
+    "line": "9",
+    "button": "*",
+    "description": "You cannot select the same Special Weapon or Heavy Weapon more than once per unit.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002572",
+    "line": "1",
+    "button": "•",
+    "description": "This model can be equipped with one of the following: 2 heavy bolters; 2 lascannons.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002572",
+    "line": "2",
+    "button": "•",
+    "description": "This model can be equipped with one of the following: 1 combi-bolter; 1 combi-flamer; 1 combi-melta.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002572",
+    "line": "3",
+    "button": "•",
+    "description": "This model can be equipped with 1 havoc launcher.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002573",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s thunder hammer can be replaced with 1 weapon from the Melee Weapons list.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002573",
+    "line": "2",
+    "button": "•",
+    "description": "This model’s plasma pistol can be replaced with one of the following: 1 bolt pistol; 1 weapon from the Melee Weapons list.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002573",
+    "line": "3",
+    "button": "•",
+    "description": "This model’s plasma pistol can be replaced with one of the following: 1 weapon from the Combi-weapons list; 1 lightning claw.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002573",
+    "line": "4",
+    "button": "•",
+    "description": "This model’s thunder hammer can be replaced with one of the following: 1 weapon from the Pistols weapon list; 1 lightning claw.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002573",
+    "line": "5",
+    "button": "•",
+    "description": "This model can be equipped with 1 jump pack (Power Rating +1).*",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002574",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s combi-bolter can be replaced with one of the following: 1 combi-melta; 1 combi-plasma; 1 combi-flamer; 1 lightning claw.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002574",
+    "line": "2",
+    "button": "•",
+    "description": "This model’s exalted power axe can be replaced with one of the following: 1 lightning claw; 1 chainfist; 1 weapon (excluding 1 Astartes chainsword) from the Melee Weapons list.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002574",
+    "line": "3",
+    "button": "•",
+    "description": "This model’s combi-bolter can be replaced with one of the following: 1 weapon from the Melee weapons list (excluding 1 Astartes chainsword); 1 chainfist.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002575",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s bolt pistol can be replaced with one of the following: 1 lightning claw; 1 plasma pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002575",
+    "line": "2",
+    "button": "•",
+    "description": "This model’s combi-melta can be replaced with one of the following:1 combi-bolter; 1 combi-plasma; 1 combi-flamer.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002575",
+    "line": "3",
+    "button": "•",
+    "description": "This model’s exalted power axe can be replaced with one of the following: 1 weapon from the Melee weapons list; 1 weapon from the Pistols weapon list; 1 lightning claw.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002576",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s bolt pistol can be replaced with one of the following: 1 weapon from the Combi-weapons; 1 lightning claw; 1 plasma pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002576",
+    "line": "2",
+    "button": "•",
+    "description": "This model’s force stave can be replaced with one of the following: 1 force axe; 1 force sword.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002576",
+    "line": "3",
+    "button": "•",
+    "description": "This model can be equipped with 1 jump pack (Power Rating +1).",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002577",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s combi-bolter can be replaced with one of the following: 1 combi-melta; 1 combi-plasma; 1 combi-flamer.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002577",
+    "line": "2",
+    "button": "•",
+    "description": "This model’s force stave can be replaced with one of the following: 1 force axe; 1 force sword.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002577",
+    "line": "3",
+    "button": "•",
+    "description": "This model can be equipped with 1 Chaos familiar.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002577",
+    "line": "4",
+    "button": "•",
+    "description": "This model’s combi-bolter can be replaced with 1 weapon from the Melee weapons list (excluding 1 Astartes chainsword).",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002578",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s exalted power axe can be replaced with 1 thunder hammer.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002578",
+    "line": "2",
+    "button": "•",
+    "description": "This model’s plasma pistol can be replaced with one of the following: 1 weapon from the Combi-weapons list; 1 bolt pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002579",
+    "line": "1",
+    "button": "•",
+    "description": "The Aspiring Sorcerer’s inferno bolt pistol can be replaced with one of the following: 1 plasma pistol; 1 warpflame pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002579",
+    "line": "2",
+    "button": "•",
+    "description": "Any number of Rubric Marines can each have their inferno boltgun replaced with 1 warpflamer.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002579",
+    "line": "3",
+    "button": "•",
+    "description": "1 Rubric Marine can have its inferno boltgun replaced with 1 soulreaper cannon.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002579",
+    "line": "4",
+    "button": "•",
+    "description": "1 Rubric Marine can be equipped with 1 icon of flame.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002580",
+    "line": "1",
+    "button": "•",
+    "description": "The Plague Champion’s plague knife can be replaced with 1 daemonic plague blade.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002580",
+    "line": "2",
+    "button": "•",
+    "description": "The Plague Champion’s boltgun can be replaced with one of the following: 1 bolt pistol; 1 plasma gun; 1 plasma pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002580",
+    "line": "3",
+    "button": "•",
+    "description": "The Plague Champion can be equipped with 1 power fist.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002580",
+    "line": "4",
+    "button": "•",
+    "description": "1 Plague Marine’s boltgun can be replaced with 1 blight launcher.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002580",
+    "line": "5",
+    "button": "•",
+    "description": "1 Plague Marine’s boltgun can be replaced with 1 plague spewer.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002580",
+    "line": "6",
+    "button": "•",
+    "description": "If this unit contains 10 models, 1 additional Plague Marine’s boltgun can be replaced with one of the following: 1 blight launcher; 1 plague spewer.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002580",
+    "line": "7",
+    "button": "•",
+    "description": "For every 5 models in this unit, 1 Plague Marine’s boltgun can be replaced with one of the following: 1 meltagun; 1 plague belcher; 1 plasma gun.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002580",
+    "line": "8",
+    "button": "•",
+    "description": "For every 5 models in this unit, 1 Plague Marine’s boltgun can be replaced with 1 plague knife.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002580",
+    "line": "9",
+    "button": "•",
+    "description": "For every 5 models in this unit. 1 Plague Marine’s boltgun can be replaced with 1 bubotic axe.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002580",
+    "line": "10",
+    "button": "•",
+    "description": "For every 5 models in this unit, 1 Plague Marine’s boltgun can be replaced with 1 mace of contagion and 1 bubotic axe.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002580",
+    "line": "11",
+    "button": "•",
+    "description": "For every 5 models in this unit, 1 Plague Marine’s boltgun can be replaced with 1 flail of corruption.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002580",
+    "line": "12",
+    "button": "•",
+    "description": "For every 5 models in this unit, 1 Plague Marine’s boltgun can be replaced with 1 great plague cleaver.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002580",
+    "line": "13",
+    "button": "•",
+    "description": "1 Plague Marine that is equipped with a boltgun can be equipped with 1 icon of despair. That boltgun cannot be replaced.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002580",
+    "line": "14",
+    "button": "•",
+    "description": "1 Plague Marine that is equipped with a boltgun can be equipped with 1 sigil of decay. That boltgun cannot be replaced.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002581",
+    "line": "1",
+    "button": "•",
+    "description": "Any number of Noise Marines can each have their boltgun replaced with one of the following: 1 Astartes chainsword; 1 sonic blaster.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002581",
+    "line": "2",
+    "button": "•",
+    "description": "One Noise Marine’s boltgun can be replaced with 1 blastmaster.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002581",
+    "line": "3",
+    "button": "•",
+    "description": "The Noise Champion’s bolt pistol can be replaced with one of the following: 1 plasma pistol (maximum 1 per model); 1 weapon from the Melee Weapons list.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002581",
+    "line": "4",
+    "button": "•",
+    "description": "The Noise Champion’s boltgun can be replaced with one of the following: 1 sonic blaster; 1 plasma pistol (maximum 1 per model); 1 weapon from the Melee Weapons list.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002581",
+    "line": "5",
+    "button": "•",
+    "description": "The Noise Champion can be equipped with 1 doom siren.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002581",
+    "line": "6",
+    "button": "•",
+    "description": "One model can be equipped with 1 icon of Slaanesh.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002582",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s great axe of Khorne can be replaced with 1 axe of Khorne and one of the following: 1 bloodflail; 1 lash of Khorne.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002584",
+    "line": "1",
+    "button": "•",
+    "description": "One Pink Horror that is not equipped with a daemonic icon can be equipped with 1 instrument of Chaos.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002584",
+    "line": "2",
+    "button": "•",
+    "description": "One Pink Horror that is not equipped with an instrument of Chaos can be equipped with 1 daemonic icon.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002587",
+    "line": "1",
+    "button": "•",
+    "description": "The Navis Sergeant-at-Arms’ Navis shotgun can be replaced with one of the following: 1 autopistol and 1 chainsword; 1 bolt pistol and 1 power sword.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002587",
+    "line": "2",
+    "button": "•",
+    "description": "1 Navis Armsman’s Navis las-volley can be replaced with one of the following: 1 meltagun; 1 plasma gun.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002587",
+    "line": "3",
+    "button": "•",
+    "description": "1 Navis Armsman’s Navis shotgun can be replaced with 1 autopistol and 1 power axe.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002587",
+    "line": "4",
+    "button": "•",
+    "description": "1 Navis Armsman’s Navis shotgun can be replaced with 1 autopistol and 1 chainfist.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002587",
+    "line": "5",
+    "button": "•",
+    "description": "1 Navis Armsman can be equipped with 1 demolition charge, 1 frag grenades and 1 smoke grenades.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002588",
+    "line": "1",
+    "button": "•",
+    "description": "The Kroot Kill-broker’s pulse rifle and ritual blade can be replaced with one of the following: 1 Kroot rifle; 1 pulse carbine.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002588",
+    "line": "2",
+    "button": "•",
+    "description": "Up to 2 Kroot Farstalkers can each have their Kroot rifle replaced with 1 Kroot scattergun.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002588",
+    "line": "3",
+    "button": "•",
+    "description": "1 Kroot Farstalker’s Kroot rifle can be replaced with 1 Kroot hunting rifle.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002588",
+    "line": "4",
+    "button": "•",
+    "description": "1 Kroot Farstalker’s Kroot rifle can be replaced with 1 accelerator bow.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002588",
+    "line": "5",
+    "button": "•",
+    "description": "1 Kroot Farstalker’s Kroot rifle can be replaced with one of the following: 1 Dvorgite skinner; 1 Londaxi tribalest.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002588",
+    "line": "6",
+    "button": "•",
+    "description": "1 Kroot Farstalker equipped with a Kroot rifle can be equipped with 1 Pech’ra.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002590",
+    "line": "1",
+    "button": "•",
+    "description": "Up to 3 Traitor Guardsmen can each have their lasguns replaced with one of the following: 1 flamer; 1 cultist grenade launcher; 1 meltagun; 1 plasma gun; 1 cultist sniper rifle.*",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002590",
+    "line": "2",
+    "button": "•",
+    "description": "1 Traitor Guardsman can be equipped with 1 vox-caster.**",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002590",
+    "line": "3",
+    "button": "•",
+    "description": "The Traitor Sergeant’s laspistol can be replaced with one of the following: 1 autopistol; 1 bolt pistol; 1 plasma pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002590",
+    "line": "4",
+    "button": "•",
+    "description": "The Traitor Sergeant’s improvised blade can be replaced with one of the following: 1 chainsword; 1 power sword.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002590",
+    "line": "5",
+    "button": "•",
+    "description": "The Traitor Sergeant’s laspistol and improvised blade can be replaced with 1 boltgun.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002590",
+    "line": "6",
+    "button": "",
+    "description": "",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002590",
+    "line": "7",
+    "button": "",
+    "description": "* You cannot select the same weapon more than once per unit.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002590",
+    "line": "8",
+    "button": "",
+    "description": "** This model’s lasgun cannot be replaced.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002594",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s Autoch-pattem combi-bolter can be replaced with 1 volkanite disintegrator.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002594",
+    "line": "2",
+    "button": "•",
+    "description": "This model’s forgewrought plasma axe can be replaced with 1 mass gauntlet.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002594",
+    "line": "3",
+    "button": "•",
+    "description": "This model’s rampart crest can be replaced with 1 teleport crest.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002595",
+    "line": "1",
+    "button": "•",
+    "description": "This models mass hammer can be replaced with 1 darkstar axe.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002595",
+    "line": "2",
+    "button": "•",
+    "description": "This models Weavefield crest can be replaced with 1 teleport crest.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002598",
+    "line": "1",
+    "button": "•",
+    "description": "All of the models in the unit can have their Autoch-pattern bolter replaced with 1 ion blaster each.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002598",
+    "line": "2",
+    "button": "•",
+    "description": "You can select up to 2 different options from the following list:",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002598",
+    "line": "3",
+    "button": "○",
+    "description": "1 Warrior’s Autoch-pattern bolter or ion blaster can be replaced with 1 HYLas auto rifle.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002598",
+    "line": "4",
+    "button": "○",
+    "description": "1 Warrior’s Autoch-pattern bolter or ion blaster can be replaced with 1 L7 missile launcher",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002598",
+    "line": "5",
+    "button": "○",
+    "description": "1 Warrior’s Autoch-pattern bolter or ion blaster can be replaced with 1 EtaCarn plasma beamer",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002598",
+    "line": "6",
+    "button": "○",
+    "description": "1 Warrior’s Autoch-pattern bolter or ion blaster can be replaced with 1 magna-rail rifle.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002598",
+    "line": "7",
+    "button": "•",
+    "description": "If this unit contains 20 models, you can also select up to 2 different options from the following list:",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002598",
+    "line": "8",
+    "button": "○",
+    "description": "1 Warrior’s Autoch-pattern bolter or ion blaster can be replaced with 1 HYLas auto rifle.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002598",
+    "line": "9",
+    "button": "○",
+    "description": "1 Warrior’s Autoch-pattern bolter or ion blaster can be replaced with 1 L7 missile launcher",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002598",
+    "line": "10",
+    "button": "○",
+    "description": "1 Warrior’s Autoch-pattern bolter or ion blaster can be replaced with 1 EtaCarn plasma beamer",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002598",
+    "line": "11",
+    "button": "○",
+    "description": "1 Warrior’s Autoch-pattern bolter or ion blaster can be replaced with 1 magna-rail rifle.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002598",
+    "line": "12",
+    "button": "•",
+    "description": "Up to 3 different Warriors that are equipped with either an Autoch-pattern bolter or ion blaster can each take one different option from the following list:",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002598",
+    "line": "13",
+    "button": "○",
+    "description": "Be equipped with a medipack.*",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002598",
+    "line": "14",
+    "button": "○",
+    "description": "Be equipped with a multiwave comms array*",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002598",
+    "line": "15",
+    "button": "○",
+    "description": "Be equipped with a pan spectral scanner*",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002598",
+    "line": "16",
+    "button": "*",
+    "description": "This model’s Autoch-pattern bolter or ion blaster cannot be replaced.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002598",
+    "line": "17",
+    "button": "•",
+    "description": "The Theyn’s Autoch-pattern bolt pistol can be replaced with one of the following: 1 ion pistol; 1 EtaCarn plasma pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002598",
+    "line": "18",
+    "button": "•",
+    "description": "The Theyn’s Autoch-pattern bolter or ion blaster can be replaced with one of the following: 1 concussion gauntlet; 1 plasma axe; 1 plasma sword.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002599",
+    "line": "1",
+    "button": "•",
+    "description": "All of the models in the unit can have their EtaCarn plasma gun replaced with 1 volkanite disintegrator each.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002599",
+    "line": "2",
+    "button": "•",
+    "description": "All of the models in the unit can have their concussion gauntlet replaced with 1 plasma blade gauntlet each.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002599",
+    "line": "3",
+    "button": "•",
+    "description": "The Hesyr’s concussion gauntlet or plasma blade gauntlet can be replaced with 1 concussion hammer.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002599",
+    "line": "4",
+    "button": "•",
+    "description": "The Hesyr’s Weavefield crest can be replaced with 1 teleport crest.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002600",
+    "line": "1",
+    "button": "•",
+    "description": "All of the models in the unit can have their heavy plasma axe replaced with 1 concussion maul each.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002600",
+    "line": "2",
+    "button": "•",
+    "description": "For every 5 models in this unit, 1 model that is not equipped with a mole grenade launcher can have its heavy plasma axe or concussion maul replaced with 1 twin concussion gauntlet.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002600",
+    "line": "3",
+    "button": "•",
+    "description": "For every 5 models in this unit, 1 model that is not equipped with a twin concussion gauntlet can be equipped with 1 mole grenade launcher. If a model has a mole grenade launcher, add 1 to its Wounds and Attacks characteristics. While a unit contains one or more models equipped with a mole grenade launcher, it has the SUBTERRANEAN EXPLOSIVES keyword.*",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002600",
+    "line": "4",
+    "button": "*",
+    "description": "Designer’s Note: If a Beserk is equipped with a mole grenade launcher, it will be accompanied by an L-COG unit: both models should be placed on the same base and together they act as a single model for all rules purposes (albeit one with improved characteristics).",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002601",
+    "line": "1",
+    "button": "•",
+    "description": "For every 3 models in this unit, 1 can be equipped with one of the following: 1 HYLas rotary cannon; 1 ion beamer. If a model is equipped with any of these weapons, add 1 to its Attacks and Wounds characteristics.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002601",
+    "line": "2",
+    "button": "•",
+    "description": "Up to 3 different models that are not equipped with either a HYLas rotary cannon or an ion beamer can each take one different option from the following list:",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002601",
+    "line": "3",
+    "button": "•",
+    "description": "Be equipped with 1 rollbar searchlight.*",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002601",
+    "line": "4",
+    "button": "•",
+    "description": "Be equipped with 1 multiwave comms array.*",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002601",
+    "line": "5",
+    "button": "•",
+    "description": "Be equipped with 1 pan spectral scanner.*",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002601",
+    "line": "6",
+    "button": "*",
+    "description": "This model cannot be equipped with a HYLas rotary cannon or an ion beamer.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002602",
+    "line": "1",
+    "button": "•",
+    "description": "Any number of models can each have their HYLas beam cannon replaced with one of the following: 1 L7 missile launcher and 1 Sagitaur missile launcher; 1 MATR autocannon.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002603",
+    "line": "1",
+    "button": "•",
+    "description": "All of the models in the unit can have their bolt cannon replaced with 1 graviton blast cannon each.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002603",
+    "line": "2",
+    "button": "•",
+    "description": "All of the models in the unit can have their bolt cannon replaced with 1 SP conversion beamer each.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002604",
+    "line": "1",
+    "button": "•",
+    "description": "This model can take one of the following options:",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002604",
+    "line": "2",
+    "button": "○",
+    "description": "Replace 2 bolt cannons with 2 ion beamers.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002604",
+    "line": "3",
+    "button": "○",
+    "description": "Replace 4 bolt cannons with 4 ion beamers.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002604",
+    "line": "4",
+    "button": "•",
+    "description": "This model’s cyclic ion cannon can be replaced with one of the following: 1 SP heavy conversion beamer; 1 heavy magna-rail cannon.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002604",
+    "line": "5",
+    "button": "•",
+    "description": "This model’s pan spectral scanner can be replaced with one of the following: 1 Ancestor’s vengeance warhead; 1 Kin’s wrath warhead; 1 mountain breaker warhead.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002607",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s chainsword can be replaced with one of the following: 1 boltgun; 1 power fist; 1 power sword.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002607",
+    "line": "2",
+    "button": "•",
+    "description": "This model’s laspistol can be replaced with one of the following: 1 bolt pistol; 1 plasma pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002608",
+    "line": "1",
+    "button": "•",
+    "description": "Any number of Veteran Guardsmen can each have their lasgun replaced with 1 chainsword.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002608",
+    "line": "2",
+    "button": "•",
+    "description": "Any number of Veteran Guardsmen can each have their lasgun replaced with one of the following: 1 flamer; 1 grenade launcher; 1 heavy flamer; 1 meltagun; 1 plasma gun; 1 sniper rifle.**",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002608",
+    "line": "3",
+    "button": "•",
+    "description": "1 Veteran Guardsman equipped with a lasgun or chainsword can be equipped with 1 master vox.***",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002608",
+    "line": "4",
+    "button": "•",
+    "description": "1 Veteran Guardsman equipped with a lasgun or chainsword can be equipped with 1 medi-pack.***",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002608",
+    "line": "5",
+    "button": "•",
+    "description": "1 Veteran Guardsman equipped with a lasgun or chainsword can be equipped with 1 regimental standard.***",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002608",
+    "line": "6",
+    "button": "•",
+    "description": "The Platoon Commander’s laspistol can be replaced with one of the following: 1 bolt pistol; 1 boltgun; 1 plasma pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002608",
+    "line": "7",
+    "button": "•",
+    "description": "The Platoon Commander can be equipped with one of the following: 1 chainsword; 1 power fist; 1 power sword.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002608",
+    "line": "8",
+    "button": "•",
+    "description": "The Veteran Heavy Weapons Team’s heavy bolter can be replaced with one of the following: 1 autocannon; 1 lascannon; 1 missile launcher; 1 mortar.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002608",
+    "line": "9",
+    "button": "",
+    "description": "",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002608",
+    "line": "10",
+    "button": "",
+    "description": "** You cannot select the same weapon more than once per unit.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002608",
+    "line": "11",
+    "button": "",
+    "description": "*** A model can only take one of these options, and if it does so its lasgun cannot be replaced.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002609",
+    "line": "1",
+    "button": "•",
+    "description": "1 Cadian Veteran Guardsman’s lasgun and regimental standard can be replaced with one of the following: 1 flamer; 1 grenade launcher; 1 meltagun; 1 plasma gun.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002609",
+    "line": "2",
+    "button": "•",
+    "description": "1 Cadian Veteran Guardsman’s laspistol can be replaced with one of the following: 1 bolt pistol; 1 plasma pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002609",
+    "line": "3",
+    "button": "•",
+    "description": "1 Cadian Veteran Guardsman’s chainsword can be replaced with one of the following: 1 flamer; 1 grenade launcher; 1 meltagun; 1 plasma gun; 1 power fist; 1 power sword.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002609",
+    "line": "4",
+    "button": "•",
+    "description": "The Cadian Commander’s chainsword can be replaced with one of the following: 1 power fist; 1 power sword.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002609",
+    "line": "5",
+    "button": "•",
+    "description": "The Cadian Commander’s laspistol can be replaced with one of the following: 1 bolt pistol; 1 plasma pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002611",
+    "line": "1",
+    "button": "•",
+    "description": "Ogryn Bodyguard ripper gun can be replaced with one of the following: 1 grenadier gauntlet; 1 Bullgryn maul.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002611",
+    "line": "2",
+    "button": "•",
+    "description": "Ogryn Bodyguard huge knife can be replaced with one of the following: 1 brute shield; 1 slabshield.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002611",
+    "line": "3",
+    "button": "•",
+    "description": "Ogryn Bodyguard can be equipped with 1 Bullgryn plate.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002612",
+    "line": "1",
+    "button": "•",
+    "description": "Up to 2 Shock Troopers can each have their lasguns replaced with one of the following: 1 flamer; 1 grenade launcher; 1 meltagun; 1 plasma gun.*",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002612",
+    "line": "2",
+    "button": "•",
+    "description": "1 Shock Trooper equipped with a lasgun can be equipped with 1 vox-caster. This models lasgun cannot be replaced.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002612",
+    "line": "3",
+    "button": "•",
+    "description": "The Shock Trooper Sergeants laspistol can be replaced with 1 bolt pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002612",
+    "line": "4",
+    "button": "•",
+    "description": "The Shock Trooper Sergeant’s laspistol and chainsword can be replaced with 1 drum-fed autogun.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002612",
+    "line": "5",
+    "button": "",
+    "description": "",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002612",
+    "line": "6",
+    "button": "",
+    "description": "* You cannot select the same weapon more than twice per unit.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002613",
+    "line": "1",
+    "button": "•",
+    "description": "Up to 2 Death Korps Troopers can each have their lasguns replaced with one of the following: 1 flamer; 1 grenade launcher; 1 meltagun; 1 sniper rifle.*",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002613",
+    "line": "2",
+    "button": "•",
+    "description": "1 Death Korps Trooper’s plasma gun can be replaced with 1 lasgun and 1 vox-caster.**",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002613",
+    "line": "3",
+    "button": "•",
+    "description": "1 Death Korps Trooper equipped with a lasgun can be equipped with 1 Death Korps medi-pack.**",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002613",
+    "line": "4",
+    "button": "•",
+    "description": "The Death Korps Watchmaster’s laspistol can be replaced with 1 of the following: 1 bolt pistol; 1 plasma pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002613",
+    "line": "5",
+    "button": "•",
+    "description": "The Death Korps Watchmaster’s chainsword can be replaced with 1 power sword.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002613",
+    "line": "6",
+    "button": "•",
+    "description": "The Death Korps Watchmaster’s laspistol and chainsword can be replaced with 1 boltgun.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002613",
+    "line": "7",
+    "button": "",
+    "description": "",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002613",
+    "line": "8",
+    "button": "",
+    "description": "* You cannot select the same weapon more than twice per unit.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002613",
+    "line": "9",
+    "button": "",
+    "description": "** This model’s lasgun cannot be replaced.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002614",
+    "line": "1",
+    "button": "•",
+    "description": "For every 5 models in this unit, 1 Jungle Fighter’s lasgun can be replaced with 1 flamer.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002614",
+    "line": "2",
+    "button": "•",
+    "description": "1 Jungle Fighter equipped with a lasgun can be equipped with 1 vox-caster. This model’s lasgun cannot be replaced.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002615",
+    "line": "1",
+    "button": "•",
+    "description": "Up to 4 Kasrkin Troopers can each have their hot-shot lasguns replaced with one of the following: 1 flamer; 1 grenade launcher; 1 hot-shot volley gun; 1 meltagun; 1 plasma gun.*",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002615",
+    "line": "2",
+    "button": "•",
+    "description": "1 Kasrkin Trooper’s hot-shot lasgun can be replaced with 1 hot-shot marksman rifle.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002615",
+    "line": "3",
+    "button": "•",
+    "description": "1 Kasrkin Trooper’s hot-shot lasgun can be replaced with 1 hot-shot laspistol and 1 melta mine.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002615",
+    "line": "4",
+    "button": "•",
+    "description": "1 Kasrkin Trooper equipped with a hot-shot lasgun can be equipped with 1 vox-caster.**",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002615",
+    "line": "5",
+    "button": "•",
+    "description": "The Kasrkin Sergeant can be equipped with one of the following: 1 chainsword; 1 power sword.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002615",
+    "line": "6",
+    "button": "•",
+    "description": "The Kasrkin Sergeant’s bolt pistol can be replaced with one of the following: 1 hot-shot laspistol; 1 plasma pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002615",
+    "line": "7",
+    "button": "",
+    "description": "",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002615",
+    "line": "8",
+    "button": "",
+    "description": "* You cannot select the same weapon more than twice per unit.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002615",
+    "line": "9",
+    "button": "",
+    "description": "** This model’s hot-shot lasgun cannot be replaced.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002616",
+    "line": "1",
+    "button": "•",
+    "description": "For every 5 models in this unit, 1 model’s hunting lance can be replaced with 1 goad lance.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002616",
+    "line": "2",
+    "button": "•",
+    "description": "The Rough Rider Sergeant can be equipped with 1 power sabre.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002617",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s twin battle cannon can be replaced with 1 oppressor cannon and 1 co-axial autocannon.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002617",
+    "line": "2",
+    "button": "•",
+    "description": "This models castigator gatling cannon can be replaced with 1 pulveriser cannon.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002617",
+    "line": "3",
+    "button": "•",
+    "description": "This model can be equipped with one of the following: 2 meltaguns; 2 additional heavy stubbers.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002617",
+    "line": "4",
+    "button": "•",
+    "description": "This model can be equipped with one of the following: 2 heavy bolters; 2 multi-meltas.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002617",
+    "line": "5",
+    "button": "•",
+    "description": "This model can be equipped with armoured tracks.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002618",
+    "line": "1",
+    "button": "•",
+    "description": "Any number of models can each have their malleus rocket launcher replaced with one of the following: 1 bombast field gun; 1 heavy lascannon.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002620",
+    "line": "1",
+    "button": "•",
+    "description": "For every 5 models in this unit, up to two Tempestus Scions can each have their hot-shot lasgun replaced with one of the following: 1 flamer; 1 grenade launcher; 1 hot-shot volley gun; 1 meltagun; 1 plasma gun*",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002620",
+    "line": "2",
+    "button": "•",
+    "description": "One Tempestus Scion’s hot-shot lasgun can be replaced with 1 hot-shot laspistol and 1 vox-caster.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002620",
+    "line": "3",
+    "button": "•",
+    "description": "The Tempestor’s chainsword can be replaced with one of the following: 1 power fist; 1 power sword.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002620",
+    "line": "4",
+    "button": "•",
+    "description": "The Tempestor’s bolt pistol can be replaced with one of the following: 1 hot-shot laspistol; 1 plasma pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002620",
+    "line": "5",
+    "button": "",
+    "description": "",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002620",
+    "line": "6",
+    "button": "",
+    "description": "* You cannot select the same weapon more than once per unit, unless the unit contains 10 models, in which case you cannot select the same weapon more than twice per unit.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002624",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s hellforged sword can be replaced with one of the following: 1 daemonic axe; 1 malefic talons.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002624",
+    "line": "2",
+    "button": "•",
+    "description": "This model can be equipped with 1 wings (Power Rating +2).",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002627",
+    "line": "1",
+    "button": "•",
+    "description": "The Khorne Berzerker Champion’s bolt pistol can be replaced with 1 plasma pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002627",
+    "line": "2",
+    "button": "•",
+    "description": "For every 5 models in this unit, one Khorne Berzerker’s bolt pistol can be replaced with 1 plasma pistol.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002627",
+    "line": "3",
+    "button": "•",
+    "description": "For every 5 models in this unit, one Khorne Berzerker’s Berzerker chainblade can be replaced with 1 Khornate eviscerator.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002627",
+    "line": "4",
+    "button": "•",
+    "description": "One model can be equipped with 1 Berzerker icon.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002628",
+    "line": "1",
+    "button": "•",
+    "description": "For every 10 models in this unit, one Jakhal’s Jakhal chainblades can be replaced with 1 mauler chainblade.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002628",
+    "line": "2",
+    "button": "•",
+    "description": "Any number of Dishonoured can each be equipped with 1 skullsmasher.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002628",
+    "line": "3",
+    "button": "•",
+    "description": "For every 10 models in this unit, one Jakhal can be equipped with 1 Jakhal icon.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002629",
+    "line": "1",
+    "button": "•",
+    "description": "For every 5 models in this unit:",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002629",
+    "line": "2",
+    "button": "○",
+    "description": "One World Eaters Terminator’s combi-bolter can be replaced with one of the following: 1 reaper autocannon; 1 heavy flamer.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002629",
+    "line": "3",
+    "button": "○",
+    "description": "One model’s combi-bolter can be replaced with 1 combi-plasma.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002629",
+    "line": "4",
+    "button": "○",
+    "description": "Up to two models can each have their combi-bolter replaced with 1 combi-flamer.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002629",
+    "line": "5",
+    "button": "○",
+    "description": "Up to two models can each have their combi-bolter replaced with 1 combi-melta.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002629",
+    "line": "6",
+    "button": "○",
+    "description": "One model’s combi-bolter can be replaced with 1 accursed weapon. Neither of this model’s accursed weapons can be replaced with 1 power fist or 1 chainfist (see below).",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002629",
+    "line": "7",
+    "button": "○",
+    "description": "Up to three models can each have their accursed weapon replaced with 1 power fist.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002629",
+    "line": "8",
+    "button": "○",
+    "description": "One model’s accursed weapon can be replaced with 1 chainfist.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002630",
+    "line": "1",
+    "button": "•",
+    "description": "The Eightbound Champion’s lacerators can be replaced with 1 heavy chainglaive.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002631",
+    "line": "1",
+    "button": "•",
+    "description": "The Exalted Eightbound Champion’s Eightbound eviscerator can be replaced with 1 Eightbound chainfist.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002631",
+    "line": "2",
+    "button": "•",
+    "description": "The Exalted Eightbound Champion’s Eightbound eviscerator and Eightbound chainfist can be replaced with 1 heavy chainglaive.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002632",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s twin heavy bolter can be replaced with one of the following: 1 Helbrute plasma cannon; 1 multi-melta; 1 reaper autocannon; 1 twin lascannon; 1 Helbrute fist.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002632",
+    "line": "2",
+    "button": "•",
+    "description": "This model’s missile launcher can be replaced with one of the following: 1 Helbrute fist; 1 Helbrute hammer; 1 power scourge.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002632",
+    "line": "3",
+    "button": "•",
+    "description": "For each Helbrute fist this model is equipped with, it can be equipped with one of the following: 1 heavy flamer; 1 combi-bolter.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002634",
+    "line": "1",
+    "button": "•",
+    "description": "This model can be equipped with one of the following: 1 combi-bolter; 1 combi-flamer; 1 combi-melta.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002634",
+    "line": "2",
+    "button": "•",
+    "description": "This model can be equipped with 1 havoc launcher.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002635",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s twin heavy flamer can be replaced with one of the following: 1 havoc launcher; 1 Defiler scourge.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002635",
+    "line": "2",
+    "button": "•",
+    "description": "This model’s reaper autocannon can be replaced with one of the following: 1 twin heavy bolter; 1 twin lascannon.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002635",
+    "line": "3",
+    "button": "•",
+    "description": "This model can be equipped with one of the following: 1 combi-bolter; 1 combi-flamer; 1 combi-melta.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002636",
+    "line": "1",
+    "button": "•",
+    "description": "This model can be equipped with one of the following: 2 heavy bolters; 2 lascannons.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002636",
+    "line": "2",
+    "button": "•",
+    "description": "This model can be equipped with one of the following: 1 combi-bolter; 1 combi-flamer; 1 combi-melta.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002636",
+    "line": "3",
+    "button": "•",
+    "description": "This model can be equipped with 1 havoc launcher.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002637",
+    "line": "1",
+    "button": "•",
+    "description": "This model can be equipped with one of the following: 2 heavy bolters; 2 lascannons.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002637",
+    "line": "2",
+    "button": "•",
+    "description": "This model can be equipped with one of the following: 1 combi-bolter; 1 combi-flamer; 1 combi-melta.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002637",
+    "line": "3",
+    "button": "•",
+    "description": "This model can be equipped with 1 havoc launcher.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002638",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s 2 heavy hades autocannons can be replaced with 2 ectoplasma cannons.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002638",
+    "line": "2",
+    "button": "•",
+    "description": "This model’s Forgefiend jaws can be replaced with 1 ectoplasma cannon.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002639",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s lasher tendrils can be replaced with 2 magma cutters.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002640",
+    "line": "1",
+    "button": "•",
+    "description": "This model can be equipped with one of the following: 1 combi-bolter; 1 combi-flamer; 1 combi-melta.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002640",
+    "line": "2",
+    "button": "•",
+    "description": "This model can be equipped with 1 havoc launcher.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002641",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s hades autocannon can be replaced with 1 baleflamer.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002642",
+    "line": "1",
+    "button": "•",
+    "description": "This model’s gorestorm cannon can be replaced with one of the following: 1 daemongore cannon; 1 ichor cannon.",
+    "is_index_wargear": "false"
+  },
+  {
+    "datasheet_id": "000002642",
+    "line": "2",
+    "button": "•",
+    "description": "This model’s hades gatling cannon can be replaced with 1 skullhurler.",
     "is_index_wargear": "false"
   }
 ]

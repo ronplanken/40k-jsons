@@ -181,66 +181,6 @@
   },
   {
     "roll": "1",
-    "name": "TERRIFY",
-    "faction_id": "INQ",
-    "faction_name": "Inquisition",
-    "legend": "",
-    "type": "Telethesia Discipline",
-    "description": "Malediction: Terrify has a warp charge value of 6. If manifested, select one enemy unit within 18\" of, and visible to, this PSYKER. Until the start of your next Psychic phase:Subtract 1 from the Leadership characteristic of models in that unit.That unit cannot fire Overwatch.",
-    "id": "000003853002"
-  },
-  {
-    "roll": "2",
-    "name": "PSYCHIC FORTITUDE",
-    "faction_id": "INQ",
-    "faction_name": "Inquisition",
-    "legend": "",
-    "type": "Telethesia Discipline",
-    "description": "Blessing: Psychic Fortitude has a warp charge value of 4. If manifested, select one friendly IMPERIUM unit within 12\" of this PSYKER. Until the start of your next Psychic phase, when a Morale test is taken for that unit, do not roll the dice; it is automatically passed.",
-    "id": "000003853003"
-  },
-  {
-    "roll": "3",
-    "name": "DOMINATE",
-    "faction_id": "INQ",
-    "faction_name": "Inquisition",
-    "legend": "",
-    "type": "Telethesia Discipline",
-    "description": "Malediction: Dominate has a warp charge value of 6. If manifested, select one enemy model within 12\" of this PSYKER that is not a VEHICLE and roll 3D6. If the total is equal to or greater than that enemy model’s Leadership characteristic, that enemy model can immediately shoot with one weapon as if it were your Shooting phase, or make one attack as if it were the Fight phase. In either case, treat that enemy model as if it is a separate unit that is part of your army whilst shooting or making that close combat attack.",
-    "id": "000003853004"
-  },
-  {
-    "roll": "4",
-    "name": "MENTAL INTERROGATION",
-    "faction_id": "INQ",
-    "faction_name": "Inquisition",
-    "legend": "",
-    "type": "Telethesia Discipline",
-    "description": "Malediction: Mental Interrogation has a warp charge value of 6. If manifested, select one enemy CHARACTER model within 12\" of, and visible to, this PSYKER.Until the start of your next Psychic phase, when resolving an attack made by that enemy model, subtract 1 from the hit roll.If your army is Battle-forged roll 3D6; if the result is equal to or greater than that enemy model’s Leadership characteristic, you gain 1 Command point.",
-    "id": "000003853005"
-  },
-  {
-    "roll": "5",
-    "name": "PSYCHIC PURSUIT",
-    "faction_id": "INQ",
-    "faction_name": "Inquisition",
-    "legend": "",
-    "type": "Telethesia Discipline",
-    "description": "Blessing: Psychic Pursuit has a warp charge value of 7. If manifested, select one enemy CHARACTER unit that only contains models with a Wounds characteristic of 9 or less and is within 18\" of, and visible to, this PSYKER. Then, select one friendly &lt;ORDO&gt; INFANTRY unit within 6\" of this PSYKER. Until the end of your next Shooting phase, each time you select a target for a ranged weapon a model in that friendly &lt;ORDO&gt; INFANTRY unit is making an attack with, you can ignore the Look Out, Sir rule if you select that enemy CHARACTER unit as the target.",
-    "id": "000003853006"
-  },
-  {
-    "roll": "6",
-    "name": "CASTIGATION",
-    "faction_id": "INQ",
-    "faction_name": "Inquisition",
-    "legend": "",
-    "type": "Telethesia Discipline",
-    "description": "Witchfire: Castigation has a warp charge value of 6. If manifested, select one enemy unit within 18\" of, and visible to, this PSYKER and roll 3D6; if the total exceeds the lowest Leadership characteristic in that enemy unit, that enemy unit suffers D3 mortal wounds.",
-    "id": "000003853007"
-  },
-  {
-    "roll": "1",
     "name": "TECTONIC PURGE (AURA)",
     "faction_id": "SM",
     "faction_name": "Space Marines",
@@ -361,6 +301,126 @@
   },
   {
     "roll": "1",
+    "name": "TWILIGHT PATHWAYS",
+    "faction_id": "AE",
+    "faction_name": "Aeldari",
+    "legend": "Eerie half-lit tunnels blink into existence, opening new paths of manoeuvre and attack.",
+    "type": "Psychic Disciplines",
+    "description": "Blessing: Twilight Pathways has a warp charge value of 6. If manifested, select one friendly &lt;SAEDATH&gt; CORE or &lt;SAEDATH&gt; CHARACTER unit within 6\" of this PSYKER. That unit can immediately make a normal Move, Advance or Fall Back as if it were your Movement phase. If it does so, that unit is not eligible to declare a charge this turn.",
+    "id": "000006717002"
+  },
+  {
+    "roll": "2",
+    "name": "FOG OF DREAMS",
+    "faction_id": "AE",
+    "faction_name": "Aeldari",
+    "legend": "The Shadowseer sends forth their consciousness like a creeping mist, baffling the senses of the enemy.",
+    "type": "Psychic Disciplines",
+    "description": "Blessing: Fog of Dreams has a warp charge value of 6. If manifested, select one friendly &lt;SAEDATH&gt; CORE or &lt;SAEDATH&gt; CHARACTER unit within 12\" of this PSYKER. Until the start of your next Psychic phase, that unit can only be selected as the target of a ranged attack if it is the closest eligible target for that attack or is within 12\" of the shooting model.",
+    "id": "000006717003"
+  },
+  {
+    "roll": "3",
+    "name": "MIRROR OF MINDS",
+    "faction_id": "AE",
+    "faction_name": "Aeldari",
+    "legend": "A maddening clash of wills consumes the victims mind as reality falls away.",
+    "type": "Psychic Disciplines",
+    "description": "Witchfire: Mirror of Minds has a warp charge value of 7. If manifested, select one enemy unit within 18\" of this PSYKER. That enemy unit suffers D3 mortal wounds, then roll off with your opponent. If you win or draw that roll off, that enemy unit suffers 1 mortal wound. Repeat this roll off process until either that enemy unit has suffered 6 mortal wounds, that enemy unit is destroyed, or your opponent wins the roll off.",
+    "id": "000006717004"
+  },
+  {
+    "roll": "4",
+    "name": "VEIL OF TEARS",
+    "faction_id": "AE",
+    "faction_name": "Aeldari",
+    "legend": "Sketching a gesture in the air, the Shadowseer snatches the image of the Harlequins from the minds of their foes, hiding them from sight.",
+    "type": "Psychic Disciplines",
+    "description": "Malediction: Veil of Tears has a warp charge value of 7. If manifested, select one enemy unit within 18\" of and visible to this PSYKER. Until the start of your next Psychic phase, models in that enemy unit cannot target &lt;SAEDATH&gt; units from your army that are more than 18\" away with ranged attacks.",
+    "id": "000006717005"
+  },
+  {
+    "roll": "5",
+    "name": "SHARDS OF LIGHT",
+    "faction_id": "AE",
+    "faction_name": "Aeldari",
+    "legend": "Blades of polychrome energy dazzle the foe, inflicting horrific and disorientating psychosomatic wounds.",
+    "type": "Psychic Disciplines",
+    "description": "Witchfire: Shards of Light has a warp charge value of 6. If manifested, select one enemy unit within 18\" of and visible to this PSYKER.That enemy unit suffers 1 mortal wound. If it is a VEHICLE or MONSTER unit, or a unit that contains 6 or more models, it suffers D3 mortal wounds instead.Until the start of your next Psychic phase, subtract 2 from the Leadership characteristic of models in that enemy unit.",
+    "id": "000006717006"
+  },
+  {
+    "roll": "6",
+    "name": "WEBWAY DANCE (AURA)",
+    "faction_id": "AE",
+    "faction_name": "Aeldari",
+    "legend": "The veils between realspace and the webway grow thin, allowing the Harlequins to jink away from danger with quicksilver speed, only to reappear unharmed moments later.",
+    "type": "Psychic Disciplines",
+    "description": "Blessing: Webway Dance has a warp charge value of 7. If manifested, until the start of your next Psychic phase, this PSYKER gains the following ability:Webway Dance (Aura): While a friendly &lt;SAEDATH&gt; unit is within 6\" of this PSYKER, each time a model in that unit would lose a wound, roll one D6: on a 6, that wound is not lost.",
+    "id": "000006717007"
+  },
+  {
+    "roll": "1",
+    "name": "GAZE OF YNNEAD",
+    "faction_id": "AE",
+    "faction_name": "Aeldari",
+    "legend": "The psykers eyes blaze with fire as they channel the power of Ynnead, the Whispering God.",
+    "type": "Psychic Disciplines",
+    "description": "Witchfire: Gaze of Ynnead has a warp charge value of 6. If manifested, select one enemy unit within 18\" of this PSYKER and roll one D6, subtracting 2 from the result if that unit had a Starting Strength of 1. On a 1 or less, that unit suffers 1 mortal wound. On a 2-5, that unit suffers D3 mortal wounds. On a 6, that unit suffers D6 mortal wounds.",
+    "id": "000006718002"
+  },
+  {
+    "roll": "2",
+    "name": "STORM OF WHISPERS",
+    "faction_id": "AE",
+    "faction_name": "Aeldari",
+    "legend": "The psykers voice joins with those of the dead to drive the foe utterly insane.",
+    "type": "Psychic Disciplines",
+    "description": "Witchfire: Storm of Whispers has a warp charge value of 6. If manifested, roll three D6 for each enemy unit within 9\" of this PSYKER. For each 4+, the enemy unit being rolled for suffers 1 mortal wound.",
+    "id": "000006718003"
+  },
+  {
+    "roll": "3",
+    "name": "WORD OF THE PHOENIX",
+    "faction_id": "AE",
+    "faction_name": "Aeldari",
+    "legend": "The psyker calls upon the revenant energies of the mythical phoenix to restore the life force of fallen warriors.",
+    "type": "Psychic Disciplines",
+    "description": "Blessing: Word of the Phoenix has a warp charge value of 6. If manifested, select one friendly YNNARI INFANTRY unit (excluding WRAITH CONSTRUCT units) within 6\" of this PSYKER. One of that unit’s destroyed models (or D3 of its destroyed models if that unit has the Troops Battlefield Role) can be added back to that unit with full wounds remaining. These models can only be set up within Engagement Range of enemy units that are already within Engagement Range of the unit they are being added back to.",
+    "id": "000006718004"
+  },
+  {
+    "roll": "4",
+    "name": "UNBIND SOULS",
+    "faction_id": "AE",
+    "faction_name": "Aeldari",
+    "legend": "The psyker reaches out with their mind to weaken the bond between soul and body, debilitating the enemy.",
+    "type": "Psychic Disciplines",
+    "description": "Malediction: Unbind Souls has a warp charge value of 6. If manifested, select one enemy unit within 18\" of this PSYKER. Each time a YNNARI model from your army makes a melee attack that targets that enemy unit, an unmodified hit roll of 6 automatically wounds the target.",
+    "id": "000006718005"
+  },
+  {
+    "roll": "5",
+    "name": "SHIELD OF YNNEAD",
+    "faction_id": "AE",
+    "faction_name": "Aeldari",
+    "legend": "The psyker manifests a shield of spiritual energy around their allies, sheltering the devotees of Ynnead.",
+    "type": "Psychic Disciplines",
+    "description": "Blessing: Shield of Ynnead has a warp charge value of 6. If manifested, select one friendly YNNARI unit (excluding TITANIC units) within 12\" of this PSYKER. Until the start of your next Psychic phase, models in that unit have a 4+ invulnerable save.",
+    "id": "000006718006"
+  },
+  {
+    "roll": "6",
+    "name": "ANCESTORS’ GRACE",
+    "faction_id": "AE",
+    "faction_name": "Aeldari",
+    "legend": "Drawing upon the greatness that is the genetic legacy of all Aeldari, the psyker bolsters their fellows.",
+    "type": "Psychic Disciplines",
+    "description": "Blessing: Ancestors’ Grace has a warp charge value of 7. If manifested, select one friendly YNNARI unit within 18\" of this PSYKER. Until the start of your next Psychic phase, each time a model in that unit makes a melee attack, add 1 to that attack’s wound roll.",
+    "id": "000006718007"
+  },
+  {
+    "roll": "1",
     "name": "MIASMA OF PESTILENCE",
     "faction_id": "DG",
     "faction_name": "Death Guard",
@@ -478,6 +538,46 @@
     "type": "Obscuration Discipline",
     "description": "Blessing: Temporal Corridor has a warp charge value of 5. If manifested, select one friendly &lt;CHAPTER&gt; PHOBOS unit within 6\" of this PSYKER.That unit cannot shoot or fight this turn.If that unit is not within Engagement Range of any enemy models, it can either make a Normal Move or it can Advance as if it were your Movement phase (if it Advances, do not make an Advance roll; instead, until the end of the phase, add 6\" to the Move characteristic of models in that unit).",
     "id": "000003379007"
+  },
+  {
+    "roll": "1",
+    "name": "Synaptic Barrier",
+    "faction_id": "TYR",
+    "faction_name": "Tyranids",
+    "legend": "The synapse creature creates a physical barrier of synaptic energy, shielding Tyranid beasts from attack.",
+    "type": "Army of Renown: Crusher Stampede",
+    "description": "Blessing: Synaptic Barrier has a warp charge value of 6. If manifested, select one friendly CRUSHER STAMPEDE model within 18\" of this PSYKER. Until the start of your next Psychic phase, that model has a 4+ invulnerable save.",
+    "id": "000006169002"
+  },
+  {
+    "roll": "2",
+    "name": "Aggressive Surge",
+    "faction_id": "TYR",
+    "faction_name": "Tyranids",
+    "legend": "The Hive Mind fills select beasts with ferocious energy that drives them to attack with unbounded aggression.",
+    "type": "Army of Renown: Crusher Stampede",
+    "description": "Blessing: Aggressive Surge has a warp charge value of 6. If manifested, select one friendly CRUSHER STAMPEDE model within 18\" of this PSYKER. Until the start of your next Psychic phase, add D3 to the Attacks characteristic of that model.",
+    "id": "000006169003"
+  },
+  {
+    "roll": "3",
+    "name": "Infused Energies",
+    "faction_id": "TYR",
+    "faction_name": "Tyranids",
+    "legend": "Through synaptic conduits, the Hive Mind imbues creatures of its horde with even greater energy and ferocity",
+    "type": "Army of Renown: Crusher Stampede",
+    "description": "Blessing: Infused Energies has a warp charge value of 6. If manifested, select one friendly CRUSHER STAMPEDE unit (excluding SYNAPSE units) within 18\" of this PSYKER. Until the start of your next Psychic phase, each time a model in that unit makes a melee attack, you can re-roll the hit roll.",
+    "id": "000006169004"
+  },
+  {
+    "roll": "1",
+    "name": "RITUAL SHACKLE",
+    "faction_id": "AoI",
+    "faction_name": "Agents of the Imperium",
+    "legend": "Through the occult imposition of psychic bonds, this psyker weaves a web of sanctified wards around the foe, sapping their spiritual and physical strength.",
+    "type": "Telethesia Discipline",
+    "description": "Malediction: Ritual Shackle has a warp charge value of 7. If manifested, select one enemy unit within 18\" of this PSYKER. Until your next Psychic phase:Subtract 1 from Psychic tests made for that enemy unit.Each time a model in that unit makes a melee attack, subtract 1 from that attack’s wound roll.If the result of the Psychic test was 10 or more, you can select one enemy unit within 24\" of this PSYKER, instead of within 18\".",
+    "id": "000006551002"
   },
   {
     "roll": "1",
@@ -721,123 +821,63 @@
   },
   {
     "roll": "1",
-    "name": "Incursion",
+    "name": "WARP MARKED",
     "faction_id": "CSM",
     "faction_name": "Chaos Space Marines",
-    "legend": "The psyker opens a portal to the Realm of Chaos, allowing the warp’s daemonic denizens to spill forth into reality.",
+    "legend": "The psyker marks his foes with a cursed rune that attracts the denizens of warp, who rush to devour the victims souls.",
     "type": "Malefic Discipline",
-    "description": "Incursion has a warp charge value of 7. If manifested, the psyker can immediately attempt to summon a unit of DAEMONS to the battlefield using the Daemonic Ritual ability as if it were the Movement phase. When doing so, roll up to 4 dice instead of up to 3. The psyker will not suffer any mortal wounds as a result of doubles or triples being rolled for this Daemonic Ritual.",
+    "description": "Malediction: Warp Marked has a warp charge value of 7. If manifested, select one enemy unit within 18\" of this PSYKER. Until the start of your next Psychic phase, each time a friendly &lt;LEGION&gt; DAEMONKIN or &lt;LEGION&gt; DAEMON ENGINE model makes an attack against that unit, add 1 to that attack’s wound roll.",
     "id": "000003236002"
   },
   {
     "roll": "2",
-    "name": "Sacrifice",
+    "name": "PACT OF FLESH",
     "faction_id": "CSM",
     "faction_name": "Chaos Space Marines",
-    "legend": "The psyker uses a sacrificial soul to remould and repair an unholy Daemon-form. The tainted spirits of Warpsmiths are particularly invigorating offerings to those Daemon Engines that are in their charge.",
+    "legend": "The psyker uses a measure of soul energy to remould the flesh of his allies, or else to animate their corpses with an unholy daemon inhabitant.",
     "type": "Malefic Discipline",
-    "description": "Sacrifice has a warp charge value of 4. If manifested, choose any model within 2\" of the psyker; that model suffers 1 mortal wound. Then, choose a friendly &lt;LEGION&gt; DAEMON model within 18\" of the psyker. That model regains D3 lost wounds. If that  DAEMON model is a DAEMON ENGINE and the model you chose to inflict the mortal wound on was a friendly &lt;LEGION&gt; WARPSMITH, the model regains 3 lost wounds instead.",
+    "description": "Blessing: Pact of Flesh has a warp charge value of 5. If manifested, select one friendly &lt;LEGION&gt; CORE, &lt;LEGION&gt; DAEMONKIN or &lt;LEGION&gt; CHARACTER unit within 18\" of this PSYKER.One model in that unit regains up to D3 lost wounds.If you selected a CORE or DAEMONKIN unit and that unit is not at its Starting Strength, one destroyed model is added back to that unit with its full wounds remaining.",
     "id": "000003236003"
   },
   {
     "roll": "3",
-    "name": "Mutated Invigoration",
+    "name": "CURSED EARTH",
     "faction_id": "CSM",
     "faction_name": "Chaos Space Marines",
-    "legend": "A wave of insanity and mutation flows from the psyker’s fingers, enveloping their Daemonkin allies with bountiful gifts.",
+    "legend": "The psyker becomes a conduit for the energies of the warp, tainting the ground and sustaining the Daemonkin that walk upon it.",
     "type": "Malefic Discipline",
-    "description": "Mutated Invigoration has a warp charge value of 7. If manifested, select a friendly CHAOS SPAWN , &lt;LEGION&gt; POSSESSED or &lt;LEGION&gt; CULT OF DESTRUCTION unit within 18\" of the psyker. Until the start of your next Psychic phase, that unit will gain a bonus depending on what unit it is, as follows:You can re-roll the dice when rolling for that Chaos Spawn’s Mutated Beyond Reason ability.You can re-roll the dice when rolling for the Attacks characteristic of that unit of Possessed due to its Writhing Tentacles ability.You can re-roll one of the dice when rolling for the Strength, AP and Damage characteristics of that Cult of Destruction unit’s weapons due to its Fleshmetal Guns or Fleshmetal Weapons ability.",
+    "description": "Blessing (Aura): Cursed Earth has a warp charge value of 7. If manifested, until the start of your next Psychic phase, while a friendly &lt;LEGION&gt; DAEMONKIN or &lt;LEGION&gt; DAEMON ENGINE unit is within 6\" of this PSYKER:DAEMONKIN and DAEMON ENGINE models in that unit have a 4+ invulnerable save.Each time an enemy unit finishes a charge move within Engagement Range of that unit, roll one D6: on a 2-4, that enemy unit suffers 1 mortal wound; on a 5+, that enemy unit suffers D3 mortal wounds.",
     "id": "000003236004"
   },
   {
     "roll": "4",
-    "name": "Possession",
+    "name": "POSSESSION",
     "faction_id": "CSM",
     "faction_name": "Chaos Space Marines",
-    "legend": "The psyker blasts away their enemy’s soul so that the spiritless shell left behind can be possessed by a Daemon, who quickly transforms it into a more pleasing form. Vehicles so possessed are typically unable to contain the Daemon within, and explode in a scream of empyric energy.",
+    "legend": "The psyker blasts away their enemys soul so that the spiritless shell can be possessed, even if only temporarily. In a frenzied orgy, the inhabiting daemon rips and tears before its host crumbles.",
     "type": "Malefic Discipline",
-    "description": "Possession has a warp charge value of 5. If manifested, then until the start of your next Psychic phase, the Armour Penetration characteristic of the psyker’s melee weapons is improved by 2 (e.g. an AP of -1 becomes -3). Furthermore, until the start of your next Psychic phase, each time the psyker destroys an enemy INFANTRY CHARACTER in the Fight phase, you can add a Chaos Spawn model to your army. If the destroyed model was ADEPTUS ASTARTES or HERETIC ASTARTES, you can instead add a Greater Possessed model to your army. If a new model is added to your army, set it up within 6\" of the psyker and more than 1\" from any enemy models. In addition, each time the psyker destroys an enemy VEHICLE model in the Fight phase that could explode, it automatically explodes; no dice roll is made and any mortal wounds suffered by the psyker in the resulting explosion are ignored.",
+    "description": "Witchfire: Possession has a warp charge value of 6. If manifested, select one enemy unit within 9\" of and visible to this PSYKER. Roll one D6, adding 1 to the result if the result of the Psychic test was an unmodified 10+: if the result is greater than that unit’s Toughness characteristic, one model in that unit (selected by your opponent) is destroyed. Then, if that unit has not been destroyed, that unit suffers D3 mortal wounds.",
     "id": "000003236005"
   },
   {
     "roll": "5",
-    "name": "Cursed Earth",
+    "name": "INFERNAL POWER",
     "faction_id": "CSM",
     "faction_name": "Chaos Space Marines",
-    "legend": "The psyker becomes a conduit through which the energies of the warp flow, tainting the very ground and sustaining the Daemonkin that walk upon it.",
+    "legend": "Diabolic energy flows from the psyker, imbuing the entities that reside within his followers bodies with even greater ferocity.",
     "type": "Malefic Discipline",
-    "description": "Cursed Earth has a warp charge value of 7. If manifested, then until the start of your next Psychic phase, the invulnerable save of friendly &lt;LEGION&gt; DAEMON units is improved by 1 (to a maximum of 3+) while they are within 6\" of this psyker.",
+    "description": "Blessing: Infernal Power has a warp charge value of 6. If manifested, select one friendly &lt;LEGION&gt; DAEMONKIN or &lt;LEGION&gt; DAEMON ENGINE unit within 18\" of this PSYKER. Until the start of your next Psychic phase, each time a melee attack is made by a DAEMONKIN or DAEMON ENGINE model in that unit, an unmodified hit roll of 6 automatically wounds the target (in such cases, for the purposes of rules that are triggered by a particular wound roll, that attack is considered to have been made with an unmodified wound roll of 6).",
     "id": "000003236006"
   },
   {
     "roll": "6",
-    "name": "Infernal Power",
+    "name": "MUTATED INVIGORATION",
     "faction_id": "CSM",
     "faction_name": "Chaos Space Marines",
-    "legend": "The fell power of the immaterium flows from the psyker, imbuing the Daemons that reside within his followers’ bodies with even greater ferocity.",
+    "legend": "A wave of insanity and mutation flows from the psykers fingers, enveloping their allies with bountiful diabolic gifts.",
     "type": "Malefic Discipline",
-    "description": "Infernal Power has a warp charge value of 6. If manifested, then until the start of your next Psychic phase re-roll hit and wound rolls of 1 for attacks made by friendly &lt;LEGION&gt; DAEMON units while they are within 6\" of this psyker.",
+    "description": "Blessing: Mutated Invigoration has a warp charge value of 6. If manifested, select one friendly &lt;LEGION&gt; unit within 18\" of this PSYKER. Until the start of your next Psychic phase, add 1 to either the Strength or Toughness characteristic of models in that unit (if the result of the Psychic test was 10+ and you selected a DAEMONKIN or DAEMON ENGINE unit, add 1 to both of these characteristics instead).",
     "id": "000003236007"
-  },
-  {
-    "roll": "1",
-    "name": "GAZE OF YNNEAD",
-    "faction_id": "YNN",
-    "faction_name": "Ynnari",
-    "legend": "The psyker’s eyes blaze with fire as they channel the power of Ynnead.",
-    "type": "Revenant Discipline",
-    "description": "Gaze of Ynnead has a warp charge value of 6. If manifested, select one enemy unit that is within 18\" of and visible to this psyker and roll one D6: on a 1, that unit suffers 1 mortal wound; on a 2-5 that unit suffers D3 mortal wounds; on a 6, that unit suffers D6 mortal wounds.",
-    "id": "000003516002"
-  },
-  {
-    "roll": "2",
-    "name": "STORM OF WHISPERS",
-    "faction_id": "YNN",
-    "faction_name": "Ynnari",
-    "legend": "The psyker’s voice joins with those of the dead to drive the foe insane.",
-    "type": "Revenant Discipline",
-    "description": "Storm of Whispers has a warp charge value of 6. If manifested, roll three D6 for each enemy unit within 6\" of this psyker; for each result of 6, the unit being rolled for suffers 1 mortal wound.",
-    "id": "000003516003"
-  },
-  {
-    "roll": "3",
-    "name": "WORD OF THE PHOENIX",
-    "faction_id": "YNN",
-    "faction_name": "Ynnari",
-    "legend": "The psyker calls upon the rebirthing energies of the mythical phoenix.",
-    "type": "Revenant Discipline",
-    "description": "Word of the Phoenix has a warp charge value of 5. If manifested, select one friendly YNNARI INFANTRY or YNNARI BIKER unit within 18\" of this psyker. If that unit contains a model that has lost any wounds, that model regains up to D3 lost wounds. Otherwise, if any models from that unit have been destroyed, roll one D6; on a 4+ you can return one destroyed model from that unit to the battlefield with 1 wound remaining, placing it in unit coherency (if the model cannot be placed in this way, it is not returned to the battlefield).",
-    "id": "000003516004"
-  },
-  {
-    "roll": "4",
-    "name": "UNBIND SOULS",
-    "faction_id": "YNN",
-    "faction_name": "Ynnari",
-    "legend": "The psyker reaches out with their powers to weaken the bond between soul and body.",
-    "type": "Revenant Discipline",
-    "description": "Unbind Souls has a warp charge value of 6. If manifested, select one enemy unit within 18\" of this psyker. Until the start of your next Psychic phase, when resolving an attack made with a melee weapon by a friendly YNNARI model against that enemy unit, you can re-roll the wound roll.",
-    "id": "000003516005"
-  },
-  {
-    "roll": "5",
-    "name": "SHIELD OF YNNEAD",
-    "faction_id": "YNN",
-    "faction_name": "Ynnari",
-    "legend": "The psyker manifests a shield of spiritual energy around their allies.",
-    "type": "Revenant Discipline",
-    "description": "Shield of Ynnead has a warp charge value of 7. If manifested, until the start of your next Psychic phase, friendly YNNARI units have a 5+ invulnerable save whilst they are within 6\" of this psyker.",
-    "id": "000003516006"
-  },
-  {
-    "roll": "6",
-    "name": "ANCESTOR’S GRACE",
-    "faction_id": "YNN",
-    "faction_name": "Ynnari",
-    "legend": "Drawing upon the greatness that is the genetic legacy of all Aeldari, the psyker bolsters their fellows.",
-    "type": "Revenant Discipline",
-    "description": "Ancestor’s Grace has a warp charge value of 5. If manifested, select one friendly YNNARI unit within 18\" of this psyker. Until the start of your next Psychic phase, when resolving an attack made by a model in that unit, re-roll a hit roll of 1.",
-    "id": "000003516007"
   },
   {
     "roll": "1",
@@ -1081,6 +1121,236 @@
   },
   {
     "roll": "1",
+    "name": "INFERNAL GAZE",
+    "faction_id": "CSM",
+    "faction_name": "Chaos Space Marines",
+    "legend": "Unholy power streams from the psykers eyes, charring and melting everything caught in its path.",
+    "type": "Dark Hereticus Discipline",
+    "description": "Witchfire: Infernal Gaze has a warp charge value of 5. If manifested, select one enemy unit within 18\" of and visible to this PSYKER and roll three D6. For each 4+, that enemy unit suffers 1 mortal wound. If the result of the Psychic test was an unmodified 10+, roll six D6 instead.",
+    "id": "000007560002"
+  },
+  {
+    "roll": "2",
+    "name": "PRESCIENCE",
+    "faction_id": "CSM",
+    "faction_name": "Chaos Space Marines",
+    "legend": "By focusing his warp-sight the psyker can guide the shots and strikes of his allies, bringing a swift and merciless death to the foe.",
+    "type": "Dark Hereticus Discipline",
+    "description": "Blessing: Prescience has a warp charge value of 7. If manifested, select one friendly &lt;LEGION&gt; unit within 18\" of this PSYKER. Until the start of your next Psychic phase, each time a model in that unit makes an attack, add 1 to that attack’s hit roll.",
+    "id": "000007560003"
+  },
+  {
+    "roll": "3",
+    "name": "DIABOLIC STRENGTH",
+    "faction_id": "CSM",
+    "faction_name": "Chaos Space Marines",
+    "legend": "The unholy energies of Chaos course through the recipient, swelling his frame with the strength to tear a tank in two.",
+    "type": "Dark Hereticus Discipline",
+    "description": "Blessing: Diabolic Strength has a warp charge value of 6. If manifested, select one friendly &lt;LEGION&gt; INFANTRY or &lt;LEGION&gt; CHAOS SPAWN model within 12\" of this PSYKER. Until the start of your next Psychic phase, add 2 to the Strength and Attacks characteristics of that model.",
+    "id": "000007560004"
+  },
+  {
+    "roll": "",
+    "name": "UNDERMINE",
+    "faction_id": "GC",
+    "faction_name": "Genestealer Cults",
+    "legend": "Just as the dark depths below serve to shelter the Cult of the Four-armed Emperor, so too can they be psychically opened into an abyss that swallows their enemies whole.",
+    "type": "Broodmind Discipline",
+    "description": "Malediction: Undermine has a warp charge value of 7. If manifested, select one enemy unit (excluding units that can FLY) within 18\" of and visible to this PSYKER. Until the start of your next Psychic phase:Subtract 3\" from the Move characteristic of models in that unit (to a minimum of 0\").Halve Advance rolls made for that unit.Subtract 2 from charge rolls made for that unit.",
+    "id": "000006292002"
+  },
+  {
+    "roll": "",
+    "name": "SYNAPTIC BLAST",
+    "faction_id": "GC",
+    "faction_name": "Genestealer Cults",
+    "legend": "When the forces of the Hivecult fight, their residual psychic energy is palpable to their psykers, who allow its immense power to flow through them before unleashing it upon the enemy in a devastating blast.",
+    "type": "Broodmind Discipline",
+    "description": "Witchfire: Synaptic Blast has a warp charge value of 5. If manifested, roll one D6, adding 2 to the result for each friendly HIVECULT CORE unit within 6\" of this PSYKER:If the result is less than the Movement characteristic of the closest enemy unit within 18\" of and visible to this PSYKER, that enemy unit suffers D3 mortal wounds.If the result is equal to or greater than the Movement characteristic of the closest enemy unit within 18\" of and visible to this PSYKER, that enemy unit suffers 3 mortal wounds.",
+    "id": "000006295002"
+  },
+  {
+    "roll": "",
+    "name": "BROODVOLT SURGE (AURA)",
+    "faction_id": "GC",
+    "faction_name": "Genestealer Cults",
+    "legend": "Syphoning off the merest portion of the Broodmind’s energetic potential, the psyker melds it with the bioelectric fields of nearby faithful and wreathes them in a crackling protective aura.",
+    "type": "Broodmind Discipline",
+    "description": "Blessing: Broodvolt Surge has a warp charge value of 5. If manifested, until the start of your next Psychic phase, while a friendly BLADED COG unit is within 3\" of this PSYKER, each time an attack with a Damage characteristic of 1 is allocated to a model in that unit, add 1 to any armour saving throw made against that attack.",
+    "id": "000006298002"
+  },
+  {
+    "roll": "",
+    "name": "ENTROPIC TOUCH",
+    "faction_id": "GC",
+    "faction_name": "Genestealer Cults",
+    "legend": "This warlords very touch is metallophagic, unleashing microscopic organisms that gnaw away at the enemy’s armour and cause it to corrode and fall apart.",
+    "type": "Broodmind Discipline",
+    "description": "Each time this WARLORD makes a melee attack, an unmodified hit roll of 6 scores 2 additional hits.Improve the Armour Penetration characteristic of melee weapons this WARLORD is equipped with by 1 (excluding Relics).",
+    "id": "000006299002"
+  },
+  {
+    "roll": "",
+    "name": "INESCAPABLE DECAY",
+    "faction_id": "GC",
+    "faction_name": "Genestealer Cults",
+    "legend": "With but a glance and a hand gesture from a Rusted Claw psyker, the target is seized by swift entropy. Iron rusts, copper is stained with verdigris and fluids desiccate. Weakened in such a way, the enemy is then set upon and ripped apart by the psyker’s cultist brethren.",
+    "type": "Broodmind Discipline",
+    "description": "Malediction: Inescapable Decay has a warp charge value of 6. If manifested, select one enemy unit within 18\" of and visible to this PSYKER. Until the start of your next Psychic phase, each time a friendly RUSTED CLAW model makes an attack against that enemy unit, improve the Armour Penetration characteristic of that attack by 1.",
+    "id": "000006301002"
+  },
+  {
+    "roll": "",
+    "name": "LAST GASP",
+    "faction_id": "GC",
+    "faction_name": "Genestealer Cults",
+    "legend": "The psyker sends their powers flowing out to fill the minds of the faithful with visions of ascension and unity. Borne up by fervent rapture, the cultists fight on until - or sometimes even after - the last spark of life has left their bodies.",
+    "type": "Broodmind Discipline",
+    "description": "Blessing: Last Gasp has a warp charge value of 5. If manifested, select one friendly PAUPER PRINCES CORE unit within 18\" of and visible to this PSYKER. Until the start of your next Psychic phase, each time a model in that unit is destroyed by a melee attack, roll one D6: on a 5+, after the attacking model’s unit has finished making its attacks, it suffers 1 mortal wound (a unit can suffer a maximum of 5 mortal wounds per phase as a result of this psychic power).",
+    "id": "000006304002"
+  },
+  {
+    "roll": "",
+    "name": "MUTAGENIC DEVIATION",
+    "faction_id": "GC",
+    "faction_name": "Genestealer Cults",
+    "legend": "The psykers of the Twisted Helix have learned to send trigger impulses through the Broodmind, which awaken rampant mutagenic strains within the bodies of the faithful. Those affected sprout chitinous blades, wicked fangs and lashing tendrils with which to bloodily dismember their foes.",
+    "type": "Broodmind Discipline",
+    "description": "Blessing: Mutagenic Deviation has a warp charge value of 5. If manifested, select one friendly TWISTED HELIX unit within 12\" of and visible to this PSYKER. Until the start of your next Psychic phase, each time a model in that unit makes a melee attack, an unmodified hit roll of 6 automatically wounds the target.",
+    "id": "000006307002"
+  },
+  {
+    "roll": "1",
+    "name": "WINDS OF THE WARP",
+    "faction_id": "QT",
+    "faction_name": "Chaos Knights",
+    "legend": "A localised tempest of empyric energy roars into being around the Knight and its bondsmen, striking enemy projectiles from the air in flashes of empyric lightning and sealing damaged hulls with its mutating touch.",
+    "type": "Warp Storm Discipline",
+    "description": "Blessing (Aura): Winds of the Warp has a warp charge value of 6. If manifested, until the start of your next Psychic phase:Each time this PSYKER loses a wound, roll one D6: on a 5+, that wound is not lost.If the result of the Psychic test was 8 or more, while a friendly &lt;DREAD HOUSEHOLD&gt; WAR DOG-CLASS model is within 6\" of this PSYKER, each time that model loses a wound, roll one D6: on a 6, that wound is not lost.",
+    "id": "000007239002"
+  },
+  {
+    "roll": "2",
+    "name": "VORTEX TERRORS",
+    "faction_id": "QT",
+    "faction_name": "Chaos Knights",
+    "legend": "Down from the tortured skies rushes a howling empyric gale thick with tortured souls and screeching avian gheists. They whirl about the foe in an ephemeral storm that sows terror and confusion amongst the enemy ranks.",
+    "type": "Warp Storm Discipline",
+    "description": "Malediction: Vortex Terrors has a warp charge value of 5. If manifested, select one enemy unit within 18\" of this PSYKER. Until the start of your next Psychic phase:Subtract 1 from the Leadership characteristic of models in that unit.Each time that unit is selected to shoot or fight, it must first take a Dread test. If that test is failed, then until the end of the current phase, reduce the Weapon Skill and Ballistic Skill characteristics of models in that enemy unit by 1.",
+    "id": "000007239003"
+  },
+  {
+    "roll": "3",
+    "name": "THE STORM MALEVOLENT",
+    "faction_id": "QT",
+    "faction_name": "Chaos Knights",
+    "legend": "Drawn forth by words of dark power, a storm from the depths of the warp surges up against the skin of reality. Its lashing tendrils tear the veil until corrupting energies spill through to taint all they touch. Trapped amidst this maelstrom of cursed unreality, the enemy are left horribly exposed to attack, and may even be driven back through the pulsating warp rent to suffer a horrible fate.",
+    "type": "Warp Storm Discipline",
+    "description": "Malediction: The Storm Malevolent has a warp charge value of 7. If manifested, select one enemy unit within 18\" of this PSYKER Until the start of your next Psychic phase, each time a friendly CHAOS KNIGHTS model makes a melee attack against that unit:Add 1 to that attack’s wound roll.On an unmodified wound roll of 6, the target suffers 1 mortal wound in addition to the normal damage.A maximum of 3 mortal wounds can be inflicted on each enemy unit per phase as the result of this psychic power.",
+    "id": "000007239004"
+  },
+  {
+    "roll": "4",
+    "name": "CYCLONIC LAMENTATION",
+    "faction_id": "QT",
+    "faction_name": "Chaos Knights",
+    "legend": "Spectral winds sing through the rents and channels in the Chaos Knights armour, their fury building as they meld with the rising shriek of its infernal plasma reactor. In an instant, the nightmare cacophony melds into a single tormented note that rolls outward like a shock wave, shredding the souls of all who hear it.",
+    "type": "Warp Storm Discipline",
+    "description": "Witchfire: Cyclonic Lamentation has a warp charge value of 6. If manifested, every enemy unit within 12\" of this PSYKER must take a Dread test. Each unit that fails this test suffers 1 mortal wound (if the result of the Psychic test was 11+, each unit that fails their subsequent Dread test instead suffers D3 mortal wounds).",
+    "id": "000007239005"
+  },
+  {
+    "roll": "5",
+    "name": "CORUSCATING HATE",
+    "faction_id": "QT",
+    "faction_name": "Chaos Knights",
+    "legend": "So potent is the caster’s loathing of the foe that it manifests as roiling thunderheads amidst the darkened skies above. One after another, shrieking bolts of heliotropic lightning stab down from on high to explode amidst the enemy. Those struck are twisted by the raw power of the warp, their bodies erupting into grotesque mutations or burning with unholy soulfires until they are naught but ashes.",
+    "type": "Warp Storm Discipline",
+    "description": "Witchfire: Coruscating Hate has a warp charge value of 6. If manifested, the closest enemy unit within 18\" of and visible to this PSYKER suffers D3 mortal wounds. Then roll one D6: on a 2-3, the closest other enemy unit within 6\" of and visible to that enemy unit suffers 1 mortal wound; on a 4+, it suffers D3 mortal wounds.",
+    "id": "000007239006"
+  },
+  {
+    "roll": "6",
+    "name": "SPITESQUALL",
+    "faction_id": "QT",
+    "faction_name": "Chaos Knights",
+    "legend": "Viscous black rain is driven into the enemy upon howling and hateful winds. Bad enough that this bitter precipitation is freezing cold and blinding as it hisses viciously from armour and flesh, but as it drenches its victims’ bodies so too does it numb them and, eventually, drowns their souls.",
+    "type": "Warp Storm Discipline",
+    "description": "Malediction: Spitesquall has a warp charge value of 6. If manifested, select one enemy unit within 18\" of this PSYKER Until the start of your next Psychic phase:That unit cannot fire Overwatch or Set to Defend.Keep a Spitesquall tally for that unit, adding 1 to the tally each time a model in that unit is destroyed. At the end of each phase, if that unit is still on the battlefield, roll one D6 for each mark on its Spitesquall tally: for each roll of 5+, that unit suffers 1 mortal wound. The unit’s Spitesquall tally is reset to 0 at the end of each phase.",
+    "id": "000007239007"
+  },
+  {
+    "roll": "",
+    "name": "UNSTOPPABLE ONSLAUGHT",
+    "faction_id": "TYR",
+    "faction_name": "Tyranids",
+    "legend": "A surge of mindless aggression flows through Hive Fleet Behemoth driving them forward in a tidal wave of snapping jaws and lashing talons.",
+    "type": "Hive Mind Discipline",
+    "description": "Blessing: Unstoppable Onslaught has a warp charge value of 7. If manifested, select one friendly BEHEMOTH unit within Synaptic Link range of this PSYKER. Until the start of your next turn, each time a model in that unit makes a melee attack, add 1 to that attack’s wound roll.",
+    "id": "000006655002"
+  },
+  {
+    "roll": "",
+    "name": "SYNAPTIC LURE",
+    "faction_id": "TYR",
+    "faction_name": "Tyranids",
+    "legend": "A psychic lure is placed on a threat; the marked prey is doomed.",
+    "type": "Hive Mind Discipline",
+    "description": "Malediction: Synaptic Lure has a warp charge value of 5. If manifested, select one enemy unit within Synaptic Link range of this PSYKER or one enemy unit within 18\" of this PSYKER. Until the start of your next Psychic phase, each time a friendly KRAKEN unit declares a charge, if that enemy unit is one of the targets of that charge, you can re-roll the charge roll.",
+    "id": "000006663002"
+  },
+  {
+    "roll": "",
+    "name": "HIVE NEXUS",
+    "faction_id": "TYR",
+    "faction_name": "Tyranids",
+    "legend": "The Hive Mind funnels Leviathan’s sophisticated synaptic network through its conduits, enforcing its gestalt will among the hive fleet’s lesser organisms.",
+    "type": "Hive Mind Discipline",
+    "description": "Blessing: Hive Nexus has a warp charge value of 7. If manifested, select one friendly LEVIATHAN CORE unit within Synaptic Link range of this PSYKER and select one Synaptic Imperative ability of a friendly LEVIATHAN SYNAPSE model that is also within Synaptic Link range of this PSYKER. Until the start of your next turn, that unit benefits from that SYNAPSE model’s Synaptic Imperative ability as if it was active for your army (in addition to the one that is currently active for your army) and as if they were within 6\" of one another.",
+    "id": "000006665002"
+  },
+  {
+    "roll": "",
+    "name": "POISONOUS INFLUENCE",
+    "faction_id": "TYR",
+    "faction_name": "Tyranids",
+    "legend": "This synapse creature radiates a pulsed imperative that triggers the semi-sentient spores of Gorgons biohorrors, spurring them to secrete venoms laced with a seeping psychic corruption.",
+    "type": "Hive Mind Discipline",
+    "description": "Blessing: Poisonous Influence has a warp charge value of 7. If manifested, select one friendly GORGON unit within Synaptic Link range of this PSYKER. Until the start of your next Psychic phase, each time a model in that unit makes a melee attack, an unmodified wound roll of 6 inflicts 1 mortal wound on the target in addition to any normal damage (to a maximum of 6 mortal wounds).",
+    "id": "000006667002"
+  },
+  {
+    "roll": "",
+    "name": "LURKING MAWS",
+    "faction_id": "TYR",
+    "faction_name": "Tyranids",
+    "legend": "The Hive Mind extends a psychic summons, and calls upon Jormungandr s embedded and waiting broods. Mindlessly converging via synaptic imperative, their sudden and frenzied attacks spell the foe’s end.",
+    "type": "Hive Mind Discipline",
+    "description": "Malediction: Lurking Maws has a warp charge value of 7. If manifested, select one enemy unit within Synaptic Link range of this PSYKER or one enemy unit within 18\" of this PSYKER. Until the start of your next Psychic phase, each time a friendly JORMUNGANDR model makes a melee attack against that enemy unit, improve the Armour Penetration characteristic of that attack by 1.",
+    "id": "000006669002"
+  },
+  {
+    "roll": "",
+    "name": "SYMBIOSTORM",
+    "faction_id": "TYR",
+    "faction_name": "Tyranids",
+    "legend": "The synaptic web sings with psionic targeting information, guiding living projectiles to strike at the prey’s identified weak spots.",
+    "type": "Hive Mind Discipline",
+    "description": "Blessing: Symbiostorm has a warp charge value of 7. If manifested, select one friendly KRONOS unit within Synaptic Link range of this PSYKER. Until the start of your next Psychic phase, each time a model in that unit makes a ranged attack, add 1 to the Strength characteristic of that attack.",
+    "id": "000006671002"
+  },
+  {
+    "roll": "",
+    "name": "PSYCHIC SHRIEK",
+    "faction_id": "TYR",
+    "faction_name": "Tyranids",
+    "legend": "Driven by synaptic imperative, acting as psychic conduits for the Hive Minds power, the warrior organisms of Hive Fleet Hydra open their maws as one and emit a mind-shredding shriek.",
+    "type": "Hive Mind Discipline",
+    "description": "Witchfire: Psychic Shriek has a warp charge value of 6. If manifested, select one enemy unit within Synaptic Link range of this PSYKER or one enemy unit within 18\" of this PSYKER. Roll one D6 for each friendly HYDRA INFANTRY and HYDRA BEAST model within 3\" of that unit and three D6s for each friendly HYDRA MONSTER model within 3\" of that unit: for each 5+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds).",
+    "id": "000006673002"
+  },
+  {
+    "roll": "1",
     "name": "VEIL OF TIME",
     "faction_id": "SM",
     "faction_name": "Space Marines",
@@ -1138,66 +1408,6 @@
     "type": "Librarius Discipline",
     "description": "Blessing (Aura): Psychic Fortress has a warp charge value of 6. If manifested, then until the start of your next Psychic phase, while a friendly &lt;CHAPTER&gt; unit is within 6\" of this PSYKER, models in that unit have a 5+ invulnerable save.",
     "id": "000002682007"
-  },
-  {
-    "roll": "1",
-    "name": "TWILIGHT PATHWAYS",
-    "faction_id": "HAR",
-    "faction_name": "Harlequins",
-    "legend": "Eerie half-lit tunnels blink into existence, opening new paths of manoeuvre and attack.",
-    "type": "Phantasmancy Discipline",
-    "description": "Twilight Pathways has a warp charge value of 6. If manifested, select a friendly HARLEQUINS unit within 3\" of the psyker and visible to it. That unit can immediately move as if it were its Movement phase. You cannot use Twilight Pathways on a unit more than once in each Psychic phase.",
-    "id": "000002797002"
-  },
-  {
-    "roll": "2",
-    "name": "FOG OF DREAMS",
-    "faction_id": "HAR",
-    "faction_name": "Harlequins",
-    "legend": "The Shadowseer sends forth her consciousness like a creeping mist, baffling the senses of the enemy.",
-    "type": "Phantasmancy Discipline",
-    "description": "Fog of Dreams has a warp charge value of 6. If manifested, select an enemy unit within 18\" of the psyker and visible to it. Until the start of your next Psychic phase, your opponent must subtract 1 from hit rolls for that unit that target HARLEQUINS INFANTRY units.",
-    "id": "000002797003"
-  },
-  {
-    "roll": "3",
-    "name": "MIRROR OF MINDS",
-    "faction_id": "HAR",
-    "faction_name": "Harlequins",
-    "legend": "A maddening clash of wills consumes the victim’s mind as reality falls away.",
-    "type": "Phantasmancy Discipline",
-    "description": "Mirror of Minds has a warp charge value of 7. If manifested, select an enemy unit within 24\" of the psyker. Then, both players roll a D6. If the Harlequin player’s roll is equal to or higher than their opponent’s, then the target unit suffers 1 mortal wound. Repeat this process until the target is destroyed, or the enemy player rolls a result that is higher than the Harlequin player’s roll.",
-    "id": "000002797004"
-  },
-  {
-    "roll": "4",
-    "name": "VEIL OF TEARS",
-    "faction_id": "HAR",
-    "faction_name": "Harlequins",
-    "legend": "Sketching a gesture in the air, the Shadowseer snatches the image of the Harlequins from the minds of their foes, hiding them from sight.",
-    "type": "Phantasmancy Discipline",
-    "description": "Veil of Tears has a warp charge value of 7. If manifested, select a friendly HARLEQUINS INFANTRY unit within 18\" of the psyker. Until the start of your next Psychic phase, subtract 1 from hit rolls for attacks made against that unit.",
-    "id": "000002797005"
-  },
-  {
-    "roll": "5",
-    "name": "SHARDS OF LIGHT",
-    "faction_id": "HAR",
-    "faction_name": "Harlequins",
-    "legend": "Blades of polychrome energy dazzle the foe, inflicting horrific and disorientating psychosomatic wounds.",
-    "type": "Phantasmancy Discipline",
-    "description": "Shards of Light has a warp charge value of 7. If manifested, select an enemy unit within 18\" of the psyker and visible to it. That unit suffers D3 mortal wounds and must subtract 1 from its Leadership characteristic until the start of your next Psychic phase.",
-    "id": "000002797006"
-  },
-  {
-    "roll": "6",
-    "name": "WEBWAY DANCE",
-    "faction_id": "HAR",
-    "faction_name": "Harlequins",
-    "legend": "The veils between realspace and the webway grow thin, allowing the Harlequins to jink away from danger with quicksilver speed, only to reappear unharmed moments later.",
-    "type": "Phantasmancy Discipline",
-    "description": "Webway Dance has a warp charge value of 7. If manifested, then until the start of your next Psychic phase, roll a D6 whenever a friendly HARLEQUINS unit within 6\" of the psyker loses a wound; on a 6 that wound is not lost.",
-    "id": "000002797007"
   },
   {
     "roll": "1",
@@ -1261,62 +1471,62 @@
   },
   {
     "roll": "1",
-    "name": "Infernal Gaze",
+    "name": "INFERNAL GAZE",
     "faction_id": "CSM",
     "faction_name": "Chaos Space Marines",
-    "legend": "Unholy power streams from the psyker’s eyes, charring and melting everything caught in its path.",
+    "legend": "Unholy power streams from the psykers eyes, charring and melting everything caught in its path.",
     "type": "Dark Hereticus Discipline",
-    "description": "Infernal Gaze has a warp charge value of 5. If manifested, select a visible enemy unit within 18\" of the psyker and roll 3 dice. The target suffers 1 mortal wound for each roll of 4+.",
+    "description": "Witchfire: Infernal Gaze has a warp charge value of 5. If manifested, select one enemy unit within 18\" of and visible to this PSYKER and roll three D6. For each 4+, that enemy unit suffers 1 mortal wound. If the result of the Psychic test was an unmodified 10+, roll six D6 instead.",
     "id": "000002240002"
   },
   {
     "roll": "2",
-    "name": "Death Hex",
+    "name": "PRESCIENCE",
     "faction_id": "CSM",
     "faction_name": "Chaos Space Marines",
-    "legend": "The Sorcerer places a dire hex upon his enemies. Wards and energised shields flicker and fail, leaving the foe exposed.",
+    "legend": "By focusing his warp-sight the psyker can guide the shots and strikes of his allies, bringing a swift and merciless death to the foe.",
     "type": "Dark Hereticus Discipline",
-    "description": "Death Hex has a warp charge value of 8. If manifested, select a visible enemy unit within 12\" of the psyker. Until the start of your next Psychic phase, that unit cannot take invulnerable saves.",
+    "description": "Blessing: Prescience has a warp charge value of 7. If manifested, select one friendly &lt;LEGION&gt; unit within 18\" of this PSYKER. Until the start of your next Psychic phase, each time a model in that unit makes an attack, add 1 to that attack’s hit roll.",
     "id": "000002240003"
   },
   {
     "roll": "3",
-    "name": "Gift of Chaos",
-    "faction_id": "CSM",
-    "faction_name": "Chaos Space Marines",
-    "legend": "As the power of the warp surges through the psyker’s victim, bones snap and flesh rips as a new form takes shape.",
-    "type": "Dark Hereticus Discipline",
-    "description": "Gift of Chaos has a warp charge of 6. If manifested, select an enemy unit that is within 6\" of the psyker and visible to him and roll a D6. If the result is greater than the target’s Toughness, it suffers D3+3 mortal wounds. If a CHARACTER is destroyed by this power, you can add a Chaos Spawn to your army within 6\" of the character and not within Engagement Range of any enemy units before they are removed as a casualty.",
-    "id": "000002240004"
-  },
-  {
-    "roll": "4",
-    "name": "Prescience",
-    "faction_id": "CSM",
-    "faction_name": "Chaos Space Marines",
-    "legend": "By focusing his warp-sight the psyker can guide the aim of his allies, bringing a swift and merciless death to their foes.",
-    "type": "Dark Hereticus Discipline",
-    "description": "Prescience has a warp charge value of 7. If manifested, select a &LT;LEGION&GT; unit within 18\" of the psyker. You can add 1 to all hit rolls made for that unit until the start of your next Psychic phase.",
-    "id": "000002240005"
-  },
-  {
-    "roll": "5",
-    "name": "Diabolic Strength",
+    "name": "DIABOLIC STRENGTH",
     "faction_id": "CSM",
     "faction_name": "Chaos Space Marines",
     "legend": "The unholy energies of Chaos course through the recipient, swelling his frame with the strength to tear a tank in two.",
     "type": "Dark Hereticus Discipline",
-    "description": "Diabolic Strength has a warp charge value of 6. If manifested, select a &LT;LEGION&GT; model within 12\" of the psyker. Until the start of your next Psychic phase, add 2 to that model’s Strength characteristic and 1 to its Attacks characteristic.",
+    "description": "Blessing: Diabolic Strength has a warp charge value of 6. If manifested, select one friendly &lt;LEGION&gt; INFANTRY or &lt;LEGION&gt; CHAOS SPAWN model within 12\" of this PSYKER. Until the start of your next Psychic phase, add 2 to the Strength and Attacks characteristics of that model.",
+    "id": "000002240004"
+  },
+  {
+    "roll": "4",
+    "name": "DEATH HEX",
+    "faction_id": "CSM",
+    "faction_name": "Chaos Space Marines",
+    "legend": "The sorcerer places a dire hex upon his enemies. Wards and energised shields flicker and fail, leaving the foe exposed.",
+    "type": "Dark Hereticus Discipline",
+    "description": "Malediction: Death Hex has a warp charge value of 8. If manifested, select one enemy unit within 12\" of this PSYKER. Until the start of your next Psychic phase, models in that unit cannot use any invulnerable saves.",
+    "id": "000002240005"
+  },
+  {
+    "roll": "5",
+    "name": "GIFT OF CHAOS",
+    "faction_id": "CSM",
+    "faction_name": "Chaos Space Marines",
+    "legend": "The psyker unleashes a wave of mutating energies into his victims. Bones snap and flesh rips as a horrific new form takes shape and rampages mindlessly through the enemys ranks.",
+    "type": "Dark Hereticus Discipline",
+    "description": "Witchfire: Gift of Chaos has a warp charge value of 7. If manifested, the closest enemy unit within 18\" of and visible to this PSYKER suffers D3 mortal wounds, and you must roll one D6 for every other enemy unit within 6\" of that unit: on a 4+, the unit being rolled for suffers 1 mortal wound.",
     "id": "000002240006"
   },
   {
     "roll": "6",
-    "name": "Warptime",
+    "name": "WARPTIME",
     "faction_id": "CSM",
     "faction_name": "Chaos Space Marines",
     "legend": "The power of the immaterium bursts from the psyker, warping time and heightening the speed of his allies.",
     "type": "Dark Hereticus Discipline",
-    "description": "Warptime has a warp charge value of 6. If manifested, pick a &LT;LEGION&GT; unit (excluding AIRCRAFT) within 3\" of the psyker. That unit can immediately move as if it were its Movement phase. You cannot use Warptime on a unit more than once per Psychic phase.",
+    "description": "Blessing: Warptime has a warp charge value of 6. If manifested, select one friendly &lt;LEGION&gt; INFANTRY or &lt;LEGION&gt; CHAOS SPAWN unit within 6\" of this PSYKER.That unit can make a Normal Move (if that unit Advanced in your previous Movement phase, it still counts as having Advanced this turn).Until the end of the turn, that unit is not eligible to declare a charge.",
     "id": "000002240007"
   },
   {
@@ -1348,6 +1558,96 @@
     "type": "Powers of the C’tan",
     "description": "Select one enemy unit within 18\" of and visible to this Ctan Shard (an enemy CHARACTER unit with a Wounds characteristic of 9 or less cannot be selected for this power while it is within 3\" of another enemy unit, unless that CHARACTER unit is the closest visible enemy unit). Roll one D6: on a 2+, that unit suffers D3 mortal wounds (it suffers D6 mortal wounds instead if it has the VEHICLE keyword) and, until the start of your next turn, if that unit is a VEHICLE whose characteristics change as it loses wounds, then it halves the number of wounds it has remaining when determining what characteristics to use.",
     "id": "000004703004"
+  },
+  {
+    "roll": "11",
+    "name": "GAZE OF HATE",
+    "faction_id": "TS",
+    "faction_name": "Thousand Sons",
+    "legend": "Pure roiling hatred surges through the psyker, becoming first dark fire in their veins then leaping from their eyes in searing columns of annihilating energy. Those struck by them risk being scoured from existence entirely.",
+    "type": "Psychic Powers",
+    "description": "Witchfire: Gaze of Hate has a warp charge value of 5. If manifested, select one enemy unit within 18\" of and visible to this PSYKER and roll three D6: for each roll of 4+, that enemy unit suffers 1 mortal wound.",
+    "id": "000005891002"
+  },
+  {
+    "roll": "12",
+    "name": "TWIST OF FATE",
+    "faction_id": "TS",
+    "faction_name": "Thousand Sons",
+    "legend": "One with sufficient willpower and disregard for their own soul can glean forbidden lore by looking upon the unfettered tides of the warp, plucking silvery skeins of fate from amongst the deadly morass and spinning them into nooses for their luckless foes.",
+    "type": "Psychic Powers",
+    "description": "Malediction: Twist of Fate has a warp charge value of 8. If manifested, select one enemy unit within 12\" of this PSYKER. Until the start of your next Psychic phase, models in that unit cannot use any invulnerable saves.",
+    "id": "000005891003"
+  },
+  {
+    "roll": "13",
+    "name": "DARK BLESSING",
+    "faction_id": "TS",
+    "faction_name": "Thousand Sons",
+    "legend": "Offering bloody sacrifice to the Dark Gods, the psyker calls down their unbridled generosity upon his foe. Their bodies are wracked by hideous mutations, their sanity collapsing as their mortal forms become a heaving, thrashing mass of horror.",
+    "type": "Psychic Powers",
+    "description": "Witchfire: Dark Blessing has a warp charge value of 6. If manifested, select one enemy model within 6\" of and visible to this PSYKER and roll one D6: if the result is greater than the target’s Toughness characteristic, its unit suffers D3+3 mortal wounds.",
+    "id": "000005891004"
+  },
+  {
+    "roll": "21",
+    "name": "PRESAGE",
+    "faction_id": "TS",
+    "faction_name": "Thousand Sons",
+    "legend": "The psyker reads signs and omens in the ebb and flow of battle, the whirling patterns of smoke, the spatter of blood as blades bite home. These gleaned warnings he passes on to his warriors, the better for them to predict and thus strike down their enemies.",
+    "type": "Psychic Powers",
+    "description": "Blessing: Presage has a warp charge value of 7. If manifested, select one friendly THOUSAND SONS unit within 18\" of this PSYKER. Until the start of your next Psychic phase, each time a model in that unit makes an attack, add 1 to that attack’s hit roll.",
+    "id": "000005891005"
+  },
+  {
+    "roll": "22",
+    "name": "SWELLED BY THE WARP",
+    "faction_id": "TS",
+    "faction_name": "Thousand Sons",
+    "legend": "The psyker opens a ragged channel to the roiling energies of the warp and funnels them recklessly into a chosen target. That warrior’s form expands with iron-hard muscle, lashing extra limbs, gnashing fangs and vicious talons that allow them to tear a bloody path through the foe.",
+    "type": "Psychic Powers",
+    "description": "Blessing: Swelled by the Warp has a warp charge value of 6. If manifested, select one friendly THOUSAND SONS model within 12\" of this PSYKER. Until the start of your next Psychic phase, add 2 to that model’s Strength characteristic and 1 to its Attacks characteristic.",
+    "id": "000005891006"
+  },
+  {
+    "roll": "23",
+    "name": "TEMPORAL SURGE",
+    "faction_id": "TS",
+    "faction_name": "Thousand Sons",
+    "legend": "With a wrench of mind, body and soul the psyker tears ropey strands of temporal energy through the veil from beyond and hurls them out to wind about his allies. Those so blessed are sped into battle all the faster as their garland of stolen time burns swiftly away.",
+    "type": "Psychic Powers",
+    "description": "Blessing: Temporal Surge has a warp charge value of 7. If manifested, select one friendly THOUSAND SONS INFANTRY, THOUSAND SONS CAVALRY, or THOUSAND SONS BEASTS unit within 6\" of this PSYKER. That unit can make a Normal Move.",
+    "id": "000005891007"
+  },
+  {
+    "roll": "31",
+    "name": "EMPYRIC GUIDANCE",
+    "faction_id": "TS",
+    "faction_name": "Thousand Sons",
+    "legend": "The psyker conjures a whirling flock of daemonic imps that bear his comrades’ shells and energy blasts across the battlefield on flickering wings of unholy flame.",
+    "type": "Psychic Powers",
+    "description": "Blessing: Empyric Guidance has a warp charge value of 4. If manifested, select one friendly THOUSAND SONS unit within 12\" of this PSYKER. Until the start of your next Psychic phase, add 6\" to the Range characteristic of Rapid Fire and Heavy weapons models in that unit are equipped with.",
+    "id": "000005891008"
+  },
+  {
+    "roll": "32",
+    "name": "PSYCHIC STALK",
+    "faction_id": "TS",
+    "faction_name": "Thousand Sons",
+    "legend": "Astrally projecting a portion of his soul into the warp, the psyker circles the flickering witchfires of his victims’ souls. Should their mental defences drop for even a moment, he strikes with predatory swiftness.",
+    "type": "Psychic Powers",
+    "description": "Witchfire: Psychic Stalk has a warp charge value of 5. If manifested, select one enemy unit that is not a VEHICLE, MONSTER or CHARACTER within 18\" of and visible to this PSYKER. Roll 2D6: if the result is greater than the unmodified Leadership characteristic of that unit, one model in that unit selected by your opponent is slain.",
+    "id": "000005891009"
+  },
+  {
+    "roll": "33",
+    "name": "DESECRATION OF WORLDS",
+    "faction_id": "TS",
+    "faction_name": "Thousand Sons",
+    "legend": "The worlds of the galaxy shall tremble and shatter beneath the dolorous tread of the Heretic Astartes, starting with this one! The psyker pours their rage and contempt into the bedrock of the battlefield, tainting it with their warpcraft even as they shatter it apart.",
+    "type": "Psychic Powers",
+    "description": "Malediction: Desecration of Worlds has a warp charge value of 7. If manifested, select one enemy unit within 24\" of and visible to this PSYKER. Until the start of your next Psychic phase, each time that unit makes a Normal Move, Advances, Falls Back or makes a charge move, roll one D6 for each model in that unit. For each result of 6, that unit suffers 1 mortal wound.",
+    "id": "000005891010"
   },
   {
     "roll": "1",
@@ -1411,12 +1711,102 @@
   },
   {
     "roll": "1",
+    "name": "ROAR OF MORK",
+    "faction_id": "ORK",
+    "faction_name": "Orks",
+    "legend": "The Wurrboy opens his gob impossibly wide and gives vent to a bellowing roar that reverberates through his enemies minds. Coherent thought becomes nigh on impossible, and as the roar thunders on, panic begins to spread.",
+    "type": "Beasthead Discipline",
+    "description": "Malediction (Aura): Roar of Mork has a warp charge value of 6. If manifested:Select one enemy unit within 18\" and visible to the PSYKER. Until the start of your next Psychic phase, subtract 2 from Advance and charge rolls made for that unit.Until the start of your next Psychic phase, while an enemy unit is within 18\" of this PSYKER, subtract 1 from the Leadership characteristic of models in that unit.",
+    "id": "000005730002"
+  },
+  {
+    "roll": "2",
+    "name": "FRAZZLE",
+    "faction_id": "ORK",
+    "faction_name": "Orks",
+    "legend": "The Wurrboy concentrates really hard, a sickly green glow emanating around his gnarled cranium as he builds up a store of Waaagh! energy within himself. At the point where the Weirdboy is almost fit to burst, a wave of crackling energy floods out, reducing nearby foes to shrivelled husks in an instant.",
+    "type": "Beasthead Discipline",
+    "description": "Witchfire: Frazzle has a warp charge value of 6. If manifested, roll one D6 for each enemy unit that is within 9\" of this PSYKER: on a 4+, that unit suffers D3 mortal wounds.",
+    "id": "000005730003"
+  },
+  {
+    "roll": "3",
+    "name": "BITIN’ JAWS",
+    "faction_id": "ORK",
+    "faction_name": "Orks",
+    "legend": "The Wurrboy conjures a set of enormous green jaws in front of him. their teeth clamping open and shut in time with his own twitching movements. As he narrows his eyes, these jaws surge towards the enemy, the Weirdboy gnashing and chomping at anything that gets in their way.",
+    "type": "Beasthead Discipline",
+    "description": "Witchfire: Bitin’ Jawz has a warp charge value of 6. If manifested, select one enemy model that is within 18\" of and visible to this PSYKER. Draw a line between any part of this PSYKER’s base and any part of the selected model’s base (or hull); the selected model’s unit, and every other enemy unit that this line passes over or through, suffers 1 mortal wound.",
+    "id": "000005730004"
+  },
+  {
+    "roll": "4",
+    "name": "SPIRIT OF GORK",
+    "faction_id": "ORK",
+    "faction_name": "Orks",
+    "legend": "The Wurrboy stokes the bestial fury of nearby squigs. Eyes aglow with Waaagh! energy, the enraged creatures plunge into enemy lines, tearing the foe apart while their amused riders cling on tightly!",
+    "type": "Beasthead Discipline",
+    "description": "Blessing: Spirit of Gork has a warp charge value of 6. If manifested, select one friendly SQUIG unit within 12\" of and visible to this PSYKER. Until the start of your next Psychic phase:Each time that unit fights, it can make 1 additional attack with each Big Chompa’s jaws, squighog jaws, smasha squig jaws or squigosaur’s jaws it is equipped with.Each time a model in that unit makes an attack with Big Chompa’s jaws, squighog jaws, smasha squig jaws or squigosaur’s jaws, on an unmodified wound roll of 6, that attack inflicts 1 mortal wound on the target in addition to any normal damage.",
+    "id": "000005730005"
+  },
+  {
+    "roll": "5",
+    "name": "BEASTSCENT",
+    "faction_id": "ORK",
+    "faction_name": "Orks",
+    "legend": "The Wurrboy turns his nose to the sky, taking exaggerated sniffs. As he does so, a faint green glow begins to emanate from nearby enemies, telling the Weirdboy’s fellow hunters exactly where to find them.",
+    "type": "Beasthead Discipline",
+    "description": "Malediction: Beastscent has a warp charge value of 5. If manifested, select one enemy unit that is within 18\" of this PSYKER. Until the start of your next Psychic phase, that enemy unit does not receive the benefits of cover against attacks made by BEAST SNAGGA units from your army.",
+    "id": "000005730006"
+  },
+  {
+    "roll": "6",
+    "name": "SQUIGGLY CURSE",
+    "faction_id": "ORK",
+    "faction_name": "Orks",
+    "legend": "The Wurrboy cackles madly as he transforms the foe into a herd of squigs, the now terrified and confused beasts rampaging through their former comrades before bounding away.",
+    "type": "Beasthead Discipline",
+    "description": "Witchfire: Squiggly Curse has a warp charge value of 7. If manifested, select one enemy unit within 12\" of this PSYKER and roll one D6 for each model in that unit (to a maximum of 6 dice). For each result of 4+, that unit suffers 1 mortal wound. If any models in that unit are destroyed by this psychic power, every other enemy unit within 6\" of that unit suffers 1 mortal wound.",
+    "id": "000005730007"
+  },
+  {
+    "roll": "",
+    "name": "SKEINS OF FATE",
+    "faction_id": "CSM",
+    "faction_name": "Chaos Space Marines",
+    "legend": "The sorcerer acquisitively grasps the skeins of future events, plucking from them the desired fates of his allies. Forewarned of the foes attacks, Tzeentch’s warriors evade divined shots and strikes with seemingly supernatural reflexes.",
+    "type": "Dark Hereticus Discipline",
+    "description": "Blessing: Skeins of Fate has a warp charge value of 7. If manifested, select one friendly &lt;LEGION&gt; TZEENTCH unit within 18\" of this PSYKER. Until the start of your next Psychic phase, models in that unit have a 4+ invulnerable save.",
+    "id": "000007414002"
+  },
+  {
+    "roll": "",
+    "name": "PUTRID MIASMA",
+    "faction_id": "CSM",
+    "faction_name": "Chaos Space Marines",
+    "legend": "As the psyker’s gurgling chants reach an apex, a foetid spume of putridity obscures his allies from view.",
+    "type": "Dark Hereticus Discipline",
+    "description": "Blessing: Putrid Miasma has a warp charge value of 6. If manifested, select one friendly &lt;LEGION&gt; NURGLE unit within 18\" of this PSYKER. Until the start of your next Psychic phase, each time an attack is made against that unit, subtract 1 from that attack’s hit roll.",
+    "id": "000007414003"
+  },
+  {
+    "roll": "",
+    "name": "DELIGHTFUL AGONIES",
+    "faction_id": "CSM",
+    "faction_name": "Chaos Space Marines",
+    "legend": "Those whose minds are touched by the psykers caress are wracked by waves of exquisite pain, over which physical trauma has no hold.",
+    "type": "Dark Hereticus Discipline",
+    "description": "Blessing: Delightful Agonies has a warp charge value of 6. If manifested, select one friendly &lt;LEGION&gt; SLAANESH unit within 18\" of this PSYKER. Until the start of your next Psychic phase, each time a model in that unit would lose a wound, roll one D6: on a 5+, that wound is not lost.",
+    "id": "000007414004"
+  },
+  {
+    "roll": "1",
     "name": "TERRIFYING VISIONS",
     "faction_id": "AM",
     "faction_name": "Astra Militarum",
-    "legend": "The psyker fills his enemies’ minds with nightmarish images and visions of torment, seeking to send them fleeing in terror.",
+    "legend": "The psyker fills their enemies’ minds with nightmarish images and visions of torment, eroding cohesive thought and senses of duty.",
     "type": "Psykana Discipline",
-    "description": "Terrifying Visions has a warp charge value of 7. If manifested, choose an enemy unit within 18\" of the psyker. That unit subtracts 2 from its Leadership until the start of your next turn.",
+    "description": "Malediction: Terrifying Visions has a warp charge value of 6. If manifested, select one enemy unit within 18\" of this PSYKER. Until the start of your next Command phase:Subtract 2 from the Leadership characteristic of models in that unit.Your opponent cannot select that unit for the Insane Bravery Stratagem, nor can they use any rule that would enable them to re-roll a Morale test taken for that unit.In addition, roll 2D6: if the result is equal to or greater than that unit’s Leadership characteristic (after applying the modifier above), any action that unit is currently performing immediately fails and, until the start of your next Psychic phase, that unit cannot perform actions.",
     "id": "000002384002"
   },
   {
@@ -1424,9 +1814,9 @@
     "name": "GAZE OF THE EMPEROR",
     "faction_id": "AM",
     "faction_name": "Astra Militarum",
-    "legend": "The psyker cages the immense power of the immaterium within his physical form, and his eyes blaze with the Emperor’s vengeful fury.",
+    "legend": "The psyker cages the immense power of the immaterium within their physical form, and their eyes blaze with the Emperor’s vengeful fury.",
     "type": "Psykana Discipline",
-    "description": "Gaze of the Emperor has a warp charge value of 6. If manifested, draw a straight line 2D6\" long directly away from the psyker. Roll a dice for each model the centre of the line passes over. On a 4+ that model’s unit suffers a mortal wound.",
+    "description": "Witchfire: Gaze Of The Emperor has a warp charge value of 6. If manifested, select one enemy model within 12\" of and visible to this PSYKER. Draw a straight line between any part of that model’s base (or hull) and this PSYKER’s base. Roll one D6 for that enemy model’s unit, and one D6 for each other unit that this line passes over: on a 1-5, the unit being rolled for suffers 1 mortal wound; on a 6, the unit being rolled for suffers D3 mortal wounds.",
     "id": "000002384003"
   },
   {
@@ -1434,9 +1824,9 @@
     "name": "PSYCHIC BARRIER",
     "faction_id": "AM",
     "faction_name": "Astra Militarum",
-    "legend": "The psyker weaves an aegis of pure psychic energy around his allies, against which enemy fire sparks and spatters harmlessly.",
+    "legend": "The psyker weaves an aegis of pure psychic energy around their allies, against which enemy fire sparks and spatters harmlessly.",
     "type": "Psykana Discipline",
-    "description": "Psychic Barrier has a warp charge value of 6. If manifested, select a friendly ASTRA MILITARUM unit within 12\" of the psyker. Until the start of your next Psychic phase, add 1 to that unit’s saving throws.",
+    "description": "Blessing: Psychic Barrier has a warp charge value of 6. If manifested, select one friendly ASTRA MILITARUM unit within 12\" of this PSYKER. Until the start of your next Psychic phase, models in that unit have a 5+ invulnerable save.",
     "id": "000002384004"
   },
   {
@@ -1444,19 +1834,19 @@
     "name": "NIGHTSHROUD",
     "faction_id": "AM",
     "faction_name": "Astra Militarum",
-    "legend": "Calling upon the power of the empyrean, the psyker cloaks his allies in a flowing curtain of shadow, concealing them from the enemy.",
+    "legend": "Calling upon the power of the empyrean, the psyker cloaks their allies in a flowing curtain of shadow, concealing them from the enemy.",
     "type": "Psykana Discipline",
-    "description": "Nightshroud has a warp charge value of 6. If manifested, choose a friendly ASTRA MILITARUM unit within 12\" of the psyker. Until the start of your next turn, any enemy unit that targets the chosen unit with a ranged weapon suffers a -1 penalty to its hit rolls.",
+    "description": "Blessing: Nightshroud has a warp charge value of 6. If manifested, select one friendly ASTRA MILITARUM unit within 12\" of this PSYKER. You cannot select a TITANIC unit unless the result of the Psychic test was an unmodified 11+. Until the start of your next Psychic phase, each time an attack is made against that unit, an unmodified hit roll of 1-3 always fails, irrespective of any abilities that the weapon or the model making the attack may have.",
     "id": "000002384005"
   },
   {
     "roll": "5",
-    "name": "MENTAL FORTITUDE",
+    "name": "MENTAL SHACKLES",
     "faction_id": "AM",
     "faction_name": "Astra Militarum",
-    "legend": "Drawing on boundless reserves of inner strength, the psyker shields his allies’ minds from mortal fears and the threat of sorcerous assault.",
+    "legend": "The psyker imposes forbidding psychic prohibitions on the foe, causing the victims’ limbs to feel like leaden weights and miring their minds in an illusory fug.",
     "type": "Psykana Discipline",
-    "description": "Mental Fortitude has a warp charge value of 4. If manifested, select a friendly ASTRA MILITARUM unit within 12\" of the psyker. Until the start of your next Psychic phase, that unit automatically passes Morale tests.",
+    "description": "Malediction: Mental Shackles has a warp charge value of 6. If manifested, select one enemy unit within 18\" of this PSYKER. Until the start of your next Psychic phase:Subtract 2\" from the Move characteristic of models in that unit.Subtract 2 from Advance and charge rolls made for that unit.",
     "id": "000002384006"
   },
   {
@@ -1464,70 +1854,10 @@
     "name": "PSYCHIC MAELSTROM",
     "faction_id": "AM",
     "faction_name": "Astra Militarum",
-    "legend": "The psyker unleashes the full might of his mind, summoning a roiling psychic tempest that envelops his enemy, lifting them from the ground and wrenching them about like a rag doll.",
+    "legend": "The psyker unleashes the full might of their mind, summoning a roiling psychic tempest that envelops the enemy, lifting them from the ground and wrenching them about like a rag doll.",
     "type": "Psykana Discipline",
-    "description": "Psychic Maelstrom has a warp charge value of 7. If manifested, select an enemy unit within 18\" of the psyker. Roll a D6. On a 2+, that unit suffers a mortal wound. Unless this mortal wound is negated, you can then roll another dice. On a 3+ that enemy unit suffers another mortal wound. Continue this process, adding 1 to the dice roll required each time (so the next roll would need 4+, then 5+, etc.) until you fail to cause a mortal wound, or the enemy unit is destroyed.",
+    "description": "Witchfire: Psychic Maelstrom has a warp charge value of 6. If manifested, roll a number of D6 equal to the result of the Psychic test: for each 5+, the closest enemy unit that is within 18\" of and visible to this PSYKER suffers 1 mortal wound (to a maximum of 6 mortal wounds).",
     "id": "000002384007"
-  },
-  {
-    "roll": "1",
-    "name": "TWILIGHT PATHWAYS",
-    "faction_id": "AE",
-    "faction_name": "Aeldari",
-    "legend": "Eerie half-lit tunnels blink into existence, opening new paths of manoeuvre and attack.",
-    "type": "Psychic Disciplines",
-    "description": "Blessing: Twilight Pathways has a warp charge value of 6. If manifested, select one friendly &lt;SAEDATH&gt; CORE or &lt;SAEDATH&gt; CHARACTER unit within 6\" of this PSYKER. That unit can immediately make a normal Move, Advance or Fall Back as if it were your Movement phase. If it does so, that unit is not eligible to declare a charge this turn.",
-    "id": "000006717002"
-  },
-  {
-    "roll": "2",
-    "name": "FOG OF DREAMS",
-    "faction_id": "AE",
-    "faction_name": "Aeldari",
-    "legend": "The Shadowseer sends forth their consciousness like a creeping mist, baffling the senses of the enemy.",
-    "type": "Psychic Disciplines",
-    "description": "Blessing: Fog of Dreams has a warp charge value of 6. If manifested, select one friendly &lt;SAEDATH&gt; CORE or &lt;SAEDATH&gt; CHARACTER unit within 12\" of this PSYKER. Until the start of your next Psychic phase, that unit can only be selected as the target of a ranged attack if it is the closest eligible target for that attack or is within 12\" of the shooting model.",
-    "id": "000006717003"
-  },
-  {
-    "roll": "3",
-    "name": "MIRROR OF MINDS",
-    "faction_id": "AE",
-    "faction_name": "Aeldari",
-    "legend": "A maddening clash of wills consumes the victims mind as reality falls away.",
-    "type": "Psychic Disciplines",
-    "description": "Witchfire: Mirror of Minds has a warp charge value of 7. If manifested, select one enemy unit within 18\" of this PSYKER. That enemy unit suffers D3 mortal wounds, then roll off with your opponent. If you win or draw that roll off, that enemy unit suffers 1 mortal wound. Repeat this roll off process until either that enemy unit has suffered 6 mortal wounds, that enemy unit is destroyed, or your opponent wins the roll off.",
-    "id": "000006717004"
-  },
-  {
-    "roll": "4",
-    "name": "VEIL OF TEARS",
-    "faction_id": "AE",
-    "faction_name": "Aeldari",
-    "legend": "Sketching a gesture in the air, the Shadowseer snatches the image of the Harlequins from the minds of their foes, hiding them from sight.",
-    "type": "Psychic Disciplines",
-    "description": "Malediction: Veil of Tears has a warp charge value of 7. If manifested, select one enemy unit within 18\" of and visible to this PSYKER. Until the start of your next Psychic phase, models in that enemy unit cannot target &lt;SAEDATH&gt; units from your army that are more than 18\" away with ranged attacks.",
-    "id": "000006717005"
-  },
-  {
-    "roll": "5",
-    "name": "SHARDS OF LIGHT",
-    "faction_id": "AE",
-    "faction_name": "Aeldari",
-    "legend": "Blades of polychrome energy dazzle the foe, inflicting horrific and disorientating psychosomatic wounds.",
-    "type": "Psychic Disciplines",
-    "description": "Witchfire: Shards of Light has a warp charge value of 6. If manifested, select one enemy unit within 18\" of and visible to this PSYKER.That enemy unit suffers 1 mortal wound. If it is a VEHICLE or MONSTER unit, or a unit that contains 6 or more models, it suffers D3 mortal wounds instead.Until the start of your next Psychic phase, subtract 2 from the Leadership characteristic of models in that enemy unit.",
-    "id": "000006717006"
-  },
-  {
-    "roll": "6",
-    "name": "WEBWAY DANCE (AURA)",
-    "faction_id": "AE",
-    "faction_name": "Aeldari",
-    "legend": "The veils between realspace and the webway grow thin, allowing the Harlequins to jink away from danger with quicksilver speed, only to reappear unharmed moments later.",
-    "type": "Psychic Disciplines",
-    "description": "Blessing: Webway Dance has a warp charge value of 7. If manifested, until the start of your next Psychic phase, this PSYKER gains the following ability:Webway Dance (Aura): While a friendly &lt;SAEDATH&gt; unit is within 6\" of this PSYKER, each time a model in that unit would lose a wound, roll one D6: on a 6, that wound is not lost.",
-    "id": "000006717007"
   },
   {
     "roll": "1",
@@ -1710,214 +2040,94 @@
     "id": "000002449007"
   },
   {
-    "roll": "1",
-    "name": "BOON OF CHANGE",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "As the Daemon chants, its minions begin to twist and new forms take shape as the will of Tzeentch demands.",
+    "roll": "11",
+    "name": "TZEENTCH’S FIRESTORM",
+    "faction_id": "TS",
+    "faction_name": "Thousand Sons",
+    "legend": "The psyker conjures a raging storm of pink and blue fire down from the skies, that mutates his foes and leaves capering daemons that claw and bite in its wake.",
     "type": "Psychic Powers",
-    "description": "Boon of Change has a warp charge value of 7. If manifested, select a friendly TZEENTCH DAEMON unit within 18\" of the psyker and roll a D3. Consult the table below to discover what characteristic bonus all models in that unit receive until the start of your next Psychic phase.D3Effect1Extra Limb: +1 Attack2Mystic Strength: +1 Strength3Iron Skin: +1 Toughness",
-    "id": "000002582002"
+    "description": "Witchfire: Tzeentch’s Firestorm has a warp charge value of 6. If manifested, select one enemy unit within 18\" of and visible to this PSYKER and roll nine D6. For each roll of 6, that enemy unit suffers 1 mortal wound. If the result of the Psychic test was an unmodified 9+, that enemy unit suffers 1 mortal wound for each roll of 5+ instead.",
+    "id": "000002655002"
   },
   {
-    "roll": "2",
-    "name": "BOLT OF CHANGE",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "The Daemon unleashes a bolt of roiling warp energy that wracks the foe with sickening and uncontrollable mutations.",
+    "roll": "12",
+    "name": "GLAMOUR OF TZEENTCH",
+    "faction_id": "TS",
+    "faction_name": "Thousand Sons",
+    "legend": "The psyker twists and obscures the perceptions of his foes to the point that his allies become all but invisible.",
     "type": "Psychic Powers",
-    "description": "Bolt of Change has a warp charge value of 8. If manifested, select an enemy unit that is within 18\" of the psyker and visible to it. That unit suffers D3 mortal wounds. If a CHARACTER is slain by this power, you can add a Chaos Spawn to your army within 6” of the character and not within Engagement Range of any enemy models before they are removed as a casualty.",
-    "id": "000002582003"
+    "description": "Blessing: Glamour of Tzeentch has a warp charge value of 6. If manifested, select one friendly THOUSAND SONS unit within 18\" of this PSYKER. Until the start of your next Psychic phase, each time an attack is made against that unit, subtract 1 from that attack’s hit roll.",
+    "id": "000002655003"
   },
   {
-    "roll": "3",
-    "name": "GAZE OF FATE",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "The Daemon uses its powers of precognition to unravel the strands of destiny, and in doing so discovers the one true path to victory.",
+    "roll": "13",
+    "name": "DOOMBOLT",
+    "faction_id": "TS",
+    "faction_name": "Thousand Sons",
+    "legend": "The psyker hurls a bolt of roiling energy that horribly twists its target into abhorrent and mutated new shapes.",
     "type": "Psychic Powers",
-    "description": "Gaze of Fate has a warp charge value of 6. If manifested, you can re-roll a single dice roll later during your turn.",
-    "id": "000002582004"
+    "description": "Witchfire: Doombolt has a warp charge value of 6. If manifested, the closest enemy unit within 18\" of and visible to this PSYKER suffers 3 mortal wounds.",
+    "id": "000002655004"
   },
   {
-    "roll": "4",
-    "name": "TREASON OF TZEENTCH",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "The psyker reaches into the mind of its victim, subverting their will and turning them upon their own allies.",
+    "roll": "21",
+    "name": "TEMPORAL MANIPULATION",
+    "faction_id": "TS",
+    "faction_name": "Thousand Sons",
+    "legend": "Fashioning a pocket of dilated time around an injured ally, the psyker accelerates the rate at which their flesh reknits.",
     "type": "Psychic Powers",
-    "description": "Treason of Tzeentch has a warp charge value of 8. If manifested, select an enemy CHARACTER that is within 18\" of the psyker and visible to it (excluding the opponent’s Warlord) and roll 2D6. If the result is greater than the character’s Leadership characteristic, until the end of the following Fight phase treat that character as if it were a friendly model from your army in your Shooting, Charge and Fight phases.",
-    "id": "000002582005"
+    "description": "Blessing: Temporal Manipulation has a warp charge value of 5. If manifested, select one friendly THOUSAND SONS model (excluding VEHICLES) within 12\" of this PSYKER. That model is healed and regains up to D3 lost wounds. Each model can only be healed once per turn.",
+    "id": "000002655005"
   },
   {
-    "roll": "5",
-    "name": "FLICKERING FLAMES",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "Cackling madly, the psyker’s minions are wreathed in pink and blue flames that leap forth to consume their foes.",
+    "roll": "22",
+    "name": "WEAVER OF FATES",
+    "faction_id": "TS",
+    "faction_name": "Thousand Sons",
+    "legend": "The skeins of the future are laid bare to the psyker, revealing the fates of battle. Forewarned of imminent danger, his warriors dodge bullets and sword blows with seemingly supernatural reflexes.",
     "type": "Psychic Powers",
-    "description": "Flickering Flames has a warp charge value of 5. If manifested, pick a friendly TZEENTCH DAEMON unit within 18\" of the psyker. Until your next Psychic phase, add 1 to any wound rolls made for that unit’s shooting weapons.",
-    "id": "000002582006"
+    "description": "Blessing: Weaver of Fates has a warp charge value of 7. If manifested, select one friendly THOUSAND SONS unit within 18\" of this PSYKER. Until the start of your next Psychic phase, models in that unit have a 4+ invulnerable save.",
+    "id": "000002655006"
   },
   {
-    "roll": "6",
-    "name": "INFERNAL GATEWAY",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "The psyker opens a portal to the warp, a tear in the fabric of the mortal plane that sucks foes into certain oblivion.",
+    "roll": "23",
+    "name": "BALEFUL DEVOLUTION",
+    "faction_id": "TS",
+    "faction_name": "Thousand Sons",
+    "legend": "Transmogrifying energies erupt from the psyker’s eyes, playing across the enemy’s ranks and reducing their proud warriors to mewling beasts.",
     "type": "Psychic Powers",
-    "description": "Infernal Gateway has a warp charge value of 8. If manifested, identify the nearest enemy model that is within 12\" of the psyker and visible to it; that model’s unit, and every other unit (friend and foe) within 3\" of that model, suffers D3 mortal wounds. The number of mortal wounds inflicted is D6 instead if the power is manifested with a Psychic test of 12+.",
-    "id": "000002582007"
+    "description": "Witchfire: Baleful Devolution has a warp charge value of 8. If manifested, select one enemy unit within 18\" of and visible to this PSYKER that contains 6 or more models. Roll a number of D6 equal to the result of the Psychic test: for each roll of 6, that enemy unit suffers D3 mortal wounds.",
+    "id": "000002655007"
   },
   {
-    "roll": "1",
-    "name": "STREAM OF CORRUPTION",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "The psyker spews forth a stream of disease on its enemies.",
+    "roll": "31",
+    "name": "CACODAEMONIC CURSE",
+    "faction_id": "TS",
+    "faction_name": "Thousand Sons",
+    "legend": "With dark invocations, the psyker summons cackling daemon imps to infest the enemy’s weapons.",
     "type": "Psychic Powers",
-    "description": "Stream of Corruption has a warp charge value of 5. If manifested, the closest enemy unit within 7\" of the psyker and visible to it suffers D3 mortal wounds if it has fewer than 10 models, or D6 mortal wounds if it has 10 or more models.",
-    "id": "000002583002"
+    "description": "Malediction: Cacodaemonic Curse has a warp charge value of 6. If manifested, select one enemy unit within 18\" of this PSYKER. Until the start of your next Psychic phase, subtract 1 from the Strength characteristic of ranged weapons models in that unit are equipped with.",
+    "id": "000002655008"
   },
   {
-    "roll": "2",
-    "name": "FLESHY ABUNDANCE",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "Nurgle’s bountiful energies surge through the target, healing their wounds beneath new growths of swollen flesh.",
+    "roll": "32",
+    "name": "PYRIC FLUX",
+    "faction_id": "TS",
+    "faction_name": "Thousand Sons",
+    "legend": "The psykers makes themselves into a bounteous font of unholy warpflame.",
     "type": "Psychic Powers",
-    "description": "Fleshy Abundance has a warp charge value of 5. If manifested, select a friendly NURGLE DAEMON unit within 18\" of the psyker. One model in that unit regains D3 lost wounds.",
-    "id": "000002583003"
+    "description": "Blessing: Pyric Flux has a warp charge value of 5. If manifested, select one friendly ARCANA ASTARTES unit within 12\" of this PSYKER. Until the end of the turn, add 1 to the Strength characteristic of all warpflamers, warpflame pistols and heavy warpflamers (and any Relics that replace one of these weapons) that models in that unit are equipped with.",
+    "id": "000002655009"
   },
   {
-    "roll": "3",
-    "name": "NURGLE’S ROT",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "Gurgling praise to its god, the psyker exudes a wave of soul-pox that rapidly kills those who lack Nurgle’s blessings.",
+    "roll": "33",
+    "name": "PERPLEX",
+    "faction_id": "TS",
+    "faction_name": "Thousand Sons",
+    "legend": "With perspective-warping illusions the psyker obfuscates his enemies’ vision, rendering their targets fluid and indistinct.",
     "type": "Psychic Powers",
-    "description": "Nurgle’s Rot has a warp charge value of 7. If manifested, roll a D6 for every unit (excluding NURGLE units) within 7\" of the psyker. On a 4+ the unit being rolled for suffers D3 mortal wounds.",
-    "id": "000002583004"
-  },
-  {
-    "roll": "4",
-    "name": "SHRIVELLING POX",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "Muttering an unholy chant in a blighted tongue, the psyker calls down poxed blessings on a chosen foe.",
-    "type": "Psychic Powers",
-    "description": "Shrivelling Pox has a warp charge value of 6. If manifested, select an enemy unit that is within 18\" of the psyker and visible to it. Until the start of your next Psychic phase, subtract one from the target unit’s Toughness characteristic.",
-    "id": "000002583005"
-  },
-  {
-    "roll": "5",
-    "name": "VIRULENT BLESSING",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "The psyker blesses its allies with a bounty of fresh diseases with which to infect their enemies.",
-    "type": "Psychic Powers",
-    "description": "Virulent Blessing has a warp charge value of 7. If manifested, select a friendly NURGLE DAEMON unit within 18\" of the psyker. Until the start of your next Psychic phase:Add 1 to wound rolls made for that unit in the Fight phase.Wound rolls of 7+ made for that unit in the Fight phase inflict double damage.",
-    "id": "000002583006"
-  },
-  {
-    "roll": "6",
-    "name": "MIASMA OF PESTILENCE",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "As the psyker chants in a phlegm-choked drone, a dark cloud of filth and flies shrouds its allies from view.",
-    "type": "Psychic Powers",
-    "description": "Miasma of Pestilence has a warp charge value of 6. If manifested, select a friendly NURGLE DAEMON unit within 18\" of the psyker. Until the start of your next Psychic phase, your opponent must subtract 1 from all hit rolls that target that unit.",
-    "id": "000002583007"
-  },
-  {
-    "roll": "1",
-    "name": "CACOPHONIC CHOIR",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "The psyker emits an ear-piercing chorus of screams that shatters the sanity of its foes.",
-    "type": "Psychic Powers",
-    "description": "Cacophonic Choir has a warp charge value of 6. If manifested, roll 2D6 (adding 2 to the result if the Psychic test result was more than 10). The closest enemy unit that is within 18\" of the psyker and visible to it suffers a mortal wound for each point that the total exceeds their highest Leadership characteristic.",
-    "id": "000002584002"
-  },
-  {
-    "roll": "2",
-    "name": "SYMPHONY OF PAIN",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "The psyker’s chants unleash destructive Chaos energy.",
-    "type": "Psychic Powers",
-    "description": "Symphony of Pain has a warp charge value of 6. If manifested, the nearest enemy unit that is within 18\" of the psyker and visible to it is struck by unbearable pain. Your opponent must subtract 1 from all hit rolls made for this unit until the start of your next Psychic phase.",
-    "id": "000002584003"
-  },
-  {
-    "roll": "3",
-    "name": "HYSTERICAL FRENZY",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "The psyker sends out a psychic lash that goads its allies.",
-    "type": "Psychic Powers",
-    "description": "Hysterical Frenzy has a warp charge value of 8. If manifested, select a single friendly SLAANESH DAEMON unit within 18\" of the psyker that is within 1\" of an enemy unit. That unit can fight as if it were the Fight phase.",
-    "id": "000002584004"
-  },
-  {
-    "roll": "4",
-    "name": "DELIGHTFUL AGONIES",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "The psyker manipulates the pleasure centres of its allies’ minds, causing even great pain to register as sheer ecstasy.",
-    "type": "Psychic Powers",
-    "description": "Delightful Agonies has a warp charge value of 5. If manifested, select a single friendly SLAANESH DAEMON unit within 18\" of the psyker. Until the start of your next Psychic phase, roll a D6 each time a model in that unit loses a wound – on a 6 that model does not lose a wound.",
-    "id": "000002584005"
-  },
-  {
-    "roll": "5",
-    "name": "PAVANE OF SLAANESH",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "As the psyker sings, its spasming victims’ flesh tears and bones snap as they dance themselves to death.",
-    "type": "Psychic Powers",
-    "description": "Pavane of Slaanesh has a warp charge value of 6. If manifested, select an enemy unit that is within 18\" of the psyker and visible to them. Roll a D6 for each model in the unit; the unit suffers a mortal wound for each roll of 6.",
-    "id": "000002584006"
-  },
-  {
-    "roll": "6",
-    "name": "PHANTASMAGORIA",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "The psyker summons illusions to terrify and entice their foes.",
-    "type": "Psychic Powers",
-    "description": "Phantasmagoria has a warp charge value of 6. If manifested, enemy units must subtract 1 from their Leadership characteristic until the start of your next Psychic phase whilst they are within 12\" of the psyker.",
-    "id": "000002584007"
-  },
-  {
-    "roll": "1",
-    "name": "INFERNAL GAZE",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "Unholy power streams from Be’lakor’s eyes, charring and melting everything caught in its path.",
-    "type": "Dark Hereticus Discipline",
-    "description": "Infernal Gaze has a warp charge value of 5. If manifested, select an enemy unit that is within 18\" of Be’lakor and is visible to him and roll 3 dice. The target suffers one mortal wound for each roll of 4+.",
-    "id": "000002585002"
-  },
-  {
-    "roll": "2",
-    "name": "DEATH HEX",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "Be’lakor places a dire hex upon his enemies. Wards and energised shields flicker and fail, leaving the foe exposed.",
-    "type": "Dark Hereticus Discipline",
-    "description": "Death Hex has a warp charge value of 8. If manifested, select an enemy unit that is within 12\" of Be’lakor and is visible to him. Until the start of your next Psychic phase, that unit cannot take invulnerable saves.",
-    "id": "000002585003"
-  },
-  {
-    "roll": "3",
-    "name": "GIFT OF CHAOS",
-    "faction_id": "CD",
-    "faction_name": "Chaos Daemons",
-    "legend": "As the power of the warp surges through Be’lakor’s victim, bones snap and flesh rips as a new form takes shape.",
-    "type": "Dark Hereticus Discipline",
-    "description": "Gift of Chaos has a warp charge value of 6. If manifested, select an enemy model that is within 6\" of Be’lakor and is visible to him and roll a D6. If the result is greater than the target’s Toughness characteristic, its unit suffers D3+3 mortal wounds. If a CHARACTER is slain by this power, you can add a Chaos Spawn to your army and set it up within 1\" of the character before it is removed.",
-    "id": "000002585004"
+    "description": "Malediction: Perplex has a warp charge value of 7. If manifested, select one enemy unit within 24\" of this PSYKER. Until the start of your next Psychic phase, each time that unit is selected to shoot, units more than 24\" away cannot be selected as the target of ranged attacks.",
+    "id": "000002655010"
   },
   {
     "roll": "1",
@@ -2101,13 +2311,193 @@
   },
   {
     "roll": "1",
+    "name": "BOON OF CHANGE",
+    "faction_id": "CD",
+    "faction_name": "Chaos Daemons",
+    "legend": "As the daemon chants, its minions begin to twist and new forms take shape as the will of Tzeentch demands.",
+    "type": "Pandaemoniac Discipline",
+    "description": "Blessing: Boon of Change has a warp charge value of 6. If manifested, select one friendly LEGIONES DAEMONICA TZEENTCH unit within 18\" of this PSYKER and roll one D3. Until the start of your next Psychic phase, that unit gains the relevant bonus from the table below:D3EFFECT1Extra Limbs: Add 2\" to the Move characteristic of models in that unit.2Mystical Strength: Add 1 to the Strength characteristic of models in that unit.3Resilient Hide: Add 1 to the Toughness characteristic of models in that unit.If the result of the Psychic test was 9 or more, you can select which result applies instead of rolling a D3.",
+    "id": "000007607002"
+  },
+  {
+    "roll": "2",
+    "name": "BOLT OF CHANGE",
+    "faction_id": "CD",
+    "faction_name": "Chaos Daemons",
+    "legend": "The daemon unleashes a bolt of warp energy that afflicts the foe with sickening and uncontrollable mutations.",
+    "type": "Pandaemoniac Discipline",
+    "description": "Witchfire: Bolt of Change has a warp charge value of 7. If manifested, select one enemy unit within 18\" of and visible to this PSYKER, and roll nine D6:For each 5+, that enemy unit suffers 1 mortal wound.For each model destroyed as a result of these mortal wounds, that unit suffers 1 additional mortal wound (to a maximum of 3). These additional mortal wounds cannot generate any additional mortal wounds.",
+    "id": "000007607003"
+  },
+  {
+    "roll": "3",
+    "name": "GAZE OF FATE",
+    "faction_id": "CD",
+    "faction_name": "Chaos Daemons",
+    "legend": "Using its powers of precognition to unravel the strands of destiny, this daemon extracts secrets from the sea of souls and channels them through its own potent form.",
+    "type": "Pandaemoniac Discipline",
+    "description": "Blessing: Gaze of Fate has a warp charge value of 7. If manifested, at the end of the battle round, if this PSYKER is on the battlefield, you can retain up to 2 unspent Warp Storm points.",
+    "id": "000007607004"
+  },
+  {
+    "roll": "4",
+    "name": "TREASON OF TZEENTCH",
+    "faction_id": "CD",
+    "faction_name": "Chaos Daemons",
+    "legend": "The psyker reaches into the mind of its victim, subverting their will and turning them upon their own allies.",
+    "type": "Pandaemoniac Discipline",
+    "description": "Malediction: Treason of Tzeentch has a warp charge value of 7. If manifested, select one enemy unit within 18\" of and visible to this PSYKER. Until the start of your next Psychic phase, that enemy unit is not affected by the aura abilities of other enemy units.",
+    "id": "000007607005"
+  },
+  {
+    "roll": "5",
+    "name": "INFERNAL FLAMES",
+    "faction_id": "CD",
+    "faction_name": "Chaos Daemons",
+    "legend": "Cackling madly, the psyker’s minions are wreathed in pink and blue flames that leap forth to consume their foes.",
+    "type": "Pandaemoniac Discipline",
+    "description": "Blessing: Infernal Flames has a warp charge value of 7. If manifested, select one friendly LEGIONES DAEMONICA TZEENTCH CORE unit within 18\" of and visible to this PSYKER. Until the start of your next Psychic phase, each time a model in that unit makes a ranged attack, add 1 to that attack’s wound roll.",
+    "id": "000007607006"
+  },
+  {
+    "roll": "6",
+    "name": "INFERNAL GATEWAY",
+    "faction_id": "CD",
+    "faction_name": "Chaos Daemons",
+    "legend": "Opening a portal to the warp, this daemon creates a tear in the fabric of the mortal plane that sucks foes into certain oblivion.",
+    "type": "Pandaemoniac Discipline",
+    "description": "Witchfire: Infernal Gateway has a warp charge value of 8. If manifested, the closest enemy unit within 18\" of and visible to this PSYKER and each other enemy unit within 3\" of that enemy unit suffers D3 mortal wounds. If the result of the Psychic test was 12 or more, each affected unit suffers 3 mortal wounds instead.",
+    "id": "000007607007"
+  },
+  {
+    "roll": "1",
+    "name": "STREAM OF CORRUPTION",
+    "faction_id": "CD",
+    "faction_name": "Chaos Daemons",
+    "legend": "The daemon’s jaws stretch impossibly wide. Its rotten body convulses, heaving out clouds of rancid gas and flies before at last it ejects a jetting river of diseased vomit. So contagious and corrosive is this tide of foulness that those not drowned by it are often dissolved into organic gruel or left stricken by supernatural sickness.",
+    "type": "Warprot Discipline",
+    "description": "Witchfire: Stream of Corruption has a warp charge value of 6. If manifested, the closest enemy unit within 12\" of and visible to this PSYKER suffers D3 mortal wounds. If that unit contains 11 or more models, that unit suffers D3+2 mortal wounds instead.",
+    "id": "000007637002"
+  },
+  {
+    "roll": "2",
+    "name": "FLESHY ABUNDANCE",
+    "faction_id": "CD",
+    "faction_name": "Chaos Daemons",
+    "legend": "The daemon blesses their allies with Nurgle’s bountiful energies, swelling them into even more grotesquely resilient and corpulent forms.",
+    "type": "Warprot Discipline",
+    "description": "Blessing: Fleshy Abundance has a warp charge value of 7. If manifested, select one friendly LEGIONES DAEMONICA NURGLE CORE unit within 18\" of and visible to this PSYKER. Until the start of your next Psychic phase, add 1 to the Toughness characteristic of models in that unit.",
+    "id": "000007637003"
+  },
+  {
+    "roll": "3",
+    "name": "NURGLE’S ROT",
+    "faction_id": "CD",
+    "faction_name": "Chaos Daemons",
+    "legend": "Gurgling praise to its god, the daemon exudes a wave of soul-pox that eats away the spiritual essence of those who lack Nurgle’s blessings. Victims’ eyes become glassy, their flesh sinks upon their bones and their limbs fall slack before they collapse and begin to rot before their horrified comrades’ eyes.",
+    "type": "Warprot Discipline",
+    "description": "Witchfire: Nurgle’s Rot has a warp charge value of 7. If manifested, roll 2D6 for each enemy unit within 6\" of this PSYKER. If the result is higher than the highest Toughness characteristic of models in that unit, that unit suffers D3 mortal wounds. If the result is at least double the highest Toughness characteristic of models in that unit, that unit suffers D6 mortal wounds instead.",
+    "id": "000007637004"
+  },
+  {
+    "roll": "4",
+    "name": "SHRIVELLING POX",
+    "faction_id": "CD",
+    "faction_name": "Chaos Daemons",
+    "legend": "Muttering an unholy chant in a blighted tongue, the daemon calls down a foul malignancy that races through the enemies’ ranks like wildfire and chews away at their flesh and organs like a tide of ravenous maggots.",
+    "type": "Warprot Discipline",
+    "description": "Malediction: Shrivelling Pox has a warp charge value of 6. If manifested, select one enemy unit within 18\" of and visible to this PSYKER. Until the start of your next Psychic phase, subtract 1 from the Toughness characteristic of models in that unit.",
+    "id": "000007637005"
+  },
+  {
+    "roll": "5",
+    "name": "VIRULENT BLESSING",
+    "faction_id": "CD",
+    "faction_name": "Chaos Daemons",
+    "legend": "Calling upon the myriad gifts of Nurgle, the daemon infuses its allies’ weapons, fangs and talons with a seething mix of supernatural maladies that render their merest touch inimical to their luckless victims.",
+    "type": "Warprot Discipline",
+    "description": "Blessing: Virulent Blessing has a warp charge value of 6. If manifested, select one friendly LEGIONES DAEMONICA NURGLE CORE unit within 18\" of and visible to this PSYKER. Until the start of your next Psychic phase, add 1 to the Damage characteristic of melee weapons models in that unit are equipped with.",
+    "id": "000007637006"
+  },
+  {
+    "roll": "6",
+    "name": "MALODOROUS PALL",
+    "faction_id": "CD",
+    "faction_name": "Chaos Daemons",
+    "legend": "Chanting in a phlegm-choked drone, the daemon conjures forth a dense cloud of occluding corpse-gas and biting, blinding flies to engulf the enemy and leave them nauseated and reeling.",
+    "type": "Warprot Discipline",
+    "description": "Malediction: Malodorous Pall has a warp charge value of 8. If manifested, select one enemy unit within 18\" of and visible to this PSYKER. Until the start of your next Psychic phase, that enemy unit:Cannot perform actions (if that enemy unit is currently performing an action, it immediately fails).Loses the Objective Secured ability.",
+    "id": "000007637007"
+  },
+  {
+    "roll": "1",
+    "name": "CACOPHONIC CHOIR",
+    "faction_id": "CD",
+    "faction_name": "Chaos Daemons",
+    "legend": "The daemon emits an ear-piercing chorus of warp-infused screams that erupt from its distended maw and shatter the sanity of its foes.",
+    "type": "Soulstain Discipline",
+    "description": "Witchfire: Cacophonic Choir has a warp charge value of 7. If manifested, roll 3D6. The closest enemy unit within 18\" of and visible to this PSYKER suffers 1 mortal wound for each point that the result exceeds that enemy unit’s Leadership characteristic by (to a maximum of 6 mortal wounds).",
+    "id": "000007658002"
+  },
+  {
+    "roll": "2",
+    "name": "SYMPHONY OF PAIN",
+    "faction_id": "CD",
+    "faction_name": "Chaos Daemons",
+    "legend": "Drawing in all the screams of pain and pleasure from across the battlefield, the daemon melds them into a disorienting and otherworldly music that beguiles even as it torments.",
+    "type": "Soulstain Discipline",
+    "description": "Malediction: Symphony of Pain has a warp charge value of 7. If manifested, select one enemy unit within 18\" of and visible to this PSYKER. Until the start of your next Psychic phase, each time a melee attack is made by a model in that unit, subtract 1 from that attack’s hit roll and wound roll.",
+    "id": "000007658003"
+  },
+  {
+    "roll": "3",
+    "name": "HYSTERICAL FRENZY",
+    "faction_id": "CD",
+    "faction_name": "Chaos Daemons",
+    "legend": "The daemon sends a barbed lash of deranged fervour and furious bliss uncoiling across the battlefield to goad its allies to greater efforts.",
+    "type": "Soulstain Discipline",
+    "description": "Blessing: Hysterical Frenzy has a warp charge value of 7. If manifested, select one friendly LEGIONES DAEMONICA SLAANESH CORE unit within 18\" of and visible to this PSYKER. Until the start of your next Psychic phase:Add 1 to the Attacks characteristic of models in that unit.Each time a model in that unit makes a melee attack, on an unmodified hit roll of 6, that attack scores 1 additional hit.",
+    "id": "000007658004"
+  },
+  {
+    "roll": "4",
+    "name": "DELIGHTFUL AGONIES",
+    "faction_id": "CD",
+    "faction_name": "Chaos Daemons",
+    "legend": "Manipulating the very stuff of its allies’ corporeal manifestations, the daemon turns their physical hurts to euphoric stimuli, allowing them to fight on even with their physical selves in tatters.",
+    "type": "Soulstain Discipline",
+    "description": "Blessing: Delightful Agonies has a warp charge value of 6. If manifested, select one friendly LEGIONES DAEMONICA SLAANESH CORE unit within 18\" of and visible to this PSYKER. Until the start of your next Psychic phase, each time a model in that unit would lose a wound, roll one D6: on a 5+, that wound is not lost.",
+    "id": "000007658005"
+  },
+  {
+    "roll": "5",
+    "name": "PAVANE OF SLAANESH",
+    "faction_id": "CD",
+    "faction_name": "Chaos Daemons",
+    "legend": "Compelled by this daemons plaintive urging, its victims begin an ever-more-desperate dance, flailing and contorting with wild abandon until flesh tears and bones snap from the unnatural contortions.",
+    "type": "Soulstain Discipline",
+    "description": "Witchfire: Pavane of Slaanesh has a warp charge value of 6. If manifested, select one enemy unit within 18\" of and visible to this PSYKER. Roll one D6 for each model in that unit. For each 5+, that unit suffers 1 mortal wound (to a maximum of 6 mortal wounds).",
+    "id": "000007658006"
+  },
+  {
+    "roll": "6",
+    "name": "PHANTASMAGORIA",
+    "faction_id": "CD",
+    "faction_name": "Chaos Daemons",
+    "legend": "Fixing its malevolent gaze upon its chosen victims, the daemon floods their minds with rapturous visions of delight and horror. These escalate to such overwhelming heights that soon those foes not tearing themselves or one another to pieces instead simply drop dead from insupportable sensory overload.",
+    "type": "Soulstain Discipline",
+    "description": "Witchfire: Phantasmagoria has a warp charge value of 7. If manifested, select one enemy unit within 18\" of and visible to this PSYKER and roll six D6. For each 5+, that unit suffers 1 mortal wound. Until the start of your next Psychic phase, each time that unit suffers a mortal wound as a result of this psychic power, subtract 1 from the Leadership characteristic of models in that unit.",
+    "id": "000007658007"
+  },
+  {
+    "roll": "1",
     "name": "SHROUDED STEP",
     "faction_id": "CD",
     "faction_name": "Chaos Daemons",
-    "legend": "A black fume envelopes the psyker’s allies. It flows across the battlefield before coalescing into a roiling darkness from which they then emerge.",
-    "type": "Army of Renown: Disciples of Be’lakor",
-    "description": "Blessing: Shrouded Step has a warp charge value of 6. If manifested, select one friendly DISCIPLES OF BE’LAKOR INFANTRY unit within 18\" of this PSYKER. Remove that unit from the battlefield and set them up anywhere on the battlefield that is more than 9\" from any enemy models. If that unit Remained Stationary this turn, it is instead treated as having made a Normal Move this turn.",
-    "id": "000005692002"
+    "legend": "A black fume envelops the psyker’s allies. It flows across the battlefield before coalescing into a roiling darkness from which they then emerge.",
+    "type": "Noctic Discipline",
+    "description": "Blessing: Shrouded Step has a warp charge value of 6. If manifested, select one friendly LEGIONES DAEMONICA INFANTRY or DISCIPLES OF BE’LAKOR INFANTRY unit within 18\" of this PSYKER. Remove that unit from the battlefield and set it up anywhere on the battlefield that is more than 9\" from any enemy models.",
+    "id": "000007673002"
   },
   {
     "roll": "2",
@@ -2115,588 +2505,168 @@
     "faction_id": "CD",
     "faction_name": "Chaos Daemons",
     "legend": "The psyker draws from the warp a churning mass of damned shades, abandoned worshippers of Be’lakor now doomed to conceal and protect his current servants.",
-    "type": "Army of Renown: Disciples of Be’lakor",
-    "description": "Blessing: Wreathed in Shades has a warp charge value of 7. If manifested, select one friendly DISCIPLES OF BE’LAKOR unit (excluding MONSTER and VEHICLE units) within 12\" of this PSYKER. Until the start of your next Psychic phase, enemy models cannot target that unit with ranged weapons unless that unit is the closest eligible target to the firing model or it is within 12\" of the firing model.",
-    "id": "000005692003"
+    "type": "Noctic Discipline",
+    "description": "Blessing: Wreathed in Shades has a warp charge value of 7. If manifested, select one friendly LEGIONES DAEMONICA or DISCIPLES OF BE’LAKOR unit (excluding MONSTER and VEHICLE units) within 12\" of this PSYKER. Until the start of your next Psychic phase, enemy models cannot target that unit with ranged weapons unless that unit is the closest eligible target to the firing model or it is within 12\" of the firing model.",
+    "id": "000007673003"
   },
   {
     "roll": "3",
     "name": "PALL OF DESPAIR",
     "faction_id": "CD",
     "faction_name": "Chaos Daemons",
-    "legend": "The psyker draws forth every bleak imagining and hopeless terror their victims have ever felt, drowning his enemies’ minds in misery until they barely have the will to keep breathing.",
-    "type": "Army of Renown: Disciples of Be’lakor",
-    "description": "Malediction: Pall of Despair has a warp charge value of 7. If manifested, select one enemy unit that is within 18\" of and visible to this PSYKER: Roll 3D6: if the result is greater than the enemy units Leadership characteristic, select one of the following to apply to that unit until the start of your next Psychic phase:If that unit has any Aura abilities, select one of those abilities. Until the start of your next Psychic phase, that unit loses that ability.Until the start of your next Psychic phase, that unit cannot perform actions (if that unit is currently performing an action, it immediately fails).Until the start of your next Psychic phase, in the Fight phase, that unit is not eligible to fight that phase until after all eligible units from your army have done so.",
-    "id": "000005692004"
+    "legend": "The psyker draws forth every bleak imagining and hopeless terror their victims have ever felt, drowning their enemies’ minds in misery until they barely have the will to keep breathing.",
+    "type": "Noctic Discipline",
+    "description": "Malediction: Pall of Despair has a warp charge value of 7. If manifested, select one enemy unit within 18\" of and visible to this PSYKER. Roll 3D6: if the result is greater than that unit’s Leadership characteristic, select one of the following to apply to that unit:Until the start of your next Psychic phase, if that unit has any aura abilities, select one of those abilities: that unit loses that ability.Until the start of your next Psychic phase, that unit cannot perform actions. If that unit is currently performing an action, it immediately fails.Until the start of your next Psychic phase, in the Fight phase, that unit is not eligible to fight that phase until after all eligible units from your army have done so.",
+    "id": "000007673004"
   },
   {
     "roll": "4",
     "name": "VOIDSLIVERS",
     "faction_id": "CD",
     "faction_name": "Chaos Daemons",
-    "legend": "Reaching with their mind into the darkest depths of the void, the psyker draws forth crystallised slivers of terror, misery and loss before hurling them in a storm at the foe. The darts rip through soul-matter, while leaving the enemys corporeal forms lifeless but seemingly unharmed.",
-    "type": "Army of Renown: Disciples of Be’lakor",
-    "description": "Witchfire: Voidslivers has a warp charge value of 5. If manifested, select one enemy model that is within 12\" of and visible to this PSYKER. Draw a line between any part this PSYKER’s base and any part of the selected models base (or hull):The selected models unit suffers 1 mortal wound (if that unit contains 11 or more models, it suffers D3 mortal wounds instead).Every other enemy unit that this line passes over or through suffers 1 mortal wound (if that unit contains 11 or more models, it suffers D3 mortal wounds instead).",
-    "id": "000005692005"
+    "legend": "Reaching with their mind into the darkest depths of the void, the psyker draws forth crystallised slivers of terror, misery and loss before hurling them in a storm at the foe. The darts rip through soul-matter, while leaving the enemy’s corporeal forms lifeless but seemingly unharmed.",
+    "type": "Noctic Discipline",
+    "description": "Witchfire: Voidslivers has a warp charge value of 5. If manifested, select one enemy model within 12\" of and visible to this PSYKER. Draw a line between any part of this PSYKER’s base and any part of the selected model’s base (or hull):The selected model’s unit suffers 1 mortal wound (if that unit contains 11 or more models, it suffers D3 mortal wounds instead).Every other enemy unit that this line passes over or through suffers 1 mortal wound (if any of those units contains 11 or more models, it suffers D3 mortal wounds instead).",
+    "id": "000007673005"
   },
   {
     "roll": "5",
     "name": "PENUMBRAL CURSE",
     "faction_id": "CD",
     "faction_name": "Chaos Daemons",
-    "legend": "The psyker curses the blades of the enemy, causing them to become as insubstantial as shadows and to pass harmlessly through the very foes they should have hewn in two.",
-    "type": "Army of Renown: Disciples of Be’lakor",
-    "description": "Malediction: Penumbral Curse has a warp charge value of 7. If manifested, select one enemy unit within 18\" of this PSYKER. Until the start of your next Psychic phase, each time a model in that unit makes a melee attack, subtract 1 from that attack’s wound roll and reduce the Armour Penetration characteristic of that attack by 1.",
-    "id": "000005692006"
+    "legend": "The psyker curses the blades of the enemy, causing them to become as insubstantial as shadows, and to pass harmlessly through the very foes they should have hewn in two.",
+    "type": "Noctic Discipline",
+    "description": "Malediction: Penumbral Curse has a warp charge value of 7. If manifested, select one enemy unit within 18\" of this PSYKER. Until the start of your next Psychic phase, each time a model in that unit makes a melee attack, subtract 1 from that attack’s wound roll and worsen the Armour Penetration characteristic of that attack by 1.",
+    "id": "000007673006"
   },
   {
     "roll": "6",
     "name": "BETRAYING SHADES",
     "faction_id": "CD",
     "faction_name": "Chaos Daemons",
-    "legend": "Falling to the psyker’s whispered blandishments, the enemys very shadows turn upon them, clawing and ripping at the mortal forms that cast them.",
-    "type": "Army of Renown: Disciples of Be’lakor",
-    "description": "Witchfire: Betraying Shades has a warp charge value of 6. If manifested, select one enemy unit within 18\" of and visible to this Psyker. Select up to 6 models in that unit, and add together the unmodified Attacks characteristics of those models. Roll a number of D6 equal to the total (for example, if five of the selected models had an Attacks characteristic of 2, and one had an Attacks characteristic of 3, you would roll thirteen D6). If the result of the Psychic test was 11 or more, add 1 to each dice result. For each roll of 6+, that unit suffers 1 mortal wound.",
-    "id": "000005692007"
+    "legend": "Falling to the psyker’s whispered blandishments, the enemy’s very shadows turn upon them, clawing and ripping at the mortal forms that cast them.",
+    "type": "Noctic Discipline",
+    "description": "Witchfire: Betraying Shades has a warp charge value of 6. If manifested, select one enemy unit within 18\" of and visible to this PSYKER.Select up to 6 models in that unit, and add together the unmodified Attacks characteristics of those models.Roll a number of D6 equal to the total (for example, if five of the selected models had an Attacks characteristic of 2, and one had an Attacks characteristic of 3, you would roll thirteen D6).If the result of the Psychic test was 11 or more, add 1 to each dice result.For each roll of 6+, that unit suffers 1 mortal wound (to a maximum of 6 mortal wounds).",
+    "id": "000007673007"
   },
   {
     "roll": "1",
-    "name": "ROAR OF MORK",
-    "faction_id": "ORK",
-    "faction_name": "Orks",
-    "legend": "The Wurrboy opens his gob impossibly wide and gives vent to a bellowing roar that reverberates through his enemies minds. Coherent thought becomes nigh on impossible, and as the roar thunders on, panic begins to spread.",
-    "type": "Beasthead Discipline",
-    "description": "Malediction (Aura): Roar of Mork has a warp charge value of 6. If manifested:Select one enemy unit within 18\" and visible to the PSYKER. Until the start of your next Psychic phase, subtract 2 from Advance and charge rolls made for that unit.Until the start of your next Psychic phase, while an enemy unit is within 18\" of this PSYKER, subtract 1 from the Leadership characteristic of models in that unit.",
-    "id": "000005730002"
+    "name": "INTERFACE ECHO",
+    "faction_id": "LoV",
+    "faction_name": "Leagues of Votann",
+    "legend": "The Grinmyr draws empyrically archived Votannic wisdom from within ward-tech augmentic neural buffers, and uses it to inform their comrades’ battle plan.",
+    "type": "Skeinwrought Discipline",
+    "description": "Blessing: Interface Echo has a warp charge value of 5. If manifested, you gain 1 Command point. The limit of gaining or refunding 1CP per battle round does not apply to any Command points gained via this psychic power.",
+    "id": "000007761002"
   },
   {
     "roll": "2",
-    "name": "FRAZZLE",
-    "faction_id": "ORK",
-    "faction_name": "Orks",
-    "legend": "The Wurrboy concentrates really hard, a sickly green glow emanating around his gnarled cranium as he builds up a store of Waaagh! energy within himself. At the point where the Weirdboy is almost fit to burst, a wave of crackling energy floods out, reducing nearby foes to shrivelled husks in an instant.",
-    "type": "Beasthead Discipline",
-    "description": "Witchfire: Frazzle has a warp charge value of 6. If manifested, roll one D6 for each enemy unit that is within 9\" of this PSYKER: on a 4+, that unit suffers D3 mortal wounds.",
-    "id": "000005730003"
+    "name": "FORTIFY",
+    "faction_id": "LoV",
+    "faction_name": "Leagues of Votann",
+    "legend": "The Kin have a natural belief in their own indomitable fortitude. Employing controlled empyric energies, the Grinmyr causes these beliefs to manifest as temporary physical enhancement.",
+    "type": "Skeinwrought Discipline",
+    "description": "Blessing: Fortify has a warp charge value of 6. If manifested, select one friendly &lt;LEAGUE&gt; CORE or &lt;LEAGUE&gt; CHARACTER unit within 12\" of this PSYKER. Until the start of your next Psychic phase:Add 1 to the Toughness characteristic of models in that unit.Roll one D6 each time a model in that unit loses a wound: on a 6, that wound is not lost.",
+    "id": "000007761003"
   },
   {
     "roll": "3",
-    "name": "BITIN’ JAWS",
-    "faction_id": "ORK",
-    "faction_name": "Orks",
-    "legend": "The Wurrboy conjures a set of enormous green jaws in front of him. their teeth clamping open and shut in time with his own twitching movements. As he narrows his eyes, these jaws surge towards the enemy, the Weirdboy gnashing and chomping at anything that gets in their way.",
-    "type": "Beasthead Discipline",
-    "description": "Witchfire: Bitin’ Jawz has a warp charge value of 6. If manifested, select one enemy model that is within 18\" of and visible to this PSYKER. Draw a line between any part of this PSYKER’s base and any part of the selected model’s base (or hull); the selected model’s unit, and every other enemy unit that this line passes over or through, suffers 1 mortal wound.",
-    "id": "000005730004"
+    "name": "ANCESTRAL WRATH",
+    "faction_id": "LoV",
+    "faction_name": "Leagues of Votann",
+    "legend": "Channelling the grim hatred that all Kin believe the Ancestors hold for their foes, the Grinmyr transmutes it into furious destructive energies. White fire leaps from their eyes, their fingertips and their open mouth, blasting the foe to scattered ashes.",
+    "type": "Skeinwrought Discipline",
+    "description": "Witchfire: Ancestral Wrath has a warp charge value of 6. If manifested, select one enemy unit within 18\" of and visible to this PSYKER and roll 3 dice. If that enemy unit contains 11 or more models, roll 6 dice instead. In either case, add 1 to each result if that enemy unit has 1 or more Judgement tokens on it. For each roll of 4+, that enemy unit suffers 1 mortal wound.",
+    "id": "000007761004"
   },
   {
     "roll": "4",
-    "name": "SPIRIT OF GORK",
-    "faction_id": "ORK",
-    "faction_name": "Orks",
-    "legend": "The Wurrboy stokes the bestial fury of nearby squigs. Eyes aglow with Waaagh! energy, the enraged creatures plunge into enemy lines, tearing the foe apart while their amused riders cling on tightly!",
-    "type": "Beasthead Discipline",
-    "description": "Blessing: Spirit of Gork has a warp charge value of 6. If manifested, select one friendly SQUIG unit within 12\" of and visible to this PSYKER. Until the start of your next Psychic phase:Each time that unit fights, it can make 1 additional attack with each Big Chompa’s jaws, squighog jaws, smasha squig jaws or squigosaur’s jaws it is equipped with.Each time a model in that unit makes an attack with Big Chompa’s jaws, squighog jaws, smasha squig jaws or squigosaur’s jaws, on an unmodified wound roll of 6, that attack inflicts 1 mortal wound on the target in addition to any normal damage.",
-    "id": "000005730005"
+    "name": "GRUDGEPYRE",
+    "faction_id": "LoV",
+    "faction_name": "Leagues of Votann",
+    "legend": "Harnessing the Kin’s gestalt hatred for a begrudged foe, the Grinmyr engulfs their victim in a pillar of flame that scours them from existence.",
+    "type": "Skeinwrought Discipline",
+    "description": "Witchfire: Grudgepyre has a warp charge value of 4. If manifested, select one enemy unit that is not a VEHICLE, MONSTER or CHARACTER within 18\" of and visible to this PSYKER. Roll 2D6 and add the number of Judgement tokens that are next to that unit to the result: if the result is greater than the unmodified Leadership characteristic of that unit, one model selected by your opponent in that unit is destroyed.",
+    "id": "000007761005"
   },
   {
     "roll": "5",
-    "name": "BEASTSCENT",
-    "faction_id": "ORK",
-    "faction_name": "Orks",
-    "legend": "The Wurrboy turns his nose to the sky, taking exaggerated sniffs. As he does so, a faint green glow begins to emanate from nearby enemies, telling the Weirdboy’s fellow hunters exactly where to find them.",
-    "type": "Beasthead Discipline",
-    "description": "Malediction: Beastscent has a warp charge value of 5. If manifested, select one enemy unit that is within 18\" of this PSYKER. Until the start of your next Psychic phase, that enemy unit does not receive the benefits of cover against attacks made by BEAST SNAGGA units from your army.",
-    "id": "000005730006"
+    "name": "NULL VORTEX",
+    "faction_id": "LoV",
+    "faction_name": "Leagues of Votann",
+    "legend": "Unleashing the full contra-empyric power of their barrier tech, the Grinmyr projects a null-probability field that causes enemy force shields to flicker and die, and even the most agile foes to fumble weakly in their efforts to evade harm.",
+    "type": "Skeinwrought Discipline",
+    "description": "Malediction: Null Vortex has a warp charge value of 8. If manifested, select one enemy unit within 12\" of this PSYKER. Until the start of your next Psychic phase, models in that unit cannot use any invulnerable saves.",
+    "id": "000007761006"
   },
   {
     "roll": "6",
-    "name": "SQUIGGLY CURSE",
-    "faction_id": "ORK",
-    "faction_name": "Orks",
-    "legend": "The Wurrboy cackles madly as he transforms the foe into a herd of squigs, the now terrified and confused beasts rampaging through their former comrades before bounding away.",
-    "type": "Beasthead Discipline",
-    "description": "Witchfire: Squiggly Curse has a warp charge value of 7. If manifested, select one enemy unit within 12\" of this PSYKER and roll one D6 for each model in that unit (to a maximum of 6 dice). For each result of 4+, that unit suffers 1 mortal wound. If any models in that unit are destroyed by this psychic power, every other enemy unit within 6\" of that unit suffers 1 mortal wound.",
-    "id": "000005730007"
-  },
-  {
-    "roll": "11",
-    "name": "GAZE OF HATE",
-    "faction_id": "TS",
-    "faction_name": "Thousand Sons",
-    "legend": "Pure roiling hatred surges through the psyker, becoming first dark fire in their veins then leaping from their eyes in searing columns of annihilating energy. Those struck by them risk being scoured from existence entirely.",
-    "type": "Psychic Powers",
-    "description": "Witchfire: Gaze of Hate has a warp charge value of 5. If manifested, select one enemy unit within 18\" of and visible to this PSYKER and roll three D6: for each roll of 4+, that enemy unit suffers 1 mortal wound.",
-    "id": "000005891002"
-  },
-  {
-    "roll": "12",
-    "name": "TWIST OF FATE",
-    "faction_id": "TS",
-    "faction_name": "Thousand Sons",
-    "legend": "One with sufficient willpower and disregard for their own soul can glean forbidden lore by looking upon the unfettered tides of the warp, plucking silvery skeins of fate from amongst the deadly morass and spinning them into nooses for their luckless foes.",
-    "type": "Psychic Powers",
-    "description": "Malediction: Twist of Fate has a warp charge value of 8. If manifested, select one enemy unit within 12\" of this PSYKER. Until the start of your next Psychic phase, models in that unit cannot use any invulnerable saves.",
-    "id": "000005891003"
-  },
-  {
-    "roll": "13",
-    "name": "DARK BLESSING",
-    "faction_id": "TS",
-    "faction_name": "Thousand Sons",
-    "legend": "Offering bloody sacrifice to the Dark Gods, the psyker calls down their unbridled generosity upon his foe. Their bodies are wracked by hideous mutations, their sanity collapsing as their mortal forms become a heaving, thrashing mass of horror.",
-    "type": "Psychic Powers",
-    "description": "Witchfire: Dark Blessing has a warp charge value of 6. If manifested, select one enemy model within 6\" of and visible to this PSYKER and roll one D6: if the result is greater than the target’s Toughness characteristic, its unit suffers D3+3 mortal wounds.",
-    "id": "000005891004"
-  },
-  {
-    "roll": "21",
-    "name": "PRESAGE",
-    "faction_id": "TS",
-    "faction_name": "Thousand Sons",
-    "legend": "The psyker reads signs and omens in the ebb and flow of battle, the whirling patterns of smoke, the spatter of blood as blades bite home. These gleaned warnings he passes on to his warriors, the better for them to predict and thus strike down their enemies.",
-    "type": "Psychic Powers",
-    "description": "Blessing: Presage has a warp charge value of 7. If manifested, select one friendly THOUSAND SONS unit within 18\" of this PSYKER. Until the start of your next Psychic phase, each time a model in that unit makes an attack, add 1 to that attack’s hit roll.",
-    "id": "000005891005"
-  },
-  {
-    "roll": "22",
-    "name": "SWELLED BY THE WARP",
-    "faction_id": "TS",
-    "faction_name": "Thousand Sons",
-    "legend": "The psyker opens a ragged channel to the roiling energies of the warp and funnels them recklessly into a chosen target. That warrior’s form expands with iron-hard muscle, lashing extra limbs, gnashing fangs and vicious talons that allow them to tear a bloody path through the foe.",
-    "type": "Psychic Powers",
-    "description": "Blessing: Swelled by the Warp has a warp charge value of 6. If manifested, select one friendly THOUSAND SONS model within 12\" of this PSYKER. Until the start of your next Psychic phase, add 2 to that model’s Strength characteristic and 1 to its Attacks characteristic.",
-    "id": "000005891006"
-  },
-  {
-    "roll": "23",
-    "name": "TEMPORAL SURGE",
-    "faction_id": "TS",
-    "faction_name": "Thousand Sons",
-    "legend": "With a wrench of mind, body and soul the psyker tears ropey strands of temporal energy through the veil from beyond and hurls them out to wind about his allies. Those so blessed are sped into battle all the faster as their garland of stolen time burns swiftly away.",
-    "type": "Psychic Powers",
-    "description": "Blessing: Temporal Surge has a warp charge value of 7. If manifested, select one friendly THOUSAND SONS INFANTRY, THOUSAND SONS CAVALRY, or THOUSAND SONS BEASTS unit within 6\" of this PSYKER. That unit can make a Normal Move.",
-    "id": "000005891007"
-  },
-  {
-    "roll": "31",
-    "name": "EMPYRIC GUIDANCE",
-    "faction_id": "TS",
-    "faction_name": "Thousand Sons",
-    "legend": "The psyker conjures a whirling flock of daemonic imps that bear his comrades’ shells and energy blasts across the battlefield on flickering wings of unholy flame.",
-    "type": "Psychic Powers",
-    "description": "Blessing: Empyric Guidance has a warp charge value of 4. If manifested, select one friendly THOUSAND SONS unit within 12\" of this PSYKER. Until the start of your next Psychic phase, add 6\" to the Range characteristic of Rapid Fire and Heavy weapons models in that unit are equipped with.",
-    "id": "000005891008"
-  },
-  {
-    "roll": "32",
-    "name": "PSYCHIC STALK",
-    "faction_id": "TS",
-    "faction_name": "Thousand Sons",
-    "legend": "Astrally projecting a portion of his soul into the warp, the psyker circles the flickering witchfires of his victims’ souls. Should their mental defences drop for even a moment, he strikes with predatory swiftness.",
-    "type": "Psychic Powers",
-    "description": "Witchfire: Psychic Stalk has a warp charge value of 5. If manifested, select one enemy unit that is not a VEHICLE, MONSTER or CHARACTER within 18\" of and visible to this PSYKER. Roll 2D6: if the result is greater than the unmodified Leadership characteristic of that unit, one model in that unit selected by your opponent is slain.",
-    "id": "000005891009"
-  },
-  {
-    "roll": "33",
-    "name": "DESECRATION OF WORLDS",
-    "faction_id": "TS",
-    "faction_name": "Thousand Sons",
-    "legend": "The worlds of the galaxy shall tremble and shatter beneath the dolorous tread of the Heretic Astartes, starting with this one! The psyker pours their rage and contempt into the bedrock of the battlefield, tainting it with their warpcraft even as they shatter it apart.",
-    "type": "Psychic Powers",
-    "description": "Malediction: Desecration of Worlds has a warp charge value of 7. If manifested, select one enemy unit within 24\" of and visible to this PSYKER. Until the start of your next Psychic phase, each time that unit makes a Normal Move, Advances, Falls Back or makes a charge move, roll one D6 for each model in that unit. For each result of 6, that unit suffers 1 mortal wound.",
-    "id": "000005891010"
-  },
-  {
-    "roll": "11",
-    "name": "TZEENTCH’S FIRESTORM",
-    "faction_id": "TS",
-    "faction_name": "Thousand Sons",
-    "legend": "The psyker conjures a raging storm of pink and blue fire down from the skies, that mutates his foes and leaves capering daemons that claw and bite in its wake.",
-    "type": "Psychic Powers",
-    "description": "Witchfire: Tzeentch’s Firestorm has a warp charge value of 6. If manifested, select one enemy unit within 18\" of and visible to this PSYKER and roll nine D6. For each roll of 6, that enemy unit suffers 1 mortal wound. If the result of the Psychic test was an unmodified 9+, that enemy unit suffers 1 mortal wound for each roll of 5+ instead.",
-    "id": "000002655002"
-  },
-  {
-    "roll": "12",
-    "name": "GLAMOUR OF TZEENTCH",
-    "faction_id": "TS",
-    "faction_name": "Thousand Sons",
-    "legend": "The psyker twists and obscures the perceptions of his foes to the point that his allies become all but invisible.",
-    "type": "Psychic Powers",
-    "description": "Blessing: Glamour of Tzeentch has a warp charge value of 6. If manifested, select one friendly THOUSAND SONS unit within 18\" of this PSYKER. Until the start of your next Psychic phase, each time an attack is made against that unit, subtract 1 from that attack’s hit roll.",
-    "id": "000002655003"
-  },
-  {
-    "roll": "13",
-    "name": "DOOMBOLT",
-    "faction_id": "TS",
-    "faction_name": "Thousand Sons",
-    "legend": "The psyker hurls a bolt of roiling energy that horribly twists its target into abhorrent and mutated new shapes.",
-    "type": "Psychic Powers",
-    "description": "Witchfire: Doombolt has a warp charge value of 6. If manifested, the closest enemy unit within 18\" of and visible to this PSYKER suffers 3 mortal wounds.",
-    "id": "000002655004"
-  },
-  {
-    "roll": "21",
-    "name": "TEMPORAL MANIPULATION",
-    "faction_id": "TS",
-    "faction_name": "Thousand Sons",
-    "legend": "Fashioning a pocket of dilated time around an injured ally, the psyker accelerates the rate at which their flesh reknits.",
-    "type": "Psychic Powers",
-    "description": "Blessing: Temporal Manipulation has a warp charge value of 5. If manifested, select one friendly THOUSAND SONS model (excluding VEHICLES) within 12\" of this PSYKER. That model is healed and regains up to D3 lost wounds. Each model can only be healed once per turn.",
-    "id": "000002655005"
-  },
-  {
-    "roll": "22",
-    "name": "WEAVER OF FATES",
-    "faction_id": "TS",
-    "faction_name": "Thousand Sons",
-    "legend": "The skeins of the future are laid bare to the psyker, revealing the fates of battle. Forewarned of imminent danger, his warriors dodge bullets and sword blows with seemingly supernatural reflexes.",
-    "type": "Psychic Powers",
-    "description": "Blessing: Weaver of Fates has a warp charge value of 7. If manifested, select one friendly THOUSAND SONS unit within 18\" of this PSYKER. Until the start of your next Psychic phase, models in that unit have a 4+ invulnerable save.",
-    "id": "000002655006"
-  },
-  {
-    "roll": "23",
-    "name": "BALEFUL DEVOLUTION",
-    "faction_id": "TS",
-    "faction_name": "Thousand Sons",
-    "legend": "Transmogrifying energies erupt from the psyker’s eyes, playing across the enemy’s ranks and reducing their proud warriors to mewling beasts.",
-    "type": "Psychic Powers",
-    "description": "Witchfire: Baleful Devolution has a warp charge value of 8. If manifested, select one enemy unit within 18\" of and visible to this PSYKER that contains 6 or more models. Roll a number of D6 equal to the result of the Psychic test: for each roll of 6, that enemy unit suffers D3 mortal wounds.",
-    "id": "000002655007"
-  },
-  {
-    "roll": "31",
-    "name": "CACODAEMONIC CURSE",
-    "faction_id": "TS",
-    "faction_name": "Thousand Sons",
-    "legend": "With dark invocations, the psyker summons cackling daemon imps to infest the enemy’s weapons.",
-    "type": "Psychic Powers",
-    "description": "Malediction: Cacodaemonic Curse has a warp charge value of 6. If manifested, select one enemy unit within 18\" of this PSYKER. Until the start of your next Psychic phase, subtract 1 from the Strength characteristic of ranged weapons models in that unit are equipped with.",
-    "id": "000002655008"
-  },
-  {
-    "roll": "32",
-    "name": "PYRIC FLUX",
-    "faction_id": "TS",
-    "faction_name": "Thousand Sons",
-    "legend": "The psykers makes themselves into a bounteous font of unholy warpflame.",
-    "type": "Psychic Powers",
-    "description": "Blessing: Pyric Flux has a warp charge value of 5. If manifested, select one friendly ARCANA ASTARTES unit within 12\" of this PSYKER. Until the end of the turn, add 1 to the Strength characteristic of all warpflamers, warpflame pistols and heavy warpflamers (and any Relics that replace one of these weapons) that models in that unit are equipped with.",
-    "id": "000002655009"
-  },
-  {
-    "roll": "33",
-    "name": "PERPLEX",
-    "faction_id": "TS",
-    "faction_name": "Thousand Sons",
-    "legend": "With perspective-warping illusions the psyker obfuscates his enemies’ vision, rendering their targets fluid and indistinct.",
-    "type": "Psychic Powers",
-    "description": "Malediction: Perplex has a warp charge value of 7. If manifested, select one enemy unit within 24\" of this PSYKER. Until the start of your next Psychic phase, each time that unit is selected to shoot, units more than 24\" away cannot be selected as the target of ranged attacks.",
-    "id": "000002655010"
+    "name": "CRUSHING CONTEMPT",
+    "faction_id": "LoV",
+    "faction_name": "Leagues of Votann",
+    "legend": "The glowering stare of the Grinmyr bores into the enemy, its manifest disdain and anger intensifying by the moment until they feel its weight as a physical force. It causes them to stagger and strain simply to keep from collapsing altogether.",
+    "type": "Skeinwrought Discipline",
+    "description": "Malediction: Crushing Contempt has a warp charge value of 6. If manifested, select one enemy unit within 18\" of this PSYKER. Roll 3D6:If the result is greater than or equal to the Leadership characteristic of that enemy unit, until the start of your next psychic phase, that unit cannot perform actions (if that unit is currently performing an action, it immediately fails).If the result is greater than the Leadership characteristic of that enemy unit, until the start of your next psychic phase, each time a model in that unit makes an attack, subtract 1 from that attack’s hit roll.",
+    "id": "000007761007"
   },
   {
     "roll": "1",
-    "name": "Synaptic Barrier",
-    "faction_id": "TYR",
-    "faction_name": "Tyranids",
-    "legend": "The synapse creature creates a physical barrier of synaptic energy, shielding Tyranid beasts from attack.",
-    "type": "Army of Renown: Crusher Stampede",
-    "description": "Blessing: Synaptic Barrier has a warp charge value of 6. If manifested, select one friendly CRUSHER STAMPEDE model within 18\" of this PSYKER. Until the start of your next Psychic phase, that model has a 4+ invulnerable save.",
-    "id": "000006169002"
-  },
-  {
-    "roll": "2",
-    "name": "Aggressive Surge",
-    "faction_id": "TYR",
-    "faction_name": "Tyranids",
-    "legend": "The Hive Mind fills select beasts with ferocious energy that drives them to attack with unbounded aggression.",
-    "type": "Army of Renown: Crusher Stampede",
-    "description": "Blessing: Aggressive Surge has a warp charge value of 6. If manifested, select one friendly CRUSHER STAMPEDE model within 18\" of this PSYKER. Until the start of your next Psychic phase, add D3 to the Attacks characteristic of that model.",
-    "id": "000006169003"
-  },
-  {
-    "roll": "3",
-    "name": "Infused Energies",
-    "faction_id": "TYR",
-    "faction_name": "Tyranids",
-    "legend": "Through synaptic conduits, the Hive Mind imbues creatures of its horde with even greater energy and ferocity",
-    "type": "Army of Renown: Crusher Stampede",
-    "description": "Blessing: Infused Energies has a warp charge value of 6. If manifested, select one friendly CRUSHER STAMPEDE unit (excluding SYNAPSE units) within 18\" of this PSYKER. Until the start of your next Psychic phase, each time a model in that unit makes a melee attack, you can re-roll the hit roll.",
-    "id": "000006169004"
-  },
-  {
-    "roll": "",
-    "name": "UNDERMINE",
-    "faction_id": "GC",
-    "faction_name": "Genestealer Cults",
-    "legend": "Just as the dark depths below serve to shelter the Cult of the Four-armed Emperor, so too can they be psychically opened into an abyss that swallows their enemies whole.",
-    "type": "Broodmind Discipline",
-    "description": "Malediction: Undermine has a warp charge value of 7. If manifested, select one enemy unit (excluding units that can FLY) within 18\" of and visible to this PSYKER. Until the start of your next Psychic phase:Subtract 3\" from the Move characteristic of models in that unit (to a minimum of 0\").Halve Advance rolls made for that unit.Subtract 2 from charge rolls made for that unit.",
-    "id": "000006292002"
-  },
-  {
-    "roll": "",
-    "name": "SYNAPTIC BLAST",
-    "faction_id": "GC",
-    "faction_name": "Genestealer Cults",
-    "legend": "When the forces of the Hivecult fight, their residual psychic energy is palpable to their psykers, who allow its immense power to flow through them before unleashing it upon the enemy in a devastating blast.",
-    "type": "Broodmind Discipline",
-    "description": "Witchfire: Synaptic Blast has a warp charge value of 5. If manifested, roll one D6, adding 2 to the result for each friendly HIVECULT CORE unit within 6\" of this PSYKER:If the result is less than the Movement characteristic of the closest enemy unit within 18\" of and visible to this PSYKER, that enemy unit suffers D3 mortal wounds.If the result is equal to or greater than the Movement characteristic of the closest enemy unit within 18\" of and visible to this PSYKER, that enemy unit suffers 3 mortal wounds.",
-    "id": "000006295002"
-  },
-  {
-    "roll": "",
-    "name": "BROODVOLT SURGE (AURA)",
-    "faction_id": "GC",
-    "faction_name": "Genestealer Cults",
-    "legend": "Syphoning off the merest portion of the Broodmind’s energetic potential, the psyker melds it with the bioelectric fields of nearby faithful and wreathes them in a crackling protective aura.",
-    "type": "Broodmind Discipline",
-    "description": "Blessing: Broodvolt Surge has a warp charge value of 5. If manifested, until the start of your next Psychic phase, while a friendly BLADED COG unit is within 3\" of this PSYKER, each time an attack with a Damage characteristic of 1 is allocated to a model in that unit, add 1 to any armour saving throw made against that attack.",
-    "id": "000006298002"
-  },
-  {
-    "roll": "",
-    "name": "ENTROPIC TOUCH",
-    "faction_id": "GC",
-    "faction_name": "Genestealer Cults",
-    "legend": "This warlords very touch is metallophagic, unleashing microscopic organisms that gnaw away at the enemy’s armour and cause it to corrode and fall apart.",
-    "type": "Broodmind Discipline",
-    "description": "Each time this WARLORD makes a melee attack, an unmodified hit roll of 6 scores 2 additional hits.Improve the Armour Penetration characteristic of melee weapons this WARLORD is equipped with by 1 (excluding Relics).",
-    "id": "000006299002"
-  },
-  {
-    "roll": "",
-    "name": "INESCAPABLE DECAY",
-    "faction_id": "GC",
-    "faction_name": "Genestealer Cults",
-    "legend": "With but a glance and a hand gesture from a Rusted Claw psyker, the target is seized by swift entropy. Iron rusts, copper is stained with verdigris and fluids desiccate. Weakened in such a way, the enemy is then set upon and ripped apart by the psyker’s cultist brethren.",
-    "type": "Broodmind Discipline",
-    "description": "Malediction: Inescapable Decay has a warp charge value of 6. If manifested, select one enemy unit within 18\" of and visible to this PSYKER. Until the start of your next Psychic phase, each time a friendly RUSTED CLAW model makes an attack against that enemy unit, improve the Armour Penetration characteristic of that attack by 1.",
-    "id": "000006301002"
-  },
-  {
-    "roll": "",
-    "name": "LAST GASP",
-    "faction_id": "GC",
-    "faction_name": "Genestealer Cults",
-    "legend": "The psyker sends their powers flowing out to fill the minds of the faithful with visions of ascension and unity. Borne up by fervent rapture, the cultists fight on until - or sometimes even after - the last spark of life has left their bodies.",
-    "type": "Broodmind Discipline",
-    "description": "Blessing: Last Gasp has a warp charge value of 5. If manifested, select one friendly PAUPER PRINCES CORE unit within 18\" of and visible to this PSYKER. Until the start of your next Psychic phase, each time a model in that unit is destroyed by a melee attack, roll one D6: on a 5+, after the attacking model’s unit has finished making its attacks, it suffers 1 mortal wound (a unit can suffer a maximum of 5 mortal wounds per phase as a result of this psychic power).",
-    "id": "000006304002"
-  },
-  {
-    "roll": "",
-    "name": "MUTAGENIC DEVIATION",
-    "faction_id": "GC",
-    "faction_name": "Genestealer Cults",
-    "legend": "The psykers of the Twisted Helix have learned to send trigger impulses through the Broodmind, which awaken rampant mutagenic strains within the bodies of the faithful. Those affected sprout chitinous blades, wicked fangs and lashing tendrils with which to bloodily dismember their foes.",
-    "type": "Broodmind Discipline",
-    "description": "Blessing: Mutagenic Deviation has a warp charge value of 5. If manifested, select one friendly TWISTED HELIX unit within 12\" of and visible to this PSYKER. Until the start of your next Psychic phase, each time a model in that unit makes a melee attack, an unmodified hit roll of 6 automatically wounds the target.",
-    "id": "000006307002"
-  },
-  {
-    "roll": "1",
-    "name": "RITUAL SHACKLE",
-    "faction_id": "INQ",
-    "faction_name": "Inquisition",
-    "legend": "Through the occult imposition of psychic bonds, this psyker weaves a web of sanctified wards around the foe, sapping their spiritual and physical strength.",
+    "name": "TERRIFY",
+    "faction_id": "AoI",
+    "faction_name": "Agents of the Imperium",
+    "legend": "",
     "type": "Telethesia Discipline",
-    "description": "Malediction: Ritual Shackle has a warp charge value of 7. If manifested, select one enemy unit within 18\" of this PSYKER. Until your next Psychic phase:Subtract 1 from Psychic tests made for that enemy unit.Each time a model in that unit makes a melee attack, subtract 1 from that attack’s wound roll.If the result of the Psychic test was 10 or more, you can select one enemy unit within 24\" of this PSYKER, instead of within 18\".",
-    "id": "000006551002"
-  },
-  {
-    "roll": "",
-    "name": "UNSTOPPABLE ONSLAUGHT",
-    "faction_id": "TYR",
-    "faction_name": "Tyranids",
-    "legend": "A surge of mindless aggression flows through Hive Fleet Behemoth driving them forward in a tidal wave of snapping jaws and lashing talons.",
-    "type": "Hive Mind Discipline",
-    "description": "Blessing: Unstoppable Onslaught has a warp charge value of 7. If manifested, select one friendly BEHEMOTH unit within Synaptic Link range of this PSYKER. Until the start of your next turn, each time a model in that unit makes a melee attack, add 1 to that attack’s wound roll.",
-    "id": "000006655002"
-  },
-  {
-    "roll": "",
-    "name": "SYNAPTIC LURE",
-    "faction_id": "TYR",
-    "faction_name": "Tyranids",
-    "legend": "A psychic lure is placed on a threat; the marked prey is doomed.",
-    "type": "Hive Mind Discipline",
-    "description": "Malediction: Synaptic Lure has a warp charge value of 5. If manifested, select one enemy unit within Synaptic Link range of this PSYKER or one enemy unit within 18\" of this PSYKER. Until the start of your next Psychic phase, each time a friendly KRAKEN unit declares a charge, if that enemy unit is one of the targets of that charge, you can re-roll the charge roll.",
-    "id": "000006663002"
-  },
-  {
-    "roll": "",
-    "name": "HIVE NEXUS",
-    "faction_id": "TYR",
-    "faction_name": "Tyranids",
-    "legend": "The Hive Mind funnels Leviathan’s sophisticated synaptic network through its conduits, enforcing its gestalt will among the hive fleet’s lesser organisms.",
-    "type": "Hive Mind Discipline",
-    "description": "Blessing: Hive Nexus has a warp charge value of 7. If manifested, select one friendly LEVIATHAN CORE unit within Synaptic Link range of this PSYKER and select one Synaptic Imperative ability of a friendly LEVIATHAN SYNAPSE model that is also within Synaptic Link range of this PSYKER. Until the start of your next turn, that unit benefits from that SYNAPSE model’s Synaptic Imperative ability as if it was active for your army (in addition to the one that is currently active for your army) and as if they were within 6\" of one another.",
-    "id": "000006665002"
-  },
-  {
-    "roll": "",
-    "name": "POISONOUS INFLUENCE",
-    "faction_id": "TYR",
-    "faction_name": "Tyranids",
-    "legend": "This synapse creature radiates a pulsed imperative that triggers the semi-sentient spores of Gorgons biohorrors, spurring them to secrete venoms laced with a seeping psychic corruption.",
-    "type": "Hive Mind Discipline",
-    "description": "Blessing: Poisonous Influence has a warp charge value of 7. If manifested, select one friendly GORGON unit within Synaptic Link range of this PSYKER. Until the start of your next Psychic phase, each time a model in that unit makes a melee attack, an unmodified wound roll of 6 inflicts 1 mortal wound on the target in addition to any normal damage (to a maximum of 6 mortal wounds).",
-    "id": "000006667002"
-  },
-  {
-    "roll": "",
-    "name": "LURKING MAWS",
-    "faction_id": "TYR",
-    "faction_name": "Tyranids",
-    "legend": "The Hive Mind extends a psychic summons, and calls upon Jormungandr s embedded and waiting broods. Mindlessly converging via synaptic imperative, their sudden and frenzied attacks spell the foe’s end.",
-    "type": "Hive Mind Discipline",
-    "description": "Malediction: Lurking Maws has a warp charge value of 7. If manifested, select one enemy unit within Synaptic Link range of this PSYKER or one enemy unit within 18\" of this PSYKER. Until the start of your next Psychic phase, each time a friendly JORMUNGANDR model makes a melee attack against that enemy unit, improve the Armour Penetration characteristic of that attack by 1.",
-    "id": "000006669002"
-  },
-  {
-    "roll": "",
-    "name": "SYMBIOSTORM",
-    "faction_id": "TYR",
-    "faction_name": "Tyranids",
-    "legend": "The synaptic web sings with psionic targeting information, guiding living projectiles to strike at the prey’s identified weak spots.",
-    "type": "Hive Mind Discipline",
-    "description": "Blessing: Symbiostorm has a warp charge value of 7. If manifested, select one friendly KRONOS unit within Synaptic Link range of this PSYKER. Until the start of your next Psychic phase, each time a model in that unit makes a ranged attack, add 1 to the Strength characteristic of that attack.",
-    "id": "000006671002"
-  },
-  {
-    "roll": "",
-    "name": "PSYCHIC SHRIEK",
-    "faction_id": "TYR",
-    "faction_name": "Tyranids",
-    "legend": "Driven by synaptic imperative, acting as psychic conduits for the Hive Minds power, the warrior organisms of Hive Fleet Hydra open their maws as one and emit a mind-shredding shriek.",
-    "type": "Hive Mind Discipline",
-    "description": "Witchfire: Psychic Shriek has a warp charge value of 6. If manifested, select one enemy unit within Synaptic Link range of this PSYKER or one enemy unit within 18\" of this PSYKER. Roll one D6 for each friendly HYDRA INFANTRY and HYDRA BEAST model within 3\" of that unit and three D6s for each friendly HYDRA MONSTER model within 3\" of that unit: for each 5+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds).",
-    "id": "000006673002"
-  },
-  {
-    "roll": "1",
-    "name": "GAZE OF YNNEAD",
-    "faction_id": "AE",
-    "faction_name": "Aeldari",
-    "legend": "The psykers eyes blaze with fire as they channel the power of Ynnead, the Whispering God.",
-    "type": "Psychic Disciplines",
-    "description": "Witchfire: Gaze of Ynnead has a warp charge value of 6. If manifested, select one enemy unit within 18\" of this PSYKER and roll one D6, subtracting 2 from the result if that unit had a Starting Strength of 1. On a 1 or less, that unit suffers 1 mortal wound. On a 2-5, that unit suffers D3 mortal wounds. On a 6, that unit suffers D6 mortal wounds.",
-    "id": "000006718002"
+    "description": "Malediction: Terrify has a warp charge value of 6. If manifested, select one enemy unit within 18\" of and visible to this PSYKER. Until the start of your next Psychic phase:Subtract 1 from the Leadership characteristic of models in that unit.That unit cannot fire Overwatch.",
+    "id": "000008055002"
   },
   {
     "roll": "2",
-    "name": "STORM OF WHISPERS",
-    "faction_id": "AE",
-    "faction_name": "Aeldari",
-    "legend": "The psykers voice joins with those of the dead to drive the foe utterly insane.",
-    "type": "Psychic Disciplines",
-    "description": "Witchfire: Storm of Whispers has a warp charge value of 6. If manifested, roll three D6 for each enemy unit within 9\" of this PSYKER. For each 4+, the enemy unit being rolled for suffers 1 mortal wound.",
-    "id": "000006718003"
+    "name": "PSYCHIC FORTITUDE",
+    "faction_id": "AoI",
+    "faction_name": "Agents of the Imperium",
+    "legend": "",
+    "type": "Telethesia Discipline",
+    "description": "Blessing: Psychic Fortitude has a warp charge value of 4. If manifested, select one friendly IMPERIUM unit within 12\" of this PSYKER. Until the start of your next Psychic phase, when a Morale test is taken for that unit, do not roll the dice; it is automatically passed.",
+    "id": "000008055003"
   },
   {
     "roll": "3",
-    "name": "WORD OF THE PHOENIX",
-    "faction_id": "AE",
-    "faction_name": "Aeldari",
-    "legend": "The psyker calls upon the revenant energies of the mythical phoenix to restore the life force of fallen warriors.",
-    "type": "Psychic Disciplines",
-    "description": "Blessing: Word of the Phoenix has a warp charge value of 6. If manifested, select one friendly YNNARI INFANTRY unit (excluding WRAITH CONSTRUCT units) within 6\" of this PSYKER. One of that unit’s destroyed models (or D3 of its destroyed models if that unit has the Troops Battlefield Role) can be added back to that unit with full wounds remaining. These models can only be set up within Engagement Range of enemy units that are already within Engagement Range of the unit they are being added back to.",
-    "id": "000006718004"
+    "name": "DOMINATE",
+    "faction_id": "AoI",
+    "faction_name": "Agents of the Imperium",
+    "legend": "",
+    "type": "Telethesia Discipline",
+    "description": "Malediction: Dominate has a warp charge value of 6. If manifested, select one enemy model (excluding VEHICLE models) within 12\" of this PSYKER and roll 3D6. If the total is equal to or greater than that enemy model’s Leadership characteristic, that enemy model can immediately shoot with one weapon it is equipped with as if it were your Shooting phase, or make one attack as if it were the Fight phase. In either case, treat that enemy model as if it is a separate unit that is part of your army while shooting or making that melee attack.",
+    "id": "000008055004"
   },
   {
     "roll": "4",
-    "name": "UNBIND SOULS",
-    "faction_id": "AE",
-    "faction_name": "Aeldari",
-    "legend": "The psyker reaches out with their mind to weaken the bond between soul and body, debilitating the enemy.",
-    "type": "Psychic Disciplines",
-    "description": "Malediction: Unbind Souls has a warp charge value of 6. If manifested, select one enemy unit within 18\" of this PSYKER. Each time a YNNARI model from your army makes a melee attack that targets that enemy unit, an unmodified hit roll of 6 automatically wounds the target.",
-    "id": "000006718005"
+    "name": "MENTAL INTERROGATION",
+    "faction_id": "AoI",
+    "faction_name": "Agents of the Imperium",
+    "legend": "",
+    "type": "Telethesia Discipline",
+    "description": "Malediction: Mental Interrogation has a warp charge value of 6. If manifested, select one enemy CHARACTER model within 12\" of and visible to this PSYKER.Until the start of your next Psychic phase, when resolving an attack made by that enemy model, subtract 1 from the hit roll.If your army is Battle-forged roll, 3D6: if the result is equal to or greater than that enemy model’s Leadership characteristic, you gain 1 Command point.",
+    "id": "000008055005"
   },
   {
     "roll": "5",
-    "name": "SHIELD OF YNNEAD",
-    "faction_id": "AE",
-    "faction_name": "Aeldari",
-    "legend": "The psyker manifests a shield of spiritual energy around their allies, sheltering the devotees of Ynnead.",
-    "type": "Psychic Disciplines",
-    "description": "Blessing: Shield of Ynnead has a warp charge value of 6. If manifested, select one friendly YNNARI unit (excluding TITANIC units) within 12\" of this PSYKER. Until the start of your next Psychic phase, models in that unit have a 4+ invulnerable save.",
-    "id": "000006718006"
+    "name": "PSYCHIC PURSUIT",
+    "faction_id": "AoI",
+    "faction_name": "Agents of the Imperium",
+    "legend": "",
+    "type": "Telethesia Discipline",
+    "description": "Blessing: Psychic Pursuit has a warp charge value of 7. If manifested, select one enemy CHARACTER unit that only contains models with a Wounds characteristic of 9 or less and is within 18\" of and visible to this PSYKER. Then, select one friendly &lt;ORDO&gt; INFANTRY unit within 6\" of this PSYKER. Until the end of your next Shooting phase, each time you select a target for a ranged weapon a model in that friendly &lt;ORDO&gt; INFANTRY unit is making an attack with, you can ignore the Look Out, Sir rule if you select that enemy CHARACTER unit as the target.",
+    "id": "000008055006"
   },
   {
     "roll": "6",
-    "name": "ANCESTORS’ GRACE",
-    "faction_id": "AE",
-    "faction_name": "Aeldari",
-    "legend": "Drawing upon the greatness that is the genetic legacy of all Aeldari, the psyker bolsters their fellows.",
-    "type": "Psychic Disciplines",
-    "description": "Blessing: Ancestors’ Grace has a warp charge value of 7. If manifested, select one friendly YNNARI unit within 18\" of this PSYKER. Until the start of your next Psychic phase, each time a model in that unit makes a melee attack, add 1 to that attack’s wound roll.",
-    "id": "000006718007"
-  },
-  {
-    "roll": "1",
-    "name": "WINDS OF THE WARP",
-    "faction_id": "QT",
-    "faction_name": "Chaos Knights",
-    "legend": "A localised tempest of empyric energy roars into being around the Knight and its bondsmen, striking enemy projectiles from the air in flashes of empyric lightning and sealing damaged hulls with its mutating touch.",
-    "type": "Warp Storm Discipline",
-    "description": "Blessing (Aura): Winds of the Warp has a warp charge value of 6. If manifested, until the start of your next Psychic phase:Each time this PSYKER loses a wound, roll one D6: on a 5+, that wound is not lost.If the result of the Psychic test was 8 or more, while a friendly &lt;DREAD HOUSEHOLD&gt; WAR DOG-CLASS model is within 6\" of this PSYKER, each time that model loses a wound, roll one D6: on a 6, that wound is not lost.",
-    "id": "000007239002"
-  },
-  {
-    "roll": "2",
-    "name": "VORTEX TERRORS",
-    "faction_id": "QT",
-    "faction_name": "Chaos Knights",
-    "legend": "Down from the tortured skies rushes a howling empyric gale thick with tortured souls and screeching avian gheists. They whirl about the foe in an ephemeral storm that sows terror and confusion amongst the enemy ranks.",
-    "type": "Warp Storm Discipline",
-    "description": "Malediction: Vortex Terrors has a warp charge value of 5. If manifested, select one enemy unit within 18\" of this PSYKER. Until the start of your next Psychic phase:Subtract 1 from the Leadership characteristic of models in that unit.Each time that unit is selected to shoot or fight, it must first take a Dread test. If that test is failed, then until the end of the current phase, reduce the Weapon Skill and Ballistic Skill characteristics of models in that enemy unit by 1.",
-    "id": "000007239003"
-  },
-  {
-    "roll": "3",
-    "name": "THE STORM MALEVOLENT",
-    "faction_id": "QT",
-    "faction_name": "Chaos Knights",
-    "legend": "Drawn forth by words of dark power, a storm from the depths of the warp surges up against the skin of reality. Its lashing tendrils tear the veil until corrupting energies spill through to taint all they touch. Trapped amidst this maelstrom of cursed unreality, the enemy are left horribly exposed to attack, and may even be driven back through the pulsating warp rent to suffer a horrible fate.",
-    "type": "Warp Storm Discipline",
-    "description": "Malediction: The Storm Malevolent has a warp charge value of 7. If manifested, select one enemy unit within 18\" of this PSYKER Until the start of your next Psychic phase, each time a friendly CHAOS KNIGHTS model makes a melee attack against that unit:Add 1 to that attack’s wound roll.On an unmodified wound roll of 6, the target suffers 1 mortal wound in addition to the normal damage.A maximum of 3 mortal wounds can be inflicted on each enemy unit per phase as the result of this psychic power.",
-    "id": "000007239004"
-  },
-  {
-    "roll": "4",
-    "name": "CYCLONIC LAMENTATION",
-    "faction_id": "QT",
-    "faction_name": "Chaos Knights",
-    "legend": "Spectral winds sing through the rents and channels in the Chaos Knights armour, their fury building as they meld with the rising shriek of its infernal plasma reactor. In an instant, the nightmare cacophony melds into a single tormented note that rolls outward like a shock wave, shredding the souls of all who hear it.",
-    "type": "Warp Storm Discipline",
-    "description": "Witchfire: Cyclonic Lamentation has a warp charge value of 6. If manifested, every enemy unit within 12\" of this PSYKER must take a Dread test. Each unit that fails this test suffers 1 mortal wound (if the result of the Psychic test was 11+, each unit that fails their subsequent Dread test instead suffers D3 mortal wounds).",
-    "id": "000007239005"
-  },
-  {
-    "roll": "5",
-    "name": "CORUSCATING HATE",
-    "faction_id": "QT",
-    "faction_name": "Chaos Knights",
-    "legend": "So potent is the caster’s loathing of the foe that it manifests as roiling thunderheads amidst the darkened skies above. One after another, shrieking bolts of heliotropic lightning stab down from on high to explode amidst the enemy. Those struck are twisted by the raw power of the warp, their bodies erupting into grotesque mutations or burning with unholy soulfires until they are naught but ashes.",
-    "type": "Warp Storm Discipline",
-    "description": "Witchfire: Coruscating Hate has a warp charge value of 6. If manifested, the closest enemy unit within 18\" of and visible to this PSYKER suffers D3 mortal wounds. Then roll one D6: on a 2-3, the closest other enemy unit within 6\" of and visible to that enemy unit suffers 1 mortal wound; on a 4+, it suffers D3 mortal wounds.",
-    "id": "000007239006"
-  },
-  {
-    "roll": "6",
-    "name": "SPITESQUALL",
-    "faction_id": "QT",
-    "faction_name": "Chaos Knights",
-    "legend": "Viscous black rain is driven into the enemy upon howling and hateful winds. Bad enough that this bitter precipitation is freezing cold and blinding as it hisses viciously from armour and flesh, but as it drenches its victims’ bodies so too does it numb them and, eventually, drowns their souls.",
-    "type": "Warp Storm Discipline",
-    "description": "Malediction: Spitesquall has a warp charge value of 6. If manifested, select one enemy unit within 18\" of this PSYKER Until the start of your next Psychic phase:That unit cannot fire Overwatch or Set to Defend.Keep a Spitesquall tally for that unit, adding 1 to the tally each time a model in that unit is destroyed. At the end of each phase, if that unit is still on the battlefield, roll one D6 for each mark on its Spitesquall tally: for each roll of 5+, that unit suffers 1 mortal wound. The unit’s Spitesquall tally is reset to 0 at the end of each phase.",
-    "id": "000007239007"
+    "name": "CASTIGATION",
+    "faction_id": "AoI",
+    "faction_name": "Agents of the Imperium",
+    "legend": "",
+    "type": "Telethesia Discipline",
+    "description": "Witchfire: Castigation has a warp charge value of 6. If manifested, select one enemy unit within 18\" of and visible to this PSYKER and roll 3D6: if the total exceeds the lowest Leadership characteristic in that enemy unit, that enemy unit suffers D3 mortal wounds.",
+    "id": "000008055007"
   }
 ]

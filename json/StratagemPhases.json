@@ -13,11 +13,11 @@
   },
   {
     "stratagem_id": "000006989004",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000006989004",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000006988004",
@@ -89,11 +89,11 @@
   },
   {
     "stratagem_id": "000004380004",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000004380004",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000004381002",
@@ -300,6 +300,18 @@
     "phase": "Before battle"
   },
   {
+    "stratagem_id": "000008013002",
+    "phase": "Before battle"
+  },
+  {
+    "stratagem_id": "000008013003",
+    "phase": "Before battle"
+  },
+  {
+    "stratagem_id": "000008013004",
+    "phase": "Before battle"
+  },
+  {
     "stratagem_id": "000007114002",
     "phase": "Command phase"
   },
@@ -362,6 +374,14 @@
   {
     "stratagem_id": "000004382004",
     "phase": "Enemy Shooting phase"
+  },
+  {
+    "stratagem_id": "000004382004",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000004382004",
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000004383005",
@@ -557,11 +577,11 @@
   },
   {
     "stratagem_id": "000007038006",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000007038006",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000007038007",
@@ -656,22 +676,6 @@
     "phase": "At the start of your turn"
   },
   {
-    "stratagem_id": "000002138002",
-    "phase": "During deployment"
-  },
-  {
-    "stratagem_id": "000002138003",
-    "phase": "During deployment"
-  },
-  {
-    "stratagem_id": "000002138004",
-    "phase": "During deployment"
-  },
-  {
-    "stratagem_id": "000002138005",
-    "phase": "Shooting phase"
-  },
-  {
     "stratagem_id": "000002142002",
     "phase": "Being targeted"
   },
@@ -753,11 +757,11 @@
   },
   {
     "stratagem_id": "000002576003",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002576003",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002576004",
@@ -773,11 +777,11 @@
   },
   {
     "stratagem_id": "000002576006",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002576006",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002576007",
@@ -797,11 +801,11 @@
   },
   {
     "stratagem_id": "000002576010",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002576010",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002576011",
@@ -889,15 +893,15 @@
   },
   {
     "stratagem_id": "000002576031",
-    "phase": "Enemy Shooting phase"
-  },
-  {
-    "stratagem_id": "000002576032",
-    "phase": "Enemy Charge phase"
+    "phase": "Being targeted"
   },
   {
     "stratagem_id": "000002576032",
     "phase": "Enemy Movement phase"
+  },
+  {
+    "stratagem_id": "000002576032",
+    "phase": "Enemy Charge phase"
   },
   {
     "stratagem_id": "000002576033",
@@ -908,27 +912,27 @@
     "phase": "Shooting phase"
   },
   {
-    "stratagem_id": "000006192002",
+    "stratagem_id": "000004265002",
     "phase": "Enemy Shooting phase"
   },
   {
-    "stratagem_id": "000006190002",
+    "stratagem_id": "000004266002",
     "phase": "Movement phase"
   },
   {
-    "stratagem_id": "000006196002",
+    "stratagem_id": "000004268002",
     "phase": "At the start of battle round"
   },
   {
-    "stratagem_id": "000006186002",
+    "stratagem_id": "000006187002",
     "phase": "Command phase"
   },
   {
-    "stratagem_id": "000006188002",
+    "stratagem_id": "000004259002",
     "phase": "Being targeted"
   },
   {
-    "stratagem_id": "000006194002",
+    "stratagem_id": "000004267002",
     "phase": "Enemy taking casualties"
   },
   {
@@ -981,11 +985,11 @@
   },
   {
     "stratagem_id": "000002343010",
-    "phase": "Movement phase"
+    "phase": "Command phase"
   },
   {
     "stratagem_id": "000002343010",
-    "phase": "Command phase"
+    "phase": "Movement phase"
   },
   {
     "stratagem_id": "000002343011",
@@ -1041,11 +1045,11 @@
   },
   {
     "stratagem_id": "000002343024",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002343024",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002343025",
@@ -1077,7 +1081,7 @@
   },
   {
     "stratagem_id": "000002343031",
-    "phase": "Enemy Shooting phase"
+    "phase": "Being targeted"
   },
   {
     "stratagem_id": "000002343032",
@@ -1217,11 +1221,11 @@
   },
   {
     "stratagem_id": "000002440002",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002440002",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002440003",
@@ -1329,11 +1333,11 @@
   },
   {
     "stratagem_id": "000002440026",
-    "phase": "Enemy Charge phase"
+    "phase": "Enemy Movement phase"
   },
   {
     "stratagem_id": "000002440026",
-    "phase": "Enemy Movement phase"
+    "phase": "Enemy Charge phase"
   },
   {
     "stratagem_id": "000002440027",
@@ -1353,11 +1357,11 @@
   },
   {
     "stratagem_id": "000002440031",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002440031",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000006825002",
@@ -1365,11 +1369,11 @@
   },
   {
     "stratagem_id": "000007212002",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000007212002",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000007212003",
@@ -1381,19 +1385,19 @@
   },
   {
     "stratagem_id": "000007212005",
-    "phase": "Taking casualties"
-  },
-  {
-    "stratagem_id": "000007212005",
     "phase": "Enemy Psychic phase"
   },
   {
-    "stratagem_id": "000006826002",
-    "phase": "Shooting phase"
+    "stratagem_id": "000007212005",
+    "phase": "Taking casualties"
   },
   {
     "stratagem_id": "000006826002",
     "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000006826002",
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000006826002",
@@ -1425,11 +1429,11 @@
   },
   {
     "stratagem_id": "000006877007",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000006877007",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000006877008",
@@ -1453,11 +1457,11 @@
   },
   {
     "stratagem_id": "000006877012",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000006877012",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000006877013",
@@ -1469,11 +1473,11 @@
   },
   {
     "stratagem_id": "000006877015",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000006877015",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000006877016",
@@ -1493,15 +1497,15 @@
   },
   {
     "stratagem_id": "000006828002",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000006828002",
     "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000006828002",
     "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000006828002",
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000006830002",
@@ -1509,11 +1513,11 @@
   },
   {
     "stratagem_id": "000006822002",
-    "phase": "Shooting phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000006822002",
-    "phase": "Enemy Fight phase"
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000006822002",
@@ -1569,6 +1573,10 @@
   },
   {
     "stratagem_id": "000006884002",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000006884002",
     "phase": "Shooting phase"
   },
   {
@@ -1576,52 +1584,24 @@
     "phase": "Fight phase"
   },
   {
-    "stratagem_id": "000006884002",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000004083013",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000004083014",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000004083011",
-    "phase": "Enemy Charge phase"
-  },
-  {
-    "stratagem_id": "000004083012",
-    "phase": "Being targeted"
-  },
-  {
-    "stratagem_id": "000004083010",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000004083015",
-    "phase": "Movement phase"
-  },
-  {
-    "stratagem_id": "000002413025",
-    "phase": "Shooting phase"
-  },
-  {
     "stratagem_id": "000002413002",
     "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000002413003",
-    "phase": "Taking casualties"
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000002413003",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000002413003",
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000002413004",
-    "phase": "Charge phase"
-  },
-  {
-    "stratagem_id": "000002413005",
-    "phase": "Enemy Shooting phase"
+    "phase": "Being targeted"
   },
   {
     "stratagem_id": "000002413005",
@@ -1629,67 +1609,127 @@
   },
   {
     "stratagem_id": "000002413006",
-    "phase": "At the start of your turn"
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000002413007",
-    "phase": "Movement phase"
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000002413008",
-    "phase": "Before battle"
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000002413009",
-    "phase": "At the start of battle round"
+    "phase": "Being targeted"
   },
   {
     "stratagem_id": "000002413010",
-    "phase": "At the start of your turn"
+    "phase": "Command phase"
   },
   {
     "stratagem_id": "000002413011",
-    "phase": "During deployment"
+    "phase": "Taking casualties"
   },
   {
     "stratagem_id": "000002413012",
-    "phase": "Shooting phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002413012",
     "phase": "Enemy Shooting phase"
+  },
+  {
+    "stratagem_id": "000002413012",
+    "phase": "Taking casualties"
   },
   {
     "stratagem_id": "000002413013",
-    "phase": "Enemy Charge phase"
+    "phase": "Command phase"
   },
   {
     "stratagem_id": "000002413014",
-    "phase": "Enemy Shooting phase"
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000002413014",
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002413015",
-    "phase": "Enemy Charge phase"
-  },
-  {
-    "stratagem_id": "000002413015",
-    "phase": "Shooting phase"
+    "phase": "Taking casualties"
   },
   {
     "stratagem_id": "000002413016",
-    "phase": "Morale phase"
+    "phase": "Before battle"
   },
   {
     "stratagem_id": "000002413017",
-    "phase": "Shooting phase"
+    "phase": "Before battle"
   },
   {
     "stratagem_id": "000002413018",
+    "phase": "Before battle"
+  },
+  {
+    "stratagem_id": "000002413019",
+    "phase": "Enemy Movement phase"
+  },
+  {
+    "stratagem_id": "000002413020",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000002413021",
+    "phase": "Charge phase"
+  },
+  {
+    "stratagem_id": "000002413022",
+    "phase": "Command phase"
+  },
+  {
+    "stratagem_id": "000002413023",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000002413024",
     "phase": "Enemy Charge phase"
   },
   {
-    "stratagem_id": "000002413018",
+    "stratagem_id": "000002413025",
+    "phase": "Movement phase"
+  },
+  {
+    "stratagem_id": "000002413026",
+    "phase": "Enemy Movement phase"
+  },
+  {
+    "stratagem_id": "000002413027",
+    "phase": "Being targeted"
+  },
+  {
+    "stratagem_id": "000002413028",
     "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000002413029",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000002413030",
+    "phase": "Being targeted"
+  },
+  {
+    "stratagem_id": "000002413031",
+    "phase": "Being targeted"
+  },
+  {
+    "stratagem_id": "000002413032",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000002413032",
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003215002",
@@ -1736,146 +1776,6 @@
     "phase": "Enemy Charge phase"
   },
   {
-    "stratagem_id": "000004050002",
-    "phase": "Before battle"
-  },
-  {
-    "stratagem_id": "000004066002",
-    "phase": "At the start of your turn"
-  },
-  {
-    "stratagem_id": "000004066003",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000004066004",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000004066005",
-    "phase": "Charge phase"
-  },
-  {
-    "stratagem_id": "000004066006",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000004066007",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000004066008",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000004066009",
-    "phase": "Being targeted"
-  },
-  {
-    "stratagem_id": "000004066009",
-    "phase": "Enemy Shooting phase"
-  },
-  {
-    "stratagem_id": "000004066010",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000004066011",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000004066012",
-    "phase": "Charge phase"
-  },
-  {
-    "stratagem_id": "000004066013",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000004066014",
-    "phase": "Being targeted"
-  },
-  {
-    "stratagem_id": "000004066015",
-    "phase": "Psychic phase"
-  },
-  {
-    "stratagem_id": "000006009002",
-    "phase": "Any phase"
-  },
-  {
-    "stratagem_id": "000006009003",
-    "phase": "Movement phase"
-  },
-  {
-    "stratagem_id": "000006009004",
-    "phase": "Taking casualties"
-  },
-  {
-    "stratagem_id": "000006009005",
-    "phase": "Before battle"
-  },
-  {
-    "stratagem_id": "000006009006",
-    "phase": "Before battle"
-  },
-  {
-    "stratagem_id": "000006009007",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000006009008",
-    "phase": "Movement phase"
-  },
-  {
-    "stratagem_id": "000002413020",
-    "phase": "Enemy taking casualties"
-  },
-  {
-    "stratagem_id": "000002413026",
-    "phase": "Enemy Charge phase"
-  },
-  {
-    "stratagem_id": "000002413023",
-    "phase": "Enemy Movement phase"
-  },
-  {
-    "stratagem_id": "000004083002",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000004083003",
-    "phase": "Morale phase"
-  },
-  {
-    "stratagem_id": "000004083004",
-    "phase": "Movement phase"
-  },
-  {
-    "stratagem_id": "000004083005",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000004083006",
-    "phase": "Before battle"
-  },
-  {
-    "stratagem_id": "000004083007",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000004083008",
-    "phase": "Before battle"
-  },
-  {
-    "stratagem_id": "000004083009",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000002413019",
-    "phase": "Shooting phase"
-  },
-  {
     "stratagem_id": "000003214002",
     "phase": "Before battle"
   },
@@ -1894,18 +1794,6 @@
   {
     "stratagem_id": "000003226002",
     "phase": "Before battle"
-  },
-  {
-    "stratagem_id": "000002413024",
-    "phase": "During deployment"
-  },
-  {
-    "stratagem_id": "000002413021",
-    "phase": "Movement phase"
-  },
-  {
-    "stratagem_id": "000002413022",
-    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000003076002",
@@ -1937,7 +1825,7 @@
   },
   {
     "stratagem_id": "000003076006",
-    "phase": "Shooting phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003076006",
@@ -1945,11 +1833,15 @@
   },
   {
     "stratagem_id": "000003076006",
-    "phase": "Enemy Fight phase"
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000003076007",
     "phase": "Taking casualties"
+  },
+  {
+    "stratagem_id": "000003076008",
+    "phase": "Movement phase"
   },
   {
     "stratagem_id": "000003076008",
@@ -1972,10 +1864,6 @@
     "phase": "Psychic phase"
   },
   {
-    "stratagem_id": "000003076008",
-    "phase": "Movement phase"
-  },
-  {
     "stratagem_id": "000003076009",
     "phase": "Taking casualties"
   },
@@ -1989,10 +1877,6 @@
   },
   {
     "stratagem_id": "000003076012",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000003076012",
     "phase": "Enemy Charge phase"
   },
   {
@@ -2000,12 +1884,16 @@
     "phase": "Shooting phase"
   },
   {
-    "stratagem_id": "000003076013",
+    "stratagem_id": "000003076012",
     "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003076013",
     "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000003076013",
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003076014",
@@ -2037,11 +1925,11 @@
   },
   {
     "stratagem_id": "000003076021",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003076021",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003076022",
@@ -2061,23 +1949,23 @@
   },
   {
     "stratagem_id": "000003076025",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000003076025",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000003076025",
     "phase": "Shooting phase"
   },
   {
-    "stratagem_id": "000003076025",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000003076025",
+    "stratagem_id": "000003076026",
     "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003076026",
     "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000003076026",
-    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003076027",
@@ -2093,7 +1981,7 @@
   },
   {
     "stratagem_id": "000003076030",
-    "phase": "Enemy Shooting phase"
+    "phase": "Being targeted"
   },
   {
     "stratagem_id": "000003076031",
@@ -2101,11 +1989,11 @@
   },
   {
     "stratagem_id": "000003076032",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003076032",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003076033",
@@ -2161,11 +2049,11 @@
   },
   {
     "stratagem_id": "000003062002",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003062002",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000006926002",
@@ -2201,11 +2089,11 @@
   },
   {
     "stratagem_id": "000006926009",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000006926009",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003060002",
@@ -2217,75 +2105,15 @@
   },
   {
     "stratagem_id": "000003058002",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000003058002",
     "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003058002",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000003058002",
     "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000006070002",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000006070002",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000006070002",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000006070003",
-    "phase": "Before battle"
-  },
-  {
-    "stratagem_id": "000006070004",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000006070005",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000006070006",
-    "phase": "During deployment"
-  },
-  {
-    "stratagem_id": "000006070007",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000002630002",
-    "phase": "During deployment"
-  },
-  {
-    "stratagem_id": "000002630003",
-    "phase": "Taking casualties"
-  },
-  {
-    "stratagem_id": "000002630004",
-    "phase": "Movement phase"
-  },
-  {
-    "stratagem_id": "000002630005",
-    "phase": "Before battle"
-  },
-  {
-    "stratagem_id": "000002630006",
-    "phase": "Movement phase"
-  },
-  {
-    "stratagem_id": "000002630007",
-    "phase": "Enemy Psychic phase"
-  },
-  {
-    "stratagem_id": "000002630008",
-    "phase": "Any phase"
   },
   {
     "stratagem_id": "000003288002",
@@ -2301,11 +2129,11 @@
   },
   {
     "stratagem_id": "000005691003",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000005691003",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000005691007",
@@ -2313,11 +2141,11 @@
   },
   {
     "stratagem_id": "000005691004",
-    "phase": "Charge phase"
+    "phase": "Movement phase"
   },
   {
     "stratagem_id": "000005691004",
-    "phase": "Movement phase"
+    "phase": "Charge phase"
   },
   {
     "stratagem_id": "000005691005",
@@ -2328,232 +2156,196 @@
     "phase": "Morale phase"
   },
   {
-    "stratagem_id": "000002630009",
+    "stratagem_id": "000007583002",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007583002",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007583003",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007583003",
+    "phase": "Enemy taking casualties"
+  },
+  {
+    "stratagem_id": "000007583003",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007583004",
     "phase": "Before battle"
   },
   {
-    "stratagem_id": "000002630010",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000002630010",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000002630011",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000002630011",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000004253010",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000004253010",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000004253011",
-    "phase": "Charge phase"
-  },
-  {
-    "stratagem_id": "000004253012",
-    "phase": "Charge phase"
-  },
-  {
-    "stratagem_id": "000004253013",
-    "phase": "Being targeted"
-  },
-  {
-    "stratagem_id": "000004255002",
-    "phase": "Before battle"
-  },
-  {
-    "stratagem_id": "000002630012",
-    "phase": "Movement phase"
-  },
-  {
-    "stratagem_id": "000002630013",
-    "phase": "Before battle"
-  },
-  {
-    "stratagem_id": "000002630014",
-    "phase": "Any phase"
-  },
-  {
-    "stratagem_id": "000004253006",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000004253006",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000004253007",
-    "phase": "Taking casualties"
-  },
-  {
-    "stratagem_id": "000004253008",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000004253008",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000004253009",
-    "phase": "Movement phase"
-  },
-  {
-    "stratagem_id": "000004253009",
-    "phase": "Psychic phase"
-  },
-  {
-    "stratagem_id": "000004253009",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000004253009",
-    "phase": "Charge phase"
-  },
-  {
-    "stratagem_id": "000004253009",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000004253009",
-    "phase": "Enemy Movement phase"
-  },
-  {
-    "stratagem_id": "000004253009",
+    "stratagem_id": "000007583005",
     "phase": "Enemy Psychic phase"
   },
   {
-    "stratagem_id": "000004253009",
-    "phase": "Enemy Fight phase"
+    "stratagem_id": "000007583006",
+    "phase": "Charge phase"
   },
   {
-    "stratagem_id": "000004253009",
-    "phase": "Enemy Shooting phase"
+    "stratagem_id": "000007583007",
+    "phase": "Charge phase"
   },
   {
-    "stratagem_id": "000004253009",
-    "phase": "Enemy Charge phase"
-  },
-  {
-    "stratagem_id": "000004257002",
-    "phase": "Before battle"
-  },
-  {
-    "stratagem_id": "000002630018",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000002630018",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000002630019",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000002630019",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000002630020",
-    "phase": "Before battle"
-  },
-  {
-    "stratagem_id": "000004253002",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000004253002",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000004253003",
+    "stratagem_id": "000007636002",
     "phase": "Being targeted"
   },
   {
-    "stratagem_id": "000004253004",
-    "phase": "Morale phase"
+    "stratagem_id": "000007636003",
+    "phase": "Shooting phase"
   },
   {
-    "stratagem_id": "000004253005",
+    "stratagem_id": "000007636004",
+    "phase": "Psychic phase"
+  },
+  {
+    "stratagem_id": "000007636005",
+    "phase": "Before battle"
+  },
+  {
+    "stratagem_id": "000007636006",
+    "phase": "Enemy Movement phase"
+  },
+  {
+    "stratagem_id": "000007636007",
     "phase": "Fight phase"
   },
   {
-    "stratagem_id": "000004253005",
+    "stratagem_id": "000007636007",
     "phase": "Enemy Fight phase"
   },
   {
-    "stratagem_id": "000004258002",
+    "stratagem_id": "000007636007",
+    "phase": "Enemy Shooting phase"
+  },
+  {
+    "stratagem_id": "000007636008",
+    "phase": "Charge phase"
+  },
+  {
+    "stratagem_id": "000007636009",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007636009",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007657002",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007657002",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007657003",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007657003",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007657004",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007657004",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007657005",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007657005",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007657006",
     "phase": "Before battle"
+  },
+  {
+    "stratagem_id": "000007657007",
+    "phase": "Enemy Psychic phase"
+  },
+  {
+    "stratagem_id": "000007657008",
+    "phase": "Command phase"
+  },
+  {
+    "stratagem_id": "000007657009",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007657009",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007606002",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000007606003",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000007606004",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007606004",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007606005",
+    "phase": "Psychic phase"
+  },
+  {
+    "stratagem_id": "000007606006",
+    "phase": "Before battle"
+  },
+  {
+    "stratagem_id": "000007606007",
+    "phase": "Movement phase"
+  },
+  {
+    "stratagem_id": "000007606008",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007606008",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007606009",
+    "phase": "Psychic phase"
   },
   {
     "stratagem_id": "000003287002",
     "phase": "Before battle"
   },
   {
-    "stratagem_id": "000002630015",
-    "phase": "Before battle"
-  },
-  {
-    "stratagem_id": "000002630016",
-    "phase": "Psychic phase"
-  },
-  {
-    "stratagem_id": "000002630017",
-    "phase": "Psychic phase"
-  },
-  {
-    "stratagem_id": "000004253014",
-    "phase": "Psychic phase"
-  },
-  {
-    "stratagem_id": "000004253015",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000004253015",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000004253016",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000004253017",
-    "phase": "Movement phase"
-  },
-  {
-    "stratagem_id": "000004256002",
-    "phase": "Before battle"
-  },
-  {
-    "stratagem_id": "000003828009",
-    "phase": "Before battle"
-  },
-  {
     "stratagem_id": "000003828002",
-    "phase": "During deployment"
-  },
-  {
-    "stratagem_id": "000003828003",
     "phase": "Enemy Shooting phase"
   },
   {
+    "stratagem_id": "000003828003",
+    "phase": "Enemy Movement phase"
+  },
+  {
     "stratagem_id": "000003828004",
-    "phase": "Enemy taking casualties"
+    "phase": "Movement phase"
   },
   {
     "stratagem_id": "000003828005",
-    "phase": "Enemy Movement phase"
+    "phase": "Before battle"
   },
   {
     "stratagem_id": "000003828006",
@@ -2561,135 +2353,107 @@
   },
   {
     "stratagem_id": "000003828007",
-    "phase": "Enemy Movement phase"
+    "phase": "Enemy taking casualties"
   },
   {
     "stratagem_id": "000003828008",
-    "phase": "Movement phase"
+    "phase": "Enemy Movement phase"
   },
   {
-    "stratagem_id": "000002235019",
-    "phase": "During deployment"
+    "stratagem_id": "000003828009",
+    "phase": "Before battle"
   },
   {
     "stratagem_id": "000003298002",
     "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000003298002",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000003298002",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000003298006",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000003298006",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000003298007",
-    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000003298003",
-    "phase": "At the start of your turn"
+    "phase": "Charge phase"
+  },
+  {
+    "stratagem_id": "000003298004",
+    "phase": "Command phase"
   },
   {
     "stratagem_id": "000003298005",
     "phase": "Before battle"
   },
   {
-    "stratagem_id": "000003298009",
-    "phase": "Before battle"
+    "stratagem_id": "000003298006",
+    "phase": "Command phase"
   },
   {
-    "stratagem_id": "000003298004",
-    "phase": "At the start of battle round"
+    "stratagem_id": "000003298007",
+    "phase": "Movement phase"
   },
   {
     "stratagem_id": "000003298008",
-    "phase": "Morale phase"
+    "phase": "Command phase"
   },
   {
-    "stratagem_id": "000002235025",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000002235025",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000002235025",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000003267002",
-    "phase": "Fight phase"
+    "stratagem_id": "000003298009",
+    "phase": "Command phase"
   },
   {
     "stratagem_id": "000003267002",
     "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000003267002",
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003267003",
     "phase": "Morale phase"
   },
   {
-    "stratagem_id": "000003299004",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000003299004",
+    "stratagem_id": "000002235002",
     "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002235002",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000002235003",
     "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000002235003",
-    "phase": "Before battle"
+    "phase": "Fight phase"
   },
   {
-    "stratagem_id": "000002235004",
-    "phase": "At the start of your turn"
-  },
-  {
-    "stratagem_id": "000002235005",
-    "phase": "Shooting phase"
+    "stratagem_id": "000002235003",
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002235006",
-    "phase": "Fight phase"
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000002235006",
     "phase": "Enemy Fight phase"
   },
   {
-    "stratagem_id": "000002235007",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000002235007",
+    "stratagem_id": "000002235006",
     "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000002235007",
-    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002235008",
-    "phase": "Movement phase"
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000002235008",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000002235008",
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002235009",
-    "phase": "Enemy Fight phase"
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000002235009",
@@ -2697,39 +2461,51 @@
   },
   {
     "stratagem_id": "000002235009",
-    "phase": "Shooting phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002235010",
-    "phase": "Psychic phase"
+    "phase": "Command phase"
+  },
+  {
+    "stratagem_id": "000002235011",
+    "phase": "Morale phase"
+  },
+  {
+    "stratagem_id": "000002235011",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000002235011",
+    "phase": "Charge phase"
+  },
+  {
+    "stratagem_id": "000002235011",
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000002235011",
     "phase": "Psychic phase"
   },
   {
-    "stratagem_id": "000002235012",
+    "stratagem_id": "000002235011",
     "phase": "Movement phase"
   },
   {
-    "stratagem_id": "000002235013",
-    "phase": "Shooting phase"
+    "stratagem_id": "000002235012",
+    "phase": "Enemy Shooting phase"
   },
   {
     "stratagem_id": "000002235014",
-    "phase": "Shooting phase"
+    "phase": "Before battle"
   },
   {
     "stratagem_id": "000002235015",
-    "phase": "Shooting phase"
+    "phase": "Before battle"
   },
   {
     "stratagem_id": "000002235016",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000002235016",
-    "phase": "Fight phase"
+    "phase": "Before battle"
   },
   {
     "stratagem_id": "000002235017",
@@ -2738,6 +2514,98 @@
   {
     "stratagem_id": "000002235018",
     "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000002235019",
+    "phase": "Movement phase"
+  },
+  {
+    "stratagem_id": "000002235020",
+    "phase": "Enemy taking casualties"
+  },
+  {
+    "stratagem_id": "000002235023",
+    "phase": "Morale phase"
+  },
+  {
+    "stratagem_id": "000002235024",
+    "phase": "Command phase"
+  },
+  {
+    "stratagem_id": "000002235026",
+    "phase": "Charge phase"
+  },
+  {
+    "stratagem_id": "000002235028",
+    "phase": "Enemy Shooting phase"
+  },
+  {
+    "stratagem_id": "000002235029",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000002235030",
+    "phase": "Enemy Shooting phase"
+  },
+  {
+    "stratagem_id": "000002235030",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000002235030",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000002235031",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000002235032",
+    "phase": "Being targeted"
+  },
+  {
+    "stratagem_id": "000002235004",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000002235004",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000002235021",
+    "phase": "Enemy Psychic phase"
+  },
+  {
+    "stratagem_id": "000002235005",
+    "phase": "Being targeted"
+  },
+  {
+    "stratagem_id": "000002235022",
+    "phase": "Enemy Shooting phase"
+  },
+  {
+    "stratagem_id": "000002235007",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000002235007",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000002235007",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000002235025",
+    "phase": "Enemy Movement phase"
+  },
+  {
+    "stratagem_id": "000002235013",
+    "phase": "Psychic phase"
+  },
+  {
+    "stratagem_id": "000002235027",
+    "phase": "Enemy Movement phase"
   },
   {
     "stratagem_id": "000003270002",
@@ -2769,11 +2637,11 @@
   },
   {
     "stratagem_id": "000003279002",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003279002",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003279003",
@@ -2788,96 +2656,84 @@
     "phase": "Enemy taking casualties"
   },
   {
-    "stratagem_id": "000004296002",
-    "phase": "Enemy Fight phase"
+    "stratagem_id": "000007496002",
+    "phase": "Being targeted"
   },
   {
-    "stratagem_id": "000004296002",
+    "stratagem_id": "000007496003",
+    "phase": "Enemy taking casualties"
+  },
+  {
+    "stratagem_id": "000007496003",
     "phase": "Fight phase"
   },
   {
-    "stratagem_id": "000004296005",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000004296005",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000004296005",
+    "stratagem_id": "000007496003",
     "phase": "Enemy Fight phase"
   },
   {
-    "stratagem_id": "000004296006",
-    "phase": "Enemy Shooting phase"
+    "stratagem_id": "000007496004",
+    "phase": "Command phase"
   },
   {
-    "stratagem_id": "000004296008",
-    "phase": "Before battle"
+    "stratagem_id": "000007496004",
+    "phase": "Enemy Command phase"
   },
   {
-    "stratagem_id": "000004296003",
-    "phase": "Any phase"
-  },
-  {
-    "stratagem_id": "000004296004",
-    "phase": "Movement phase"
-  },
-  {
-    "stratagem_id": "000004296007",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000004296007",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000003299005",
-    "phase": "Enemy Shooting phase"
-  },
-  {
-    "stratagem_id": "000003830003",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000003830003",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000003830005",
+    "stratagem_id": "000007496005",
     "phase": "Charge phase"
   },
   {
-    "stratagem_id": "000003830007",
+    "stratagem_id": "000003830002",
     "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000003830007",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000003830004",
-    "phase": "Enemy Charge phase"
   },
   {
     "stratagem_id": "000003830002",
-    "phase": "Before battle"
-  },
-  {
-    "stratagem_id": "000003830008",
-    "phase": "At the start of battle round"
-  },
-  {
-    "stratagem_id": "000003830006",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000002235023",
     "phase": "Fight phase"
   },
   {
-    "stratagem_id": "000002235023",
+    "stratagem_id": "000003830003",
+    "phase": "Movement phase"
+  },
+  {
+    "stratagem_id": "000003830003",
+    "phase": "Charge phase"
+  },
+  {
+    "stratagem_id": "000003830004",
+    "phase": "Command phase"
+  },
+  {
+    "stratagem_id": "000003830007",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000003830007",
     "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000003830005",
+    "phase": "Enemy Charge phase"
+  },
+  {
+    "stratagem_id": "000003830006",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000003830006",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000003830008",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000003830008",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000003830009",
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000003285002",
@@ -2885,74 +2741,54 @@
   },
   {
     "stratagem_id": "000003285003",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003285003",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000003299007",
     "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000004976002",
-    "phase": "Enemy Shooting phase"
-  },
-  {
-    "stratagem_id": "000003829004",
-    "phase": "Being targeted"
-  },
-  {
-    "stratagem_id": "000003829006",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000003829006",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000003829006",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000003829009",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000003829009",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000003829005",
-    "phase": "Movement phase"
   },
   {
     "stratagem_id": "000003829002",
-    "phase": "Taking casualties"
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000003829002",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000003829003",
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003829003",
     "phase": "Shooting phase"
   },
   {
-    "stratagem_id": "000003829008",
-    "phase": "Enemy Shooting phase"
+    "stratagem_id": "000003829003",
+    "phase": "Enemy Fight phase"
   },
   {
-    "stratagem_id": "000003829007",
+    "stratagem_id": "000003829004",
+    "phase": "Being targeted"
+  },
+  {
+    "stratagem_id": "000003829005",
+    "phase": "Any phase"
+  },
+  {
+    "stratagem_id": "000003829006",
     "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000003829007",
-    "phase": "Fight phase"
+    "phase": "Being targeted"
   },
   {
-    "stratagem_id": "000003829007",
-    "phase": "Enemy Fight phase"
+    "stratagem_id": "000003829008",
+    "phase": "Enemy Shooting phase"
   },
   {
-    "stratagem_id": "000002235021",
+    "stratagem_id": "000003829009",
     "phase": "Taking casualties"
   },
   {
@@ -2960,8 +2796,24 @@
     "phase": "Being targeted"
   },
   {
-    "stratagem_id": "000003827004",
+    "stratagem_id": "000003827002",
+    "phase": "Enemy Shooting phase"
+  },
+  {
+    "stratagem_id": "000003827003",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000003827003",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000003827003",
     "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000003827004",
+    "phase": "Enemy taking casualties"
   },
   {
     "stratagem_id": "000003827004",
@@ -2969,19 +2821,7 @@
   },
   {
     "stratagem_id": "000003827004",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000003827007",
-    "phase": "Charge phase"
-  },
-  {
-    "stratagem_id": "000003827008",
-    "phase": "Charge phase"
-  },
-  {
-    "stratagem_id": "000003827003",
-    "phase": "Movement phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003827005",
@@ -2989,30 +2829,38 @@
   },
   {
     "stratagem_id": "000003827006",
+    "phase": "Movement phase"
+  },
+  {
+    "stratagem_id": "000003827007",
+    "phase": "Movement phase"
+  },
+  {
+    "stratagem_id": "000003827008",
     "phase": "Enemy Movement phase"
   },
   {
     "stratagem_id": "000003827009",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000003827009",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000002235024",
-    "phase": "Being targeted"
-  },
-  {
-    "stratagem_id": "000003299003",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000003299002",
     "phase": "Movement phase"
   },
   {
-    "stratagem_id": "000003299006",
+    "stratagem_id": "000007492002",
+    "phase": "Being targeted"
+  },
+  {
+    "stratagem_id": "000007492003",
+    "phase": "Command phase"
+  },
+  {
+    "stratagem_id": "000007492004",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007492004",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007492005",
     "phase": "Enemy Movement phase"
   },
   {
@@ -3044,112 +2892,60 @@
     "phase": "Before battle"
   },
   {
-    "stratagem_id": "000003826006",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000003826006",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000003826008",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000003826008",
-    "phase": "Enemy Fight phase"
-  },
-  {
     "stratagem_id": "000003826002",
-    "phase": "Movement phase"
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000003826003",
-    "phase": "Psychic phase"
-  },
-  {
-    "stratagem_id": "000003826007",
-    "phase": "Taking casualties"
+    "phase": "Command phase"
   },
   {
     "stratagem_id": "000003826004",
-    "phase": "Before battle"
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000003826004",
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003826005",
-    "phase": "During deployment"
-  },
-  {
-    "stratagem_id": "000002235020",
-    "phase": "Movement phase"
-  },
-  {
-    "stratagem_id": "000003831006",
     "phase": "Fight phase"
   },
   {
-    "stratagem_id": "000003831006",
+    "stratagem_id": "000003826005",
     "phase": "Enemy Fight phase"
   },
   {
-    "stratagem_id": "000003831007",
-    "phase": "Fight phase"
+    "stratagem_id": "000003826006",
+    "phase": "Taking casualties"
   },
   {
-    "stratagem_id": "000003831007",
-    "phase": "Enemy Fight phase"
+    "stratagem_id": "000003826007",
+    "phase": "Psychic phase"
   },
   {
-    "stratagem_id": "000003831008",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000003831008",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000003831004",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000003831004",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000003831005",
+    "stratagem_id": "000003826008",
     "phase": "Before battle"
   },
   {
-    "stratagem_id": "000003831002",
-    "phase": "Enemy Psychic phase"
-  },
-  {
-    "stratagem_id": "000003831003",
-    "phase": "During deployment"
-  },
-  {
-    "stratagem_id": "000003831009",
-    "phase": "Enemy taking casualties"
-  },
-  {
-    "stratagem_id": "000002235022",
-    "phase": "Enemy Psychic phase"
-  },
-  {
-    "stratagem_id": "000002327002",
-    "phase": "Enemy Fight phase"
+    "stratagem_id": "000003826009",
+    "phase": "Any phase"
   },
   {
     "stratagem_id": "000002327002",
     "phase": "Fight phase"
   },
   {
-    "stratagem_id": "000002327003",
+    "stratagem_id": "000002327002",
     "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002327003",
     "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000002327003",
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002327004",
@@ -3160,12 +2956,20 @@
     "phase": "Shooting phase"
   },
   {
-    "stratagem_id": "000002327006",
+    "stratagem_id": "000002327005",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000002327005",
     "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002327006",
     "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000002327006",
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002327007",
@@ -3173,11 +2977,11 @@
   },
   {
     "stratagem_id": "000002327008",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002327008",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002327009",
@@ -3189,11 +2993,11 @@
   },
   {
     "stratagem_id": "000002327011",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002327011",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002327012",
@@ -3249,11 +3053,11 @@
   },
   {
     "stratagem_id": "000002327023",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002327023",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002327024",
@@ -3277,7 +3081,7 @@
   },
   {
     "stratagem_id": "000002327028",
-    "phase": "Enemy Shooting phase"
+    "phase": "Being targeted"
   },
   {
     "stratagem_id": "000002327029",
@@ -3341,11 +3145,11 @@
   },
   {
     "stratagem_id": "000005154002",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000005154002",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000005155002",
@@ -3409,11 +3213,11 @@
   },
   {
     "stratagem_id": "000007324007",
-    "phase": "Fight phase"
+    "phase": "Enemy taking casualties"
   },
   {
     "stratagem_id": "000007324007",
-    "phase": "Enemy taking casualties"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000007324008",
@@ -3425,23 +3229,23 @@
   },
   {
     "stratagem_id": "000002782002",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002782002",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000002777002",
     "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000002777002",
-    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002777002",
     "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000002777002",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000002777002",
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000005445002",
@@ -3461,11 +3265,11 @@
   },
   {
     "stratagem_id": "000005445005",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000005445005",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000005445006",
@@ -3501,11 +3305,11 @@
   },
   {
     "stratagem_id": "000002783003",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002783003",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002783004",
@@ -3557,7 +3361,7 @@
   },
   {
     "stratagem_id": "000002783014",
-    "phase": "Enemy Fight phase"
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000002783014",
@@ -3565,7 +3369,7 @@
   },
   {
     "stratagem_id": "000002783014",
-    "phase": "Shooting phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002783015",
@@ -3605,7 +3409,7 @@
   },
   {
     "stratagem_id": "000002783025",
-    "phase": "Shooting phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002783025",
@@ -3613,7 +3417,7 @@
   },
   {
     "stratagem_id": "000002783025",
-    "phase": "Enemy Fight phase"
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000002773002",
@@ -3657,11 +3461,11 @@
   },
   {
     "stratagem_id": "000002938002",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002938002",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002938003",
@@ -3681,7 +3485,7 @@
   },
   {
     "stratagem_id": "000002938007",
-    "phase": "Any phase"
+    "phase": "Being targeted"
   },
   {
     "stratagem_id": "000002938008",
@@ -3741,11 +3545,11 @@
   },
   {
     "stratagem_id": "000002938021",
-    "phase": "Command phase"
+    "phase": "Enemy Movement phase"
   },
   {
     "stratagem_id": "000002938021",
-    "phase": "Enemy Movement phase"
+    "phase": "Command phase"
   },
   {
     "stratagem_id": "000002938022",
@@ -3758,6 +3562,10 @@
   {
     "stratagem_id": "000002938024",
     "phase": "Enemy Shooting phase"
+  },
+  {
+    "stratagem_id": "000002938025",
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002938025",
@@ -3781,11 +3589,11 @@
   },
   {
     "stratagem_id": "000002938030",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002938030",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000006110002",
@@ -3793,15 +3601,15 @@
   },
   {
     "stratagem_id": "000002938031",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000002938031",
     "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002938031",
     "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000002938031",
-    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000002938032",
@@ -3813,11 +3621,11 @@
   },
   {
     "stratagem_id": "000003203002",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003203002",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003203003",
@@ -3877,11 +3685,11 @@
   },
   {
     "stratagem_id": "000002271004",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002271004",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002271005",
@@ -3897,11 +3705,11 @@
   },
   {
     "stratagem_id": "000002271008",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002271008",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002271009",
@@ -3977,11 +3785,11 @@
   },
   {
     "stratagem_id": "000002271027",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002271027",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002271028",
@@ -3997,7 +3805,7 @@
   },
   {
     "stratagem_id": "000002271031",
-    "phase": "Enemy Shooting phase"
+    "phase": "Being targeted"
   },
   {
     "stratagem_id": "000002271032",
@@ -4029,11 +3837,11 @@
   },
   {
     "stratagem_id": "000005812002",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000005812002",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000005814002",
@@ -4048,40 +3856,272 @@
     "phase": "Command phase"
   },
   {
-    "stratagem_id": "000003844002",
-    "phase": "Enemy Charge phase"
+    "stratagem_id": "000007798002",
+    "phase": "Command phase"
   },
   {
-    "stratagem_id": "000003844002",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000003844002",
+    "stratagem_id": "000007805002",
     "phase": "Fight phase"
   },
   {
-    "stratagem_id": "000003844002",
+    "stratagem_id": "000007805002",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007804002",
+    "phase": "Taking casualties"
+  },
+  {
+    "stratagem_id": "000007807002",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007807002",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007807002",
+    "phase": "Taking casualties"
+  },
+  {
+    "stratagem_id": "000007815002",
+    "phase": "Movement phase"
+  },
+  {
+    "stratagem_id": "000007815003",
     "phase": "Shooting phase"
   },
   {
-    "stratagem_id": "000003844003",
+    "stratagem_id": "000007815003",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007815003",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007815004",
     "phase": "Shooting phase"
   },
   {
-    "stratagem_id": "000003844004",
+    "stratagem_id": "000007815005",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007815005",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007815006",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000007815007",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007815007",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007815008",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000007815008",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007815008",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007815009",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000007815010",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000007815011",
+    "phase": "Enemy Shooting phase"
+  },
+  {
+    "stratagem_id": "000007815012",
+    "phase": "Command phase"
+  },
+  {
+    "stratagem_id": "000007815013",
+    "phase": "Command phase"
+  },
+  {
+    "stratagem_id": "000007815014",
+    "phase": "Command phase"
+  },
+  {
+    "stratagem_id": "000007815015",
+    "phase": "Command phase"
+  },
+  {
+    "stratagem_id": "000007815016",
     "phase": "Before battle"
   },
   {
-    "stratagem_id": "000003844005",
+    "stratagem_id": "000007815017",
     "phase": "Before battle"
   },
   {
-    "stratagem_id": "000003844006",
-    "phase": "Enemy taking casualties"
+    "stratagem_id": "000007815018",
+    "phase": "Before battle"
   },
   {
-    "stratagem_id": "000003844007",
-    "phase": "During deployment"
+    "stratagem_id": "000007815019",
+    "phase": "Enemy Charge phase"
+  },
+  {
+    "stratagem_id": "000007815020",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000007815021",
+    "phase": "Movement phase"
+  },
+  {
+    "stratagem_id": "000007815022",
+    "phase": "Enemy Shooting phase"
+  },
+  {
+    "stratagem_id": "000007815023",
+    "phase": "Taking casualties"
+  },
+  {
+    "stratagem_id": "000007815024",
+    "phase": "Movement phase"
+  },
+  {
+    "stratagem_id": "000007815025",
+    "phase": "Movement phase"
+  },
+  {
+    "stratagem_id": "000007815026",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000007815027",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000007815028",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000007815029",
+    "phase": "Any phase"
+  },
+  {
+    "stratagem_id": "000007815030",
+    "phase": "Being targeted"
+  },
+  {
+    "stratagem_id": "000007815031",
+    "phase": "Enemy Movement phase"
+  },
+  {
+    "stratagem_id": "000007815032",
+    "phase": "Movement phase"
+  },
+  {
+    "stratagem_id": "000007806002",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000007872002",
+    "phase": "Charge phase"
+  },
+  {
+    "stratagem_id": "000007872003",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007872003",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007872004",
+    "phase": "Any phase"
+  },
+  {
+    "stratagem_id": "000007872005",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007872005",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007872006",
+    "phase": "Taking casualties"
+  },
+  {
+    "stratagem_id": "000007872006",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007872006",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007872007",
+    "phase": "Movement phase"
+  },
+  {
+    "stratagem_id": "000007872008",
+    "phase": "Charge phase"
+  },
+  {
+    "stratagem_id": "000007872009",
+    "phase": "Command phase"
+  },
+  {
+    "stratagem_id": "000007879002",
+    "phase": "Command phase"
+  },
+  {
+    "stratagem_id": "000007879003",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000007879004",
+    "phase": "Command phase"
+  },
+  {
+    "stratagem_id": "000007879005",
+    "phase": "Before battle"
+  },
+  {
+    "stratagem_id": "000007879006",
+    "phase": "Before battle"
+  },
+  {
+    "stratagem_id": "000007879007",
+    "phase": "Taking casualties"
+  },
+  {
+    "stratagem_id": "000007879007",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007879007",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007879008",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000007879009",
+    "phase": "Enemy Psychic phase"
   },
   {
     "stratagem_id": "000004702002",
@@ -4101,11 +4141,11 @@
   },
   {
     "stratagem_id": "000002747005",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002747005",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002747006",
@@ -4113,23 +4153,23 @@
   },
   {
     "stratagem_id": "000002747007",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000002747007",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000002747007",
     "phase": "Shooting phase"
   },
   {
-    "stratagem_id": "000002747007",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000002747007",
+    "stratagem_id": "000002747008",
     "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002747008",
     "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000002747008",
-    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002747009",
@@ -4181,7 +4221,7 @@
   },
   {
     "stratagem_id": "000002747019",
-    "phase": "Enemy Shooting phase"
+    "phase": "Being targeted"
   },
   {
     "stratagem_id": "000002747020",
@@ -4265,11 +4305,11 @@
   },
   {
     "stratagem_id": "000004702005",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000004702005",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000004702006",
@@ -4278,54 +4318,6 @@
   {
     "stratagem_id": "000004702007",
     "phase": "Enemy Psychic phase"
-  },
-  {
-    "stratagem_id": "000003170004",
-    "phase": "Movement phase"
-  },
-  {
-    "stratagem_id": "000003170005",
-    "phase": "At the start of battle round"
-  },
-  {
-    "stratagem_id": "000003170006",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000003170007",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000003170007",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000003170008",
-    "phase": "Any phase"
-  },
-  {
-    "stratagem_id": "000003170009",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000003170009",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000003170002",
-    "phase": "Before battle"
-  },
-  {
-    "stratagem_id": "000003170003",
-    "phase": "Any phase"
-  },
-  {
-    "stratagem_id": "000003170010",
-    "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000003170011",
-    "phase": "Any phase"
   },
   {
     "stratagem_id": "000002968002",
@@ -4433,7 +4425,7 @@
   },
   {
     "stratagem_id": "000002974007",
-    "phase": "Any phase"
+    "phase": "Being targeted"
   },
   {
     "stratagem_id": "000002974008",
@@ -4445,11 +4437,11 @@
   },
   {
     "stratagem_id": "000002974010",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002974010",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002974011",
@@ -4489,11 +4481,11 @@
   },
   {
     "stratagem_id": "000002974020",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002974020",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002974021",
@@ -4505,11 +4497,11 @@
   },
   {
     "stratagem_id": "000002974023",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002974023",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002974024",
@@ -4617,7 +4609,7 @@
   },
   {
     "stratagem_id": "000005439003",
-    "phase": "Enemy Fight phase"
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000005439003",
@@ -4625,7 +4617,7 @@
   },
   {
     "stratagem_id": "000005439003",
-    "phase": "Shooting phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000005439004",
@@ -4641,7 +4633,7 @@
   },
   {
     "stratagem_id": "000002837002",
-    "phase": "Shooting phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002837002",
@@ -4649,7 +4641,7 @@
   },
   {
     "stratagem_id": "000002837002",
-    "phase": "Enemy Fight phase"
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000002838002",
@@ -4657,19 +4649,19 @@
   },
   {
     "stratagem_id": "000002843002",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002843002",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000002840002",
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002840002",
     "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000002840002",
-    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002840002",
@@ -4693,11 +4685,11 @@
   },
   {
     "stratagem_id": "000005442005",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000005442005",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000005442006",
@@ -4725,11 +4717,11 @@
   },
   {
     "stratagem_id": "000002836002",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002836002",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002844002",
@@ -4741,10 +4733,14 @@
   },
   {
     "stratagem_id": "000002848004",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002848004",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000002848005",
     "phase": "Fight phase"
   },
   {
@@ -4752,8 +4748,12 @@
     "phase": "Enemy Fight phase"
   },
   {
-    "stratagem_id": "000002848005",
+    "stratagem_id": "000002848007",
     "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000002848007",
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002848007",
@@ -4785,11 +4785,11 @@
   },
   {
     "stratagem_id": "000002848012",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002848012",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002848014",
@@ -4805,11 +4805,15 @@
   },
   {
     "stratagem_id": "000002848018",
-    "phase": "Charge phase"
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000002848018",
-    "phase": "Shooting phase"
+    "phase": "Morale phase"
+  },
+  {
+    "stratagem_id": "000002848018",
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002848018",
@@ -4821,11 +4825,7 @@
   },
   {
     "stratagem_id": "000002848018",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000002848018",
-    "phase": "Morale phase"
+    "phase": "Charge phase"
   },
   {
     "stratagem_id": "000002848019",
@@ -4921,11 +4921,11 @@
   },
   {
     "stratagem_id": "000002861004",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002861004",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002861005",
@@ -4933,11 +4933,11 @@
   },
   {
     "stratagem_id": "000002861006",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002861006",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002861007",
@@ -4945,14 +4945,10 @@
   },
   {
     "stratagem_id": "000002861008",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002861008",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000002861009",
     "phase": "Fight phase"
   },
   {
@@ -4960,12 +4956,16 @@
     "phase": "Enemy Fight phase"
   },
   {
-    "stratagem_id": "000002861010",
+    "stratagem_id": "000002861009",
     "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002861010",
     "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000002861010",
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002861010",
@@ -4977,11 +4977,11 @@
   },
   {
     "stratagem_id": "000002861012",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002861012",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002861013",
@@ -5029,11 +5029,11 @@
   },
   {
     "stratagem_id": "000002861024",
-    "phase": "Enemy Command phase"
+    "phase": "Command phase"
   },
   {
     "stratagem_id": "000002861024",
-    "phase": "Command phase"
+    "phase": "Enemy Command phase"
   },
   {
     "stratagem_id": "000002861025",
@@ -5081,11 +5081,11 @@
   },
   {
     "stratagem_id": "000002861002",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002861002",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002861022",
@@ -5097,11 +5097,11 @@
   },
   {
     "stratagem_id": "000004221002",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000004221002",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000004226002",
@@ -5113,11 +5113,11 @@
   },
   {
     "stratagem_id": "000007230002",
-    "phase": "Charge phase"
+    "phase": "Movement phase"
   },
   {
     "stratagem_id": "000007230002",
-    "phase": "Movement phase"
+    "phase": "Charge phase"
   },
   {
     "stratagem_id": "000004223002",
@@ -5165,11 +5165,11 @@
   },
   {
     "stratagem_id": "000002164003",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002164003",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002164004",
@@ -5193,11 +5193,11 @@
   },
   {
     "stratagem_id": "000002164007",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002164007",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002164008",
@@ -5241,11 +5241,11 @@
   },
   {
     "stratagem_id": "000002164013",
-    "phase": "Fight phase"
+    "phase": "Morale phase"
   },
   {
     "stratagem_id": "000002164013",
-    "phase": "Morale phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002164013",
@@ -5321,11 +5321,11 @@
   },
   {
     "stratagem_id": "000002164031",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002164031",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002164032",
@@ -5341,15 +5341,15 @@
   },
   {
     "stratagem_id": "000002164035",
-    "phase": "Enemy Shooting phase"
-  },
-  {
-    "stratagem_id": "000003817002",
-    "phase": "Enemy Fight phase"
+    "phase": "Being targeted"
   },
   {
     "stratagem_id": "000003817002",
     "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000003817002",
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003817003",
@@ -5365,11 +5365,11 @@
   },
   {
     "stratagem_id": "000003817005",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003817005",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003817006",
@@ -5425,19 +5425,19 @@
   },
   {
     "stratagem_id": "000003188002",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003188002",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000003188003",
     "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003188003",
     "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000003188003",
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000004543002",
@@ -5457,11 +5457,11 @@
   },
   {
     "stratagem_id": "000004543006",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000004543006",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000004543007",
@@ -5469,11 +5469,11 @@
   },
   {
     "stratagem_id": "000004543008",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000004543008",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000004543009",
@@ -5521,19 +5521,19 @@
   },
   {
     "stratagem_id": "000007313003",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000007313003",
     "phase": "Fight phase"
   },
   {
-    "stratagem_id": "000007313004",
-    "phase": "Enemy Shooting phase"
+    "stratagem_id": "000007313003",
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000007313004",
     "phase": "Being targeted"
+  },
+  {
+    "stratagem_id": "000007313004",
+    "phase": "Enemy Shooting phase"
   },
   {
     "stratagem_id": "000007313005",
@@ -5541,7 +5541,7 @@
   },
   {
     "stratagem_id": "000007313006",
-    "phase": "Enemy Fight phase"
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000007313006",
@@ -5549,7 +5549,7 @@
   },
   {
     "stratagem_id": "000007313006",
-    "phase": "Shooting phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000007313007",
@@ -5613,15 +5613,15 @@
   },
   {
     "stratagem_id": "000003453004",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000003453004",
     "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003453004",
     "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000003453004",
-    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000004566002",
@@ -5705,11 +5705,11 @@
   },
   {
     "stratagem_id": "000003191002",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003191002",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003191003",
@@ -5813,19 +5813,19 @@
   },
   {
     "stratagem_id": "000005265002",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000005265002",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000005265003",
     "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000005265003",
     "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000005265003",
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000005294002",
@@ -5861,11 +5861,11 @@
   },
   {
     "stratagem_id": "000003693002",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003693002",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003693003",
@@ -5893,11 +5893,11 @@
   },
   {
     "stratagem_id": "000003693008",
-    "phase": "Shooting phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003693008",
-    "phase": "Enemy Fight phase"
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000003693012",
@@ -5937,23 +5937,23 @@
   },
   {
     "stratagem_id": "000003183003",
+    "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000003183003",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000003183003",
     "phase": "Enemy Fight phase"
   },
   {
-    "stratagem_id": "000003183003",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000003183003",
+    "stratagem_id": "000003672002",
     "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000003672002",
     "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000003672002",
-    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000003672002",
@@ -5969,7 +5969,7 @@
   },
   {
     "stratagem_id": "000003672006",
-    "phase": "Shooting phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003672006",
@@ -5977,7 +5977,7 @@
   },
   {
     "stratagem_id": "000003672006",
-    "phase": "Enemy Fight phase"
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000003672009",
@@ -5989,11 +5989,11 @@
   },
   {
     "stratagem_id": "000003672011",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003672011",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003672015",
@@ -6069,11 +6069,11 @@
   },
   {
     "stratagem_id": "000003659009",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003659009",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003659010",
@@ -6149,11 +6149,11 @@
   },
   {
     "stratagem_id": "000003699010",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003699010",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003699011",
@@ -6201,11 +6201,11 @@
   },
   {
     "stratagem_id": "000005253003",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000005253003",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003607016",
@@ -6221,11 +6221,11 @@
   },
   {
     "stratagem_id": "000003176002",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003176002",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000004630002",
@@ -6237,19 +6237,19 @@
   },
   {
     "stratagem_id": "000004630004",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000004630004",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000004630005",
     "phase": "Fight phase"
   },
   {
     "stratagem_id": "000004630005",
     "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000004630005",
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000004630006",
@@ -6261,11 +6261,11 @@
   },
   {
     "stratagem_id": "000004630008",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000004630008",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000004630009",
@@ -6349,19 +6349,19 @@
   },
   {
     "stratagem_id": "000003607003",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003607003",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000003607007",
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003607007",
     "phase": "Shooting phase"
-  },
-  {
-    "stratagem_id": "000003607007",
-    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000003607007",
@@ -6381,11 +6381,11 @@
   },
   {
     "stratagem_id": "000003607004",
-    "phase": "Shooting phase"
+    "phase": "Enemy Shooting phase"
   },
   {
     "stratagem_id": "000003607004",
-    "phase": "Enemy Shooting phase"
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000003607013",
@@ -6429,11 +6429,11 @@
   },
   {
     "stratagem_id": "000006923002",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000006923002",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000006923003",
@@ -6493,11 +6493,11 @@
   },
   {
     "stratagem_id": "000003618010",
-    "phase": "Enemy taking casualties"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000003618010",
-    "phase": "Fight phase"
+    "phase": "Enemy taking casualties"
   },
   {
     "stratagem_id": "000003618007",
@@ -6545,7 +6545,7 @@
   },
   {
     "stratagem_id": "000005986003",
-    "phase": "Enemy Fight phase"
+    "phase": "Shooting phase"
   },
   {
     "stratagem_id": "000005986003",
@@ -6553,7 +6553,7 @@
   },
   {
     "stratagem_id": "000005986003",
-    "phase": "Shooting phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000005986004",
@@ -6665,11 +6665,11 @@
   },
   {
     "stratagem_id": "000002714019",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002714019",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002714020",
@@ -6745,11 +6745,7 @@
   },
   {
     "stratagem_id": "000002656004",
-    "phase": "Enemy Shooting phase"
-  },
-  {
-    "stratagem_id": "000002656005",
-    "phase": "Enemy Fight phase"
+    "phase": "Being targeted"
   },
   {
     "stratagem_id": "000002656005",
@@ -6758,6 +6754,10 @@
   {
     "stratagem_id": "000002656005",
     "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000002656005",
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002656006",
@@ -6765,19 +6765,19 @@
   },
   {
     "stratagem_id": "000002656007",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002656007",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000002656008",
     "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002656008",
     "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000002656008",
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002656009",
@@ -6817,11 +6817,11 @@
   },
   {
     "stratagem_id": "000002656018",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002656018",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002656019",
@@ -6885,15 +6885,15 @@
   },
   {
     "stratagem_id": "000002656034",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000002656034",
     "phase": "Enemy Fight phase"
   },
   {
+    "stratagem_id": "000002656034",
+    "phase": "Fight phase"
+  },
+  {
     "stratagem_id": "000002656035",
-    "phase": "Enemy Shooting phase"
+    "phase": "Being targeted"
   },
   {
     "stratagem_id": "000002656036",
@@ -6901,31 +6901,31 @@
   },
   {
     "stratagem_id": "000007335002",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000007335002",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000007335002",
     "phase": "Shooting phase"
   },
   {
-    "stratagem_id": "000007335002",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000007335002",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000007335003",
-    "phase": "Enemy Fight phase"
-  },
-  {
     "stratagem_id": "000007335003",
     "phase": "Fight phase"
   },
   {
-    "stratagem_id": "000007335004",
-    "phase": "Enemy taking casualties"
+    "stratagem_id": "000007335003",
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000007335004",
     "phase": "Psychic phase"
+  },
+  {
+    "stratagem_id": "000007335004",
+    "phase": "Enemy taking casualties"
   },
   {
     "stratagem_id": "000007335005",
@@ -6949,19 +6949,19 @@
   },
   {
     "stratagem_id": "000006654002",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000006654002",
-    "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000006168002",
     "phase": "Fight phase"
   },
   {
     "stratagem_id": "000006168002",
     "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000006168002",
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000006168003",
@@ -7021,23 +7021,23 @@
   },
   {
     "stratagem_id": "000006657002",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000006657002",
-    "phase": "Fight phase"
-  },
-  {
-    "stratagem_id": "000006034002",
     "phase": "Enemy Fight phase"
-  },
-  {
-    "stratagem_id": "000006034002",
-    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000006034002",
     "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000006034002",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000006034002",
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000006034003",
@@ -7125,11 +7125,11 @@
   },
   {
     "stratagem_id": "000002462009",
-    "phase": "Fight phase"
+    "phase": "Enemy Fight phase"
   },
   {
     "stratagem_id": "000002462009",
-    "phase": "Enemy Fight phase"
+    "phase": "Fight phase"
   },
   {
     "stratagem_id": "000002462010",
@@ -7246,5 +7246,161 @@
   {
     "stratagem_id": "000002462033",
     "phase": "Shooting phase"
+  },
+  {
+    "stratagem_id": "000008116002",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000008116002",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000008116003",
+    "phase": "Enemy Movement phase"
+  },
+  {
+    "stratagem_id": "000008116004",
+    "phase": "Enemy Shooting phase"
+  },
+  {
+    "stratagem_id": "000008116005",
+    "phase": "Command phase"
+  },
+  {
+    "stratagem_id": "000008116006",
+    "phase": "Movement phase"
+  },
+  {
+    "stratagem_id": "000008116007",
+    "phase": "Enemy taking casualties"
+  },
+  {
+    "stratagem_id": "000008116007",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000008116007",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000008116008",
+    "phase": "Charge phase"
+  },
+  {
+    "stratagem_id": "000008116009",
+    "phase": "Charge phase"
+  },
+  {
+    "stratagem_id": "000008111002",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000008111002",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000008111002",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000008111002",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000008111003",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000008111003",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000008111003",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000008111003",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000008111004",
+    "phase": "Enemy taking casualties"
+  },
+  {
+    "stratagem_id": "000008111004",
+    "phase": "Enemy taking casualties"
+  },
+  {
+    "stratagem_id": "000008111004",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000008111004",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000008111004",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000008111004",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000008111005",
+    "phase": "Enemy Psychic phase"
+  },
+  {
+    "stratagem_id": "000008111005",
+    "phase": "Enemy Psychic phase"
+  },
+  {
+    "stratagem_id": "000008111006",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000008111006",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000008111006",
+    "phase": "Fight phase"
+  },
+  {
+    "stratagem_id": "000008111006",
+    "phase": "Enemy Fight phase"
+  },
+  {
+    "stratagem_id": "000008111007",
+    "phase": "Enemy Charge phase"
+  },
+  {
+    "stratagem_id": "000008111007",
+    "phase": "Enemy Charge phase"
+  },
+  {
+    "stratagem_id": "000008111008",
+    "phase": "Being targeted"
+  },
+  {
+    "stratagem_id": "000008111008",
+    "phase": "Being targeted"
+  },
+  {
+    "stratagem_id": "000008111008",
+    "phase": "Enemy Shooting phase"
+  },
+  {
+    "stratagem_id": "000008111008",
+    "phase": "Enemy Shooting phase"
+  },
+  {
+    "stratagem_id": "000008111009",
+    "phase": "Charge phase"
+  },
+  {
+    "stratagem_id": "000008111009",
+    "phase": "Charge phase"
   }
 ]
